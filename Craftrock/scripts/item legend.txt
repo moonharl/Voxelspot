@@ -1,0 +1,6 @@
+⚔ - melee
+➶ - ranged
+🗲 - charge
+🍖 - nutrition
+⛊ - armor
+⛛ - knockback resistance

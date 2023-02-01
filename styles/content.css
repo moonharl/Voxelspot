@@ -1,0 +1,295 @@
+:root{
+  --mainHue:225;
+  --mainSat:20%;
+  --mainFontColor:#bcc4d6;
+}
+::-webkit-scrollbar {
+  display:none;
+}
+*{
+  color:var(--mainFontColor);
+}
+
+body{
+  margin:0px;
+  min-height:100%;
+  display:flex;
+  flex-direction:column;
+  background-color:hsl(var(--mainHue), var(--mainSat), 10%);
+}
+header{
+  height:25vw;
+  width:100%;
+  overflow:hidden;
+  background-image:url('../images/icons/title.png');
+  background-size:50%;
+  background-repeat:no-repeat;
+  background-position:center;
+}
+footer{
+  height:200px;
+  width:100%;
+  background-image:linear-gradient(to top, black, black, transparent);
+}
+a{
+  text-decoration:none;
+}
+
+.downloadSection{
+  position:fixed;
+  top:25vw;
+  width:7.5vw;
+  height:15vw;
+  display:flex;
+  flex-direction:column;
+}
+.downloadSection > a{
+  image-rendering:pixelated;
+  background-size:contain;
+  background-repeat:no-repeat;
+  background-position:center;
+  height:inherit;
+  scale:0.8;
+}
+.downloadSection > a p{
+  margin-block:0px;
+  font-family:'Helvetica';
+  font-size:1.7vw;
+  font-weight:900;
+  translate:0% 30%;
+  opacity:0;
+  letter-spacing:1px;
+  transition:opacity 0.5s ease, translate 0.5s ease;
+}
+.downloadSection > a:hover p{
+  translate:110% 30%;
+  opacity:1;
+}
+
+.downloadRes{ background-image:url('../images/icons/download_res.gif'); }
+.downloadDat{ background-image:url('../images/icons/download_dat.gif'); }
+
+.contentContainer{
+  flex:1;
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  scale:0.8;
+}
+.pageHeader{
+  display:flex;
+  height:25vw;
+  width:100vw;
+}
+.pageIcon{
+  height:25vw;
+  width:25vw;
+  image-rendering:pixelated;
+  background-size:contain;
+  background-repeat:no-repeat;
+  background-position:center;
+  scale:0.8;
+}
+.pageTitle{
+  width:75vw;
+  display:flex;
+  align-self:center;
+  margin-block:0;
+  padding-left:5vw;
+  font-family:Helvetica;
+  font-weight:900;
+  letter-spacing:5px;
+  font-size:5vw;
+}
+.pageContent{
+  width:70vw;
+  height:auto;
+  border-radius:5px;
+  background-image:radial-gradient(at top left, hsl(var(--mainHue), var(--mainSat), 35%, 0.25), hsl(var(--mainHue), var(--mainSat), 35%, 0.25), hsl(var(--mainHue), var(--mainSat), 35%, 0.125));
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  padding:1.25%;
+}
+.pageLabel{
+  font-family:'Helvetica';
+  font-size:2vw;
+  letter-spacing:2px;
+  font-weight:900;
+  width:95%;
+  margin-block:0px;
+  margin:10px;
+}
+
+.contentDesc{
+  width:95%;
+  border-radius:5px;
+  background-image:radial-gradient(at top left, hsl(var(--mainHue), var(--mainSat), 35%, 0.5), hsl(var(--mainHue), var(--mainSat), 35%, 0.5), hsl(var(--mainHue), var(--mainSat), 35%, 0.25), transparent, transparent);
+  background-repeat:no-repeat;
+  background-size:200% 200%;
+  background-position:100%;
+  margin:2.5%;
+  margin-top:0px;
+  transition:background-position 0.5s ease;
+}
+.contentDesc:hover{
+  background-position:0;
+}
+.contentDescText{
+  margin-block:0px;
+  font-family:Monospace;
+  text-align:justify;
+  padding:10px;
+  line-height:1.9vw;
+  font-size:1.3vw;
+  height:100%;
+}
+.contentButtons{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:space-between;
+}
+.contentBtn{
+  height:12.5vw;
+  width:12.5vw;
+  display:flex;
+  align-items:center;
+  flex-direction:column;
+  scale:0.9;
+  border-radius:10px;
+  background-image:radial-gradient(at top left, hsl(var(--mainHue), var(--mainSat), 35%, 0.75), hsl(var(--mainHue), var(--mainSat), 35%, 0.75), hsl(var(--mainHue), var(--mainSat), 35%, 0.5), transparent, transparent);
+  background-repeat:no-repeat;
+  background-size:200% 200%;
+  background-position:100%;
+  transition:background-position 0.5s ease;
+}
+.contentBtn:hover{
+  background-position:0;
+}
+.contentImg{
+  image-rendering:pixelated;
+  background-size:contain;
+  background-repeat:no-repeat;
+  background-position:center;
+  scale:0.8;
+  width:75%;
+  height:75%;
+}
+.contentBtnText{
+  margin-block:0px;
+  font-family:'Helvetica';
+  font-weight:900;
+  letter-spacing:2px;
+  font-size:1.25vw;
+  width:100%;
+  height:25%;
+  text-align:center;
+}
+.craftingBtn{ background-image:url('../images/icons/crafting.png'); }
+.blocksBtn{ background-image:url('../images/icons/blocks.png'); }
+.itemsBtn{ background-image:url('../images/icons/items.png'); }
+.entitiesBtn{ background-image:url('../images/icons/entities.png'); }
+.structuresBtn{ background-image:url('../images/icons/structures.png'); }
+
+.masonrySec{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+}
+.masonrySec > img{
+  width:24%;
+  border-radius:5px;
+  margin:0.5%;
+  cursor:pointer;
+  user-select:none;
+  -webkit-user-drag:none;
+}
+.imgModal{
+  position:fixed;
+  z-index:5;
+  top:0;
+  left:0;
+  background-color:#000000c2;
+  height:100vh;
+  width:100vw;
+  display:none;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  cursor:pointer;
+}
+.imgModal > p{
+  font-family: 'Helvetica';
+  font-weight: 900;
+  letter-spacing: 2px;
+  font-size: 1.4em;
+}
+.imgModalImage{
+  width:80%;
+  height:80%;
+  object-fit:contain;
+}
+
+@media only screen and (max-width:1080px){
+  .contentContainer{
+    scale:0.95;
+  }
+}
+@media only screen and (max-width:720px){
+  .contentContainer{
+    scale:1;
+  }
+  .pageContent{
+    width:80vw;
+  }
+  .pageLabel{
+    font-size:4vw;
+  }
+  .contentDescText{
+    line-height:2.9vw;
+    font-size:2.3vw;
+  }
+  .contentBtnText{
+    letter-spacing:0.5px;
+  }
+  .downloadSection{
+    z-index:1;
+  }
+  .downloadSection > a p{
+    display:none;
+  }
+  .contentButtons > a{
+    width:20%;
+    aspect-ratio:1/1;
+    height:auto;
+  }
+}
+@media only screen and (max-width:580px){
+  .pageContent{
+    width:90vw;
+  }
+  .pageLabel{
+    font-size:7vw;
+  }
+  .contentDescText{
+    line-height:4.9vw;
+    font-size:4.3vw;
+  }
+  .downloadSection{
+    display:flex;
+    position:initial;
+    width:100vw;
+    height:20vw;
+    flex-direction:row;
+    justify-content:space-evenly;
+    align-items:center;
+  }
+  .downloadSection > a{
+    height:15vw;
+    width:15vw;
+    scale:1;
+  }
+  .contentBtnText{
+    font-size:6px;
+  }
+}
