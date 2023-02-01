@@ -1,0 +1,632 @@
+@keyframes cellHover{
+  from{ background-position:100%; }
+  to{ background-position:0%; }
+}
+:root{
+  --mainHue:150;
+  --mainSat:95%;
+  --mainLig:35%;
+}
+*::-webkit-scrollbar {
+  display:none;
+}
+*{
+  font-family:Monospace;
+}
+html{
+  height:100vh;
+}
+body{
+  margin:0px;
+  display:flex;
+}
+section{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+}
+input{
+  color:hsl(var(--mainHue), var(--mainSat), var(--mainLig));
+  width:65%;
+  margin:2.5vw;
+  height:50px;
+  padding-left:2vw;
+  border:5px solid hsl(var(--mainHue), var(--mainSat), var(--mainLig));
+  clip-path:polygon(1% 11%, 100% 0, 99% 90%, 0 100%);
+  background-color:transparent;
+}
+input::placeholder{
+  font-style:italic;
+  user-select:none;
+}
+input:focus{
+  outline:none;
+}
+article{
+  display:flex;
+  justify-content:center;
+  width:100%;
+}
+
+.collectionSection{
+  width:40vw;
+  height:100vh;
+  background-image:linear-gradient(to bottom, hsl(0, 0%, 5%), hsl(var(--mainHue), 10%, 25%));
+  overflow:hidden;
+}
+.displaySection{
+  width:60vw;
+  height:100vh;
+  background-image:linear-gradient(to bottom, hsl(var(--mainHue), 10%, 15%), hsl(0, 0%, 2.5%), hsl(var(--mainHue), 10%, 15%), hsl(var(--mainHue), 10%, 15%));
+}
+.cellContainer{
+  height:auto;
+  display:flex;
+  flex-wrap:wrap;
+  overflow:auto;
+}
+.cell{
+  isolation:isolate;
+  position:relative;
+  border:3px solid hsl(var(--mainHue), var(--mainSat), 25%);
+  font-size:0px;
+  cursor:pointer;
+  height:90px;
+  width:90px;
+  margin:10px;  
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background-image:linear-gradient(to bottom right, hsl(var(--mainHue), var(--mainSat), var(--mainLig), 0.5), hsl(var(--mainHue), 10%, 25%, 0.5));
+  clip-path:polygon(30% 0%, 100% 0%, 100% 100%, 0% 100%, 0% 30%);
+}
+.cell:hover{
+  border:3px solid hsl(var(--mainHue), var(--mainSat), var(--mainLig));
+}
+.cell::before{
+  content:'';
+  position:absolute;
+  height:90px;
+  width:90px;
+  background-image:linear-gradient(to bottom left, transparent, transparent, transparent, transparent, transparent, hsl(var(--mainHue), 100%, 80%, 0.5), transparent, transparent, transparent, transparent, transparent);
+  background-size:500% 500%;
+  background-position:100%;
+}
+.cell:hover::before{
+  animation-name:cellHover;
+  animation-duration:0.35s;
+}
+.cellImg{
+  background-repeat:no-repeat;
+  background-size:contain;
+  background-position:center;
+  height:85%;
+  width:85%;
+}
+.mobReference{
+  height:65%;
+}
+.mobReference > div{
+  height:100%
+}
+.mobImg{
+  border-radius:10px 10px 0px 0px;
+  width:58.2%;
+  background-color:hsl(0, 0%, 0%, 0.25);
+}
+.mobVariants{
+  width:70px;
+  border-radius:10px 10px 0px 0px;
+  background-color:hsl(0, 0%, 0%, 0.5);
+  overflow:auto;
+}
+.variantCell{
+  font-size:0px;
+  cursor:pointer;
+  width:90%;
+  aspect-ratio:1 / 1;
+  margin:0.3vw auto;
+  image-rendering:pixelated;
+  background-repeat:no-repeat;
+  background-size:contain;
+  background-position:center;
+}
+.mobStats{
+  width:35%;
+  display:flex;
+  flex-direction:column;
+}
+.numericStats{
+  height:50%;
+  display:flex;
+  overflow:auto;
+  flex-direction:column;
+  background-image:linear-gradient(to bottom, hsl(var(--mainHue), 10%, 20%), transparent);
+  border-radius:10px;
+  padding:10px;
+}
+.stat > pre{
+  color:hsl(var(--mainHue), var(--mainSat), 30%);
+  margin-block-start:0px;
+  white-space:pre-wrap;
+}
+.stat > h1{
+  color:hsl(var(--mainHue), var(--mainSat), var(--mainLig));
+  font-size:20px;
+  margin-block-start:5px;
+  margin-block-end:0px;
+}
+.lootStats{
+  background-image:linear-gradient(to bottom, hsl(var(--mainHue), 10%, 15%), transparent);
+  height:50%;
+  overflow:auto;
+  background-color:hsl(0, 0%, 0%, 0.25);
+  border-radius:10px 10px 0px 0px;
+}
+.lootStats > h1{
+  color:hsl(var(--mainHue), var(--mainSat), var(--mainLig));
+  background-image:linear-gradient(to bottom, hsl(var(--mainHue), 10%, 20%), hsl(var(--mainHue), 10%, 20%), transparent);
+  border-radius:10px 10px 0px 0px;
+  position:fixed;
+  font-size:20px;
+  margin-block-start:0px;
+  margin-block-end:0px;
+  padding:10px;
+  z-index:1;
+  width:100%;
+}
+.mobDescription{
+  height:25%;
+  background-image:linear-gradient(to bottom, hsl(var(--mainHue), 10%, 15%), hsl(0, 0%, 0%, 0.5));
+  border-radius:10px 10px 0px 0px;
+  justify-content:space-between;
+}
+.lootItem{
+  min-height:35px;
+  display:flex;
+  translate:0px 43px;
+  border-top:1px dashed hsl(var(--mainHue), 10%, 25%);
+  justify-content:space-between;
+}
+.lootItem:last-child{
+  border-bottom:1px dashed hsl(var(--mainHue), 10%, 25%);
+}
+.lootItem > p{
+  color:hsl(var(--mainHue), var(--mainSat), 30%);
+  margin-block:0px;
+  display:flex;
+  align-items:center;
+  padding:10px 0px;
+}
+.lootName{
+  margin-left:15px;
+  width:75%;
+}
+.lootCount{
+  width:25%;
+  margin-right:15px;
+  justify-content:flex-end;
+}
+.mobDescription > p{
+  background-image:linear-gradient(to bottom, hsl(var(--mainHue), 10%, 20%), transparent);
+  border-radius:10px;
+  color:hsl(var(--mainHue), var(--mainSat), 30%);
+  font-size:15px;
+  text-align:justify;
+  margin-block:0px;
+  overflow:auto;
+  padding:20px;
+  width:50%;
+}
+.buffStats{
+  width:50%;
+  height:100%;
+  display:flex;
+  border-radius:10px;
+  justify-content:space-evenly;
+}
+.buffStats > div{
+  display:flex;
+  background-image:linear-gradient(to bottom, hsl(var(--mainHue), 10%, 20%), transparent);
+  border-radius:10px;
+  flex-direction:column;
+  width:47.5%;
+  height:100%;
+  overflow:auto;
+}
+.buffStats > div h1{
+  color:hsl(var(--mainHue), var(--mainSat), var(--mainLig));
+  font-size:20px;
+  padding:10px;
+  margin-block:0px;
+}
+.buffStats > div p{
+  color:hsl(var(--mainHue), var(--mainSat), 30%);
+  font-size:15px;
+  border-top:1px dashed hsl(var(--mainHue), 10%, 25%);
+  padding:5px 10px;
+  margin-block:0px;
+}
+.buffStats > div p:last-child{
+  border-bottom:1px dashed hsl(var(--mainHue), 10%, 25%);
+}
+.weaknessesList{
+  filter:hue-rotate(225deg);
+}
+.immunitiesList{
+  filter:hue-rotate(125deg);
+}
+.collectionButton{
+  width:50px;
+  height:50px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  position:absolute;
+  left:40vw;
+  cursor:pointer;
+  font-size:40px;
+  color:hsl(var(--mainHue), var(--mainSat), 30%);
+  translate:10px 10px;
+  font-weight:bold;
+  background-image:linear-gradient(to bottom right, hsl(var(--mainHue), var(--mainSat), var(--mainLig), 0.5), hsl(var(--mainHue), 10%, 25%, 0.5));
+  clip-path:polygon(30% 0%, 100% 0%, 100% 100%, 0% 100%, 0% 30%);
+  border:3px solid hsl(var(--mainHue), var(--mainSat), 25%);
+}
+.homeButton{
+  width:50px;
+  height:50px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  position:absolute;
+  right:0;
+  cursor:pointer;
+  font-size:40px;
+  color:hsl(var(--mainHue), var(--mainSat), 30%);
+  translate:-10px 10px;
+  text-decoration:none;
+  font-weight:bold;
+  background-image:linear-gradient(to bottom right, hsl(var(--mainHue), var(--mainSat), var(--mainLig), 0.5), hsl(var(--mainHue), 10%, 25%, 0.5));
+  clip-path:polygon(30% 0%, 100% 0%, 100% 100%, 0% 100%, 0% 30%);
+  border:3px solid hsl(var(--mainHue), var(--mainSat), 25%);
+  filter:hue-rotate(125deg);
+}
+.collectionButton:hover, .homeButton:hover{
+  background-image:linear-gradient(to bottom right, hsl(var(--mainHue), var(--mainSat), var(--mainLig), 0.75), hsl(var(--mainHue), 10%, 25%, 0.75));
+}
+
+#mobTitle{
+  height:10%;
+  display:block;
+}
+#mobTitle > h1{
+  color:hsl(var(--mainHue), var(--mainSat), var(--mainLig));
+  margin-block:0px;
+  font-size:30px;
+  margin-top:10px;
+  text-align:center;
+}
+#mobIdentifier{
+  color:hsl(var(--mainHue), var(--mainSat), 30%);
+  margin-block:0px;
+  text-align:center;
+}
+#mobDisplay{
+  background-repeat:no-repeat;
+  background-size:contain;
+  background-position:center;
+  scale:0.9;
+  width:100%;
+  height:100%;
+}
+
+@media only screen and (min-width:1080px){
+  .collectionButton{
+    display:none;
+  }
+}
+@media only screen and (max-width:1080px){
+  .collectionButton{
+    display:flex;
+    left:0;
+  }
+  .collectionSection{
+    position:absolute;
+    z-index:2;
+    left:-40vw;
+    border-radius:0px 10px 10px 0px;
+  }
+  .displaySection{
+    width:100vw;
+  }
+}
+@media only screen and (max-width:580px){
+  .collectionSection{
+    position:fixed;
+    width:60vw;
+    z-index:2;
+    left:-60vw;
+    height:100vh;
+    background-image:linear-gradient(to bottom, hsl(0, 0%, 5%), hsl(var(--mainHue), 10%, 25%));
+    overflow:hidden;
+  }
+  .displaySection{
+    height: 100%;
+    background-image: linear-gradient(to bottom, hsl(var(--mainHue), 10%, 15%), hsl(var(--mainHue), 10%, 15%), hsl(var(--mainHue), 10%, 15%));
+  }
+  .cellContainer{
+    height:auto;
+    display:flex;
+    flex-wrap:wrap;
+    overflow:auto;
+  }
+  .cell{
+    isolation:isolate;
+    position:relative;
+    border:3px solid hsl(var(--mainHue), var(--mainSat), 25%);
+    font-size:0px;
+    cursor:pointer;
+    height:50px;
+    width:50px;
+    margin:10px;  
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-image:linear-gradient(to bottom right, hsl(var(--mainHue), var(--mainSat), var(--mainLig), 0.5), hsl(var(--mainHue), 10%, 25%, 0.5));
+    clip-path:polygon(30% 0%, 100% 0%, 100% 100%, 0% 100%, 0% 30%);
+  }
+  .cell:hover{
+    border:3px solid hsl(var(--mainHue), var(--mainSat), var(--mainLig));
+  }
+  .cell::before{
+    content:'';
+    position:absolute;
+    height:90px;
+    width:90px;
+    background-image:linear-gradient(to bottom left, transparent, transparent, transparent, transparent, transparent, hsl(var(--mainHue), 100%, 80%, 0.5), transparent, transparent, transparent, transparent, transparent);
+    background-size:500% 500%;
+    background-position:100%;
+  }
+  .cell:hover::before{
+    animation-name:cellHover;
+    animation-duration:0.35s;
+  }
+  .cellImg{
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position:center;
+    height:85%;
+    width:85%;
+  }
+  .mobReference{
+    height: auto;
+    display: block;
+  }
+  .mobReference > div{
+    height: 300px;
+  }
+  .mobImg{
+    border-radius: 10px 10px 0px 0px;
+    width: 100vw;
+    height: 100vw !important;
+    background-color:hsl(0, 0%, 0%, 0.25);
+  }
+  .mobVariants{
+    height: 70px !important;
+    width: auto;
+    border-radius:0px;
+    background-color:hsl(0, 0%, 0%, 0.5);
+    white-space: nowrap;
+    overflow-x: scroll;
+    overflow-y: hidden;
+  }
+  .variantCell{
+    font-size:0px;
+    cursor:pointer;
+    width: 70px;
+    scale:0.8;
+    translate:0px -12px;
+    aspect-ratio:1 / 1;
+    margin:0.3vw 0.3vw;
+    display: inline-block;
+    image-rendering:pixelated;
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position:center;
+  }
+  .mobStats{
+    width:100%;
+    display:flex;
+    flex-direction: row;
+  }
+  .numericStats{
+    height: 300px;
+    display:flex;
+    overflow:auto;
+    flex-direction:column;
+    background-image:linear-gradient(to bottom, hsl(var(--mainHue), 10%, 20%), transparent);
+    border-radius:10px;
+    padding:10px;
+    width: 50%;
+  }
+  .stat > pre{
+    color:hsl(var(--mainHue), var(--mainSat), 30%);
+    margin-block-start:0px;
+    white-space:pre-wrap;
+  }
+  .stat > h1{
+    color:hsl(var(--mainHue), var(--mainSat), var(--mainLig));
+    font-size:20px;
+    margin-block-start:5px;
+    margin-block-end:0px;
+  }
+  .lootStats{
+    height:300px;
+    width: 50%;
+    background-image:linear-gradient(to bottom, hsl(var(--mainHue), 10%, 15%), transparent);
+    overflow:auto;
+    background-color:hsl(0, 0%, 0%, 0.25);
+    border-radius:10px 10px 0px 0px;
+  }
+  .lootStats > h1{
+    color:hsl(var(--mainHue), var(--mainSat), var(--mainLig));
+    background-image:linear-gradient(to bottom, hsl(var(--mainHue), 10%, 20%), hsl(var(--mainHue), 10%, 20%), transparent);
+    border-radius:10px 10px 0px 0px;
+    font-size:20px;
+    margin-block-start:0px;
+    margin-block-end:0px;
+    padding:10px;
+    position: absolute;
+    z-index:1;
+    width: -webkit-fill-available;
+  }
+  .mobDescription{
+    height: 500px;
+    background-image:linear-gradient(to bottom, hsl(var(--mainHue), 10%, 15%), hsl(0, 0%, 0%, 0.5));
+    border-radius:10px 10px 0px 0px;
+    justify-content: unset;
+    flex-direction: column;
+  }
+  .lootItem{
+    min-height:35px;
+    display:flex;
+    translate: 0px 43px;
+    border-top:1px dashed hsl(var(--mainHue), 10%, 25%);
+    justify-content:space-between;
+  }
+  .lootItem:last-child{
+    border-bottom:1px dashed hsl(var(--mainHue), 10%, 25%);
+  }
+  .lootItem > p{
+    color:hsl(var(--mainHue), var(--mainSat), 30%);
+    margin-block:0px;
+    display:flex;
+    align-items:center;
+    padding:10px 0px;
+  }
+  .lootName{
+    margin-left:15px;
+    width:75%;
+  }
+  .lootCount{
+    width:25%;
+    margin-right:15px;
+    justify-content:flex-end;
+  }
+  .mobDescription > p{
+    background-image:linear-gradient(to bottom, hsl(var(--mainHue), 10%, 20%), transparent);
+    border-radius:10px;
+    color:hsl(var(--mainHue), var(--mainSat), 30%);
+    font-size:15px;
+    text-align:justify;
+    margin-block:0px;
+    overflow:auto;
+    padding:20px;
+    height: 230px;
+    padding-bottom: 0px;
+    width:auto;
+  }
+  .buffStats{
+    width:100%;
+    height: 250px;
+    display:flex;
+    justify-content:space-evenly;
+  }
+  .buffStats > div{
+    display:flex;
+    background-image:linear-gradient(to bottom, hsl(var(--mainHue), 10%, 20%), transparent);
+    border-radius:10px;
+    flex-direction:column;
+    width: 48.75%;
+    overflow:auto;
+    height: auto;
+  }
+  .buffStats > div h1{
+    color:hsl(var(--mainHue), var(--mainSat), var(--mainLig));
+    font-size:20px;
+    padding:10px;
+    margin-block:0px;
+  }
+  .buffStats > div p{
+    color:hsl(var(--mainHue), var(--mainSat), 30%);
+    font-size:15px;
+    border-top:1px dashed hsl(var(--mainHue), 10%, 25%);
+    padding:5px 10px;
+    margin-block:0px;
+  }
+  .buffStats > div p:last-child{
+    border-bottom:1px dashed hsl(var(--mainHue), 10%, 25%);
+  }
+  .weaknessesList{
+    filter:hue-rotate(225deg);
+  }
+  .immunitiesList{
+    filter:hue-rotate(125deg);
+  }
+  .collectionButton{
+    width:50px;
+    height:50px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    position:fixed;
+    z-index:1;
+    left:0;
+    cursor:pointer;
+    font-size:40px;
+    color:hsl(var(--mainHue), var(--mainSat), 30%);
+    translate:10px 10px;
+    font-weight:bold;
+    background-image:linear-gradient(to bottom right, hsl(var(--mainHue), var(--mainSat), var(--mainLig), 0.5), hsl(var(--mainHue), 10%, 25%, 0.5));
+    clip-path:polygon(30% 0%, 100% 0%, 100% 100%, 0% 100%, 0% 30%);
+    border:3px solid hsl(var(--mainHue), var(--mainSat), 25%);
+  }
+  .homeButton{
+    width:50px;
+    height:50px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    position:absolute;
+    right:0;
+    cursor:pointer;
+    font-size:40px;
+    color:hsl(var(--mainHue), var(--mainSat), 30%);
+    translate:-10px 10px;
+    text-decoration:none;
+    font-weight:bold;
+    background-image:linear-gradient(to bottom right, hsl(var(--mainHue), var(--mainSat), var(--mainLig), 0.5), hsl(var(--mainHue), 10%, 25%, 0.5));
+    clip-path:polygon(30% 0%, 100% 0%, 100% 100%, 0% 100%, 0% 30%);
+    border:3px solid hsl(var(--mainHue), var(--mainSat), 25%);
+    filter:hue-rotate(125deg);
+  }
+  .collectionButton:hover, .homeButton:hover{
+    background-image:linear-gradient(to bottom right, hsl(var(--mainHue), var(--mainSat), var(--mainLig), 0.75), hsl(var(--mainHue), 10%, 25%, 0.75));
+  }
+
+  #mobTitle{
+    height:10%;
+    display:block;
+  }
+  #mobTitle > h1{
+    color:hsl(var(--mainHue), var(--mainSat), var(--mainLig));
+    margin-block:0px;
+    font-size:5vw;
+    margin-top:10px;
+    text-align:center;
+  }
+  #mobIdentifier{
+    color:hsl(var(--mainHue), var(--mainSat), 30%);
+    margin-block:0px;
+    text-align:center;
+  }
+  #mobDisplay{
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position:center;
+    scale: 0.7;
+    width:100%;
+    height:100%;
+  }
+}

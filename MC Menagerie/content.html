@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>MC Menagerie</title>
+    <script src="scripts/addons_json.js" type="text/javascript" defer></script>
+    <script src="scripts/mobs_json.js" type="text/javascript" defer></script>
+    <script src="scripts/mobs.js" type="text/javascript" defer></script>
+    <script src="scripts/collection_menu.js" type="text/javascript" defer></script>
+    <script src="scripts/searchbar.js" type="text/javascript" defer></script>
+    <link rel="shortcut icon" href="../images/icons/favicon_mcmenagerie.png" type="image/x-icon">
+    <link rel="stylesheet" href="styles/content.css">
+  </head>
+	<body>
+    <section class="collectionSection">
+      <article>
+        <input type="text" placeholder="Search Contents..."/>
+      </article>
+      <article class="cellContainer">
+      </article>
+    </section>
+    <section class="displaySection">
+      <div class="collectionButton">&gt;</div>
+      <a href="index.html" class="homeButton">⌂</a>
+      <article id="mobTitle">
+        <h1 id="mobName">Mob's Name</h1>
+        <p id="mobIdentifier">namespace:mob_identifier<p>
+      </article>
+      <article class="mobReference">
+        <div class="mobImg">
+          <div id="mobDisplay">
+          </div>
+        </div>
+        <div class="mobVariants">
+        </div>
+        <div class="mobStats">
+          <div class="numericStats">
+            <div class="stat">
+              <h1>Health</h1>
+              <pre id="healthVal">Mob's HP</pre>
+            </div>
+            <div class="stat">
+              <h1>Damage</h1>
+              <pre id="damageVal">Mob's Damage</pre>
+            </div>
+            <div class="stat">
+              <h1>Spawn</h1>
+              <pre id="spawnVal">Mob's Spawn</pre>
+            </div>
+            <div class="stat">
+              <h1>Target</h1>
+              <pre id="targetVal">Mob's Targets</pre>
+            </div>
+          </div>
+          <div class="lootStats">
+            <h1>Loot</h1>
+            <div class="lootItem"><p class="lootName">Loot Name</p><p class="lootCount">Count</p></div>
+          </div>
+        </div>
+      </article>
+      <article class="mobDescription">
+        <p id="mainDesc">Mob Description</p>
+        <div class="buffStats">
+          <div class="weaknessesList">
+            <h1>Weaknesses</h1>
+            <p id="weaknessesVal" class="listStat">Mob's list of weaknesses</p>
+          </div>
+          <div class="immunitiesList">
+            <h1>Immunities</h1>
+            <p id="immunitiesVal" class="listStat">Mob's list of immunities</p>
+          </div>
+        </div>
+      </article>
+    </section>
+	</body>
+</html>

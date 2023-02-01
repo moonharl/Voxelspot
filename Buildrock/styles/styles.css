@@ -1,0 +1,276 @@
+:root{
+  --lightFont:#00cc87;
+  --darkFont:#00967b;
+  --scrollStatus:none;
+}
+::-webkit-scrollbar {
+  width:5px;
+  display:var(--scrollStatus);
+}
+::-webkit-scrollbar-track {
+  background:#ffffff14;
+  border-radius:20px;
+}
+::-webkit-scrollbar-thumb {
+  background:#ffffff2b;
+  border-radius:20px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background:#ffffff66;
+}
+html{
+  overflow-x:hidden;
+}
+body{
+  margin:0px;
+  background-image:linear-gradient(to bottom, #374854, #181c20eb), url('../../images/icons/background_buildrock.png');
+  height:100vh;
+  width:100vw;
+  display:flex;
+  flex-direction:column;
+  background-attachment:fixed;
+}
+nav{
+  width:100vw;
+  height:auto;
+  background-color:white;
+  position:fixed;
+  z-index:1;
+}
+nav > *{
+  user-select:none;
+  -webkit-user-drag:none;
+}
+nav > div{
+  height:40px;
+  aspect-ratio:1/1;
+  float:right;
+  margin:4px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+nav > div img{
+  object-fit:contain;
+  height:90%;
+}
+nav a{
+  text-decoration:none;
+  color:black;
+  float:left;
+  padding:15px;
+  font-family:'Trebuchet MS';
+  font-weight:bold;
+  min-width:10vw;
+  text-align:center;
+  background-image:linear-gradient(to top, #374854, transparent);
+  background-repeat:no-repeat;
+  background-position-y:50px;
+  transition:background-position-y 0.125s ease;
+}
+nav p{
+  text-decoration:none;
+  margin-block:0px;
+  color:black;
+  float:right;
+  padding:15px;
+  font-family:'Trebuchet MS';
+  font-weight:bold;
+  min-width:10vw;
+  text-align:center;
+  background-image:linear-gradient(to top, #374854, transparent);
+  background-repeat:no-repeat;
+  background-position-y:50px;
+  transition:background-position-y 0.125s ease;
+}
+nav a:hover{
+  background-position-y:0px;
+}
+container{
+  translate:0px 47px;
+  display:flex;
+  justify-content:center;
+  flex-wrap:wrap;
+}
+
+.masonry{
+  width:250px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  overflow:auto;
+}
+.masonryTile{
+  width:95%;
+  height:auto;
+  margin:10px 0px;
+  border-radius:10px;
+  display:flex;
+  flex-direction:column;
+  background-image:radial-gradient(at top left, #ffffff54, #283136cf);
+  box-shadow:#00000075 4px 4px 5px;
+  cursor:pointer;
+  transition:box-shadow 0.125s ease, translate 0.125s ease;
+}
+.masonryTile:hover, .addonCells > a:hover{
+  background-size:120% 120%;
+  box-shadow:#00000047 9px 9px 15px;
+  translate:-5px -5px;
+}
+.masonryTile > img{
+  max-width:90%;
+  margin:auto;
+  margin-top:15px;
+  -webkit-user-drag:none;
+}
+.masonryTile > h1{
+  font-size:1.25em;
+  color:var(--lightFont);
+  font-family:'Trebuchet MS';
+  font-weight:bold;
+  margin-block:0px;
+  margin-top:10px;
+  margin-bottom:5px;
+  padding:20px;
+  padding-bottom:0px;
+}
+.masonryTile > p{
+  color:var(--darkFont);
+  font-family:Monospace;
+  margin-block:0px;
+  padding:20px;
+  padding-top:0px;
+  font-weight:bold;
+  font-size:1.15em;
+  word-break:break-all;
+}
+
+.modalWrapper{
+  position:fixed;
+  top:0;
+  left:0;
+  width:100vw;
+  height:100vh;
+  background-color:#000000ad;
+  z-index:2;
+  display:none;
+  justify-content:center;
+  align-items:center;
+}
+.modalMain{
+  width:60vw;
+  height:80vh;
+  background-image:radial-gradient(at top left, #374854, #181c20);
+  border-radius:10px;
+  box-shadow:#00000075 4px 4px 6px;
+  display:flex;
+  flex-direction:column;
+}
+.modalBtn{
+  color:var(--lightFont);
+  scale:-1 1;
+  height:65px;
+  width:65px;
+  font-size:3em;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  margin:10px;
+  cursor:pointer;
+  user-select:none;
+  transition:scale 0.125s ease;
+}
+.modalBtn:hover{
+  scale:-1.25 1.25;
+}
+.modalExit{
+  float:left;
+}
+.modalDownload{
+  float:right;
+}
+.modalInfo{
+  width:100%;
+  height:calc(100% - 85px);
+  display:flex;
+}
+.modalInfo > div{
+  height:100%;
+  width:50%;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+content{
+  width:85%;
+  height:85%;
+  overflow:auto;
+}
+content > h1, content > h2{
+  color:var(--lightFont);
+  font-family:'Trebuchet MS';
+  margin-block:0px;
+}
+content > h2{
+  margin-top:20px;
+}
+content > pre{
+  color:var(--darkFont);
+  white-space:pre-wrap;
+  word-break:break-all;
+  margin-block:0px;
+  margin:5px 25px;
+  font-size:1.25em;
+  font-weight:bold;
+}
+.modalImg{
+  width:80%;
+  height:80%;
+  object-fit:contain;
+  -webkit-user-drag:none;
+}
+#modalDescription{
+  text-align:justify;
+}
+
+.addonCells{
+  translate:0px 10vh;
+  width:80%;
+  margin:0 auto;
+  text-align:center;
+}
+.addonCells > *{
+  user-select:none;
+}
+.addonCells > a{
+  width:240px;
+  height:60px;
+  display:inline-block;
+  background-image:radial-gradient(at top left, #ffffff30, #00000030);
+  border-radius:10px;
+  box-shadow:#00000075 4px 4px 5px;
+  margin:10px;
+  text-decoration:none;
+  transition:box-shadow 0.125s ease, translate 0.125s ease;
+  color:var(--lightFont);
+  font-family:'Trebuchet MS';
+}
+.addonCells > a span{
+  display:flex;
+  width:100%;
+  height:100%;
+  justify-content:center;
+  align-items:center;
+  overflow:hidden;
+}
+
+@media only screen and (max-width:610px){
+  .masonry{
+    flex:50%;
+  }
+}
+@media only screen and (max-width:720px){
+  .modalMain{
+    width:90vw;
+  }
+}
