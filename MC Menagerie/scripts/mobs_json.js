@@ -2702,7 +2702,7 @@ const totalcarnagelist = [
     "namespace": "raigen",
     "name": "Screamer",
     "health": [
-			"♡ "
+			"♡ 200"
 		],
     "damage": [
 			"⚔ 6 - Basic",
@@ -2994,7 +2994,7 @@ const totalcarnagelist = [
 			"⚔ 32 + 16 per level (160 max) Roar"
 		],
 		"variants": 1,
-    "desc": "Sizes vary; attributes depend on level. Each level is advanced after getting killed. Each level adds 4 more damage, 1 more scale, and 1000 more health. Scale is capped at 10. Takes heavy damage from the void. Passively immune to everything when eating and roaring. Attacks are modular. Strategic measures are required; All attacks cause destruction and fatal after 8.",
+    "desc": "Sizes vary; attributes depend on level. Each level is advanced after getting killed. Each level adds 4 more damage, 1 more scale, and 1000 more health (capped at level 100). Scale is capped at 10. Takes heavy damage from the void. Passively immune to everything when eating and roaring. Attacks are modular. Strategic measures are required; All attacks cause destruction and fatal after 8.",
     "weaknesses": [
       "Guillotine",
       "Void"
