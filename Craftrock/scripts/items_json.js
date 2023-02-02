@@ -6306,7 +6306,7 @@ const total_carnage_items = [
 		],
 		"durability": "12",
 		"group": "Items",
-		"description": "Used to scarft Cerulean Daggers."
+		"description": "Used to craft Cerulean Daggers."
 	},
 	{
 		"name": "Cerulean Dagger",
@@ -6320,12 +6320,11 @@ const total_carnage_items = [
 		"armor": [],
 		"nutrition": "",
 		"damage": [
-			"⚔ 6 - Melee",
-			"🗲 15 - Charge"
+			"⚔ 6 - Melee"
 		],
 		"durability": "430",
 		"group": "Equipment",
-		"description": "It will produce AOE damage when released after being fully charged while dual wielding with the same weapon."
+		"description": "Hitting entities will inflict slowness 5 for 1 second to the entity hit and provide speed 5 for 1 second to the user."
 	},
 	{
 		"name": "Charred Spinal Cord",

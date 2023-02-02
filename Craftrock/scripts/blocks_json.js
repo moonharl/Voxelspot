@@ -3836,7 +3836,7 @@ const total_carnage_blocks = [
 		"light": 0,
     "orientation": "cardinal",
     "group": "Nature",
-    "description": "Breaking it will spawn Vastatos."
+    "description": "Interacting with it using a Fossil Piece will summon Vastatos."
   },
   {
     "name": "Petrol Puddle",
