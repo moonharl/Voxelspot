@@ -156,10 +156,11 @@ for(var i = 0; i < recipe.length; i++){
           cell[2].classList.add('empty');
           cell[3].classList.add('empty');
           cell[4].classList.add('empty');
-          cell[5].style.backgroundImage = "url('../images/crafting/" + recipe[i].base + ".png')";
-          cell[6].classList.add(types[4]);
+          cell[5].style.backgroundImage = "url('../images/crafting/" + recipe[i].template + ".png')";
+          cell[6].style.backgroundImage = "url('../images/crafting/" + recipe[i].base + ".png')";
           cell[7].style.backgroundImage = "url('../images/crafting/" + recipe[i].modder + ".png')";
-          cell[8].classList.add(types[0]);
+          cell[7].classList.remove('process');
+          cell[8].classList.add('process', types[4]);
           cell[9].style.backgroundImage = "url('../images/crafting/" + recipe[i].result + ".png')";
           cell[10].classList.add('empty');
           cell[11].classList.add('empty');
