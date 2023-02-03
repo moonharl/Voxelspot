@@ -9700,4 +9700,785 @@ const total_carnage = [
  		"result": "netherite_crusader_boots",
  		"amount": 1
  	},
+	{
+ 		"type": "crafting",
+    "genre": "items",
+    "pattern": [
+      "drained_lantern_of_vengeance", "soul_sand", "",
+  		"", "", "",
+  		"", "", ""
+    ],
+ 		"result": "lantern_of_vengeance",
+ 		"amount": 1
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "andesite",
+ 		"result": "large_jagged_andesite_spire",
+ 		"amount": 1
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "basalt",
+ 		"result": "large_jagged_basalt_spire",
+ 		"amount": 1
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "blackstone",
+ 		"result": "large_jagged_blackstone_spire",
+ 		"amount": 1
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "calcite",
+ 		"result": "large_jagged_calcite_spire",
+ 		"amount": 1
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "coarse_dirt",
+ 		"result": "large_jagged_coarse_dirt_spire",
+ 		"amount": 1
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "crimson_nylium",
+ 		"result": "large_jagged_crimson_nylium_spire",
+ 		"amount": 1
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "deepslate",
+ 		"result": "large_jagged_deepslate_spire",
+ 		"amount": 1
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "diorite",
+ 		"result": "large_jagged_diorite_spire",
+ 		"amount": 1
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "dirt",
+ 		"result": "large_jagged_dirt_spire",
+ 		"amount": 1
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "dripstone_block",
+ 		"result": "large_jagged_dripstone_spire",
+ 		"amount": 1
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "end_stone",
+ 		"result": "large_jagged_end_stone_spire",
+ 		"amount": 1
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "granite",
+ 		"result": "large_jagged_granite_spire",
+ 		"amount": 1
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "grass",
+ 		"result": "large_jagged_grass_spire",
+ 		"amount": 1
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "mycelium",
+ 		"result": "large_jagged_mycelium_spire",
+ 		"amount": 1
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "netherrack",
+ 		"result": "large_jagged_netherrack_spire",
+ 		"amount": 1
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "obsidian",
+ 		"result": "large_jagged_obsidian_spire",
+ 		"amount": 1
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "podzol",
+ 		"result": "large_jagged_podzol_spire",
+ 		"amount": 1
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "red_sandstone",
+ 		"result": "large_jagged_red_sandstone_spire",
+ 		"amount": 1
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "sandstone",
+ 		"result": "large_jagged_sandstone_spire",
+ 		"amount": 1
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "stone",
+ 		"result": "large_jagged_stone_spire",
+ 		"amount": 1
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "tuff",
+ 		"result": "large_jagged_tuff_spire",
+ 		"amount": 1
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "warped_nylium",
+ 		"result": "large_jagged_warped_nylium_spire",
+ 		"amount": 1
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "andesite",
+ 		"result": "medium_jagged_andesite_spire",
+ 		"amount": 2
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "basalt",
+ 		"result": "medium_jagged_basalt_spire",
+ 		"amount": 2
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "blackstone",
+ 		"result": "medium_jagged_blackstone_spire",
+ 		"amount": 2
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "calcite",
+ 		"result": "medium_jagged_calcite_spire",
+ 		"amount": 2
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "coarse_dirt",
+ 		"result": "medium_jagged_coarse_dirt_spire",
+ 		"amount": 2
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "crimson_nylium",
+ 		"result": "medium_jagged_crimson_nylium_spire",
+ 		"amount": 2
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "deepslate",
+ 		"result": "medium_jagged_deepslate_spire",
+ 		"amount": 2
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "diorite",
+ 		"result": "medium_jagged_diorite_spire",
+ 		"amount": 2
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "dirt",
+ 		"result": "medium_jagged_dirt_spire",
+ 		"amount": 2
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "dripstone_block",
+ 		"result": "medium_jagged_dripstone_spire",
+ 		"amount": 2
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "end_stone",
+ 		"result": "medium_jagged_end_stone_spire",
+ 		"amount": 2
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "granite",
+ 		"result": "medium_jagged_granite_spire",
+ 		"amount": 2
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "grass",
+ 		"result": "medium_jagged_grass_spire",
+ 		"amount": 2
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "mycelium",
+ 		"result": "medium_jagged_mycelium_spire",
+ 		"amount": 2
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "netherrack",
+ 		"result": "medium_jagged_netherrack_spire",
+ 		"amount": 2
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "obsidian",
+ 		"result": "medium_jagged_obsidian_spire",
+ 		"amount": 2
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "podzol",
+ 		"result": "medium_jagged_podzol_spire",
+ 		"amount": 2
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "red_sandstone",
+ 		"result": "medium_jagged_red_sandstone_spire",
+ 		"amount": 2
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "sandstone",
+ 		"result": "medium_jagged_sandstone_spire",
+ 		"amount": 2
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "stone",
+ 		"result": "medium_jagged_stone_spire",
+ 		"amount": 2
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "tuff",
+ 		"result": "medium_jagged_tuff_spire",
+ 		"amount": 2
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "warped_nylium",
+ 		"result": "medium_jagged_warped_nylium_spire",
+ 		"amount": 2
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "andesite",
+ 		"result": "small_jagged_andesite_spire",
+ 		"amount": 4
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "basalt",
+ 		"result": "small_jagged_basalt_spire",
+ 		"amount": 4
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "blackstone",
+ 		"result": "small_jagged_blackstone_spire",
+ 		"amount": 4
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "calcite",
+ 		"result": "small_jagged_calcite_spire",
+ 		"amount": 4
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "coarse_dirt",
+ 		"result": "small_jagged_coarse_dirt_spire",
+ 		"amount": 4
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "crimson_nylium",
+ 		"result": "small_jagged_crimson_nylium_spire",
+ 		"amount": 4
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "deepslate",
+ 		"result": "small_jagged_deepslate_spire",
+ 		"amount": 4
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "diorite",
+ 		"result": "small_jagged_diorite_spire",
+ 		"amount": 4
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "dirt",
+ 		"result": "small_jagged_dirt_spire",
+ 		"amount": 4
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "dripstone_block",
+ 		"result": "small_jagged_dripstone_spire",
+ 		"amount": 4
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "end_stone",
+ 		"result": "small_jagged_end_stone_spire",
+ 		"amount": 4
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "granite",
+ 		"result": "small_jagged_granite_spire",
+ 		"amount": 4
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "grass",
+ 		"result": "small_jagged_grass_spire",
+ 		"amount": 4
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "mycelium",
+ 		"result": "small_jagged_mycelium_spire",
+ 		"amount": 4
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "netherrack",
+ 		"result": "small_jagged_netherrack_spire",
+ 		"amount": 4
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "obsidian",
+ 		"result": "small_jagged_obsidian_spire",
+ 		"amount": 4
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "podzol",
+ 		"result": "small_jagged_podzol_spire",
+ 		"amount": 4
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "red_sandstone",
+ 		"result": "small_jagged_red_sandstone_spire",
+ 		"amount": 4
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "sandstone",
+ 		"result": "small_jagged_sandstone_spire",
+ 		"amount": 4
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "stone",
+ 		"result": "small_jagged_stone_spire",
+ 		"amount": 4
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "tuff",
+ 		"result": "small_jagged_tuff_spire",
+ 		"amount": 4
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "warped_nylium",
+ 		"result": "small_jagged_warped_nylium_spire",
+ 		"amount": 4
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "andesite",
+ 		"result": "lower_jagged_andesite_spire_tip",
+ 		"amount": 8
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "basalt",
+ 		"result": "lower_jagged_basalt_spire_tip",
+ 		"amount": 8
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "blackstone",
+ 		"result": "lower_jagged_blackstone_spire_tip",
+ 		"amount": 8
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "calcite",
+ 		"result": "lower_jagged_calcite_spire_tip",
+ 		"amount": 8
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "coarse_dirt",
+ 		"result": "lower_jagged_coarse_dirt_spire_tip",
+ 		"amount": 8
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "crimson_nylium",
+ 		"result": "lower_jagged_crimson_nylium_spire_tip",
+ 		"amount": 8
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "deepslate",
+ 		"result": "lower_jagged_deepslate_spire_tip",
+ 		"amount": 8
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "diorite",
+ 		"result": "lower_jagged_diorite_spire_tip",
+ 		"amount": 8
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "dirt",
+ 		"result": "lower_jagged_dirt_spire_tip",
+ 		"amount": 8
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "dripstone_block",
+ 		"result": "lower_jagged_dripstone_spire_tip",
+ 		"amount": 8
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "end_stone",
+ 		"result": "lower_jagged_end_stone_spire_tip",
+ 		"amount": 8
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "granite",
+ 		"result": "lower_jagged_granite_spire_tip",
+ 		"amount": 8
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "grass",
+ 		"result": "lower_jagged_grass_spire_tip",
+ 		"amount": 8
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "mycelium",
+ 		"result": "lower_jagged_mycelium_spire_tip",
+ 		"amount": 8
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "netherrack",
+ 		"result": "lower_jagged_netherrack_spire_tip",
+ 		"amount": 8
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "obsidian",
+ 		"result": "lower_jagged_obsidian_spire_tip",
+ 		"amount": 8
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "podzol",
+ 		"result": "lower_jagged_podzol_spire_tip",
+ 		"amount": 8
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "red_sandstone",
+ 		"result": "lower_jagged_red_sandstone_spire_tip",
+ 		"amount": 8
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "sandstone",
+ 		"result": "lower_jagged_sandstone_spire_tip",
+ 		"amount": 8
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "stone",
+ 		"result": "lower_jagged_stone_spire_tip",
+ 		"amount": 8
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "tuff",
+ 		"result": "lower_jagged_tuff_spire_tip",
+ 		"amount": 8
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "warped_nylium",
+ 		"result": "lower_jagged_warped_nylium_spire_tip",
+ 		"amount": 8
+ 	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "andesite",
+ 		"result": "upper_jagged_andesite_spire_tip",
+ 		"amount": 16
+	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "basalt",
+ 		"result": "upper_jagged_basalt_spire_tip",
+ 		"amount": 16
+	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "blackstone",
+ 		"result": "upper_jagged_blackstone_spire_tip",
+ 		"amount": 16
+	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "calcite",
+ 		"result": "upper_jagged_calcite_spire_tip",
+ 		"amount": 16
+	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "coarse_dirt",
+ 		"result": "upper_jagged_coarse_dirt_spire_tip",
+ 		"amount": 16
+	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "crimson_nylium",
+ 		"result": "upper_jagged_crimson_nylium_spire_tip",
+ 		"amount": 16
+	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "deepslate",
+ 		"result": "upper_jagged_deepslate_spire_tip",
+ 		"amount": 16
+	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "diorite",
+ 		"result": "upper_jagged_diorite_spire_tip",
+ 		"amount": 16
+	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "dirt",
+ 		"result": "upper_jagged_dirt_spire_tip",
+ 		"amount": 16
+	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "dripstone_block",
+ 		"result": "upper_jagged_dripstone_spire_tip",
+ 		"amount": 16
+	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "end_stone",
+ 		"result": "upper_jagged_end_stone_spire_tip",
+ 		"amount": 16
+	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "granite",
+ 		"result": "upper_jagged_granite_spire_tip",
+ 		"amount": 16
+	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "grass",
+ 		"result": "upper_jagged_grass_spire_tip",
+ 		"amount": 16
+	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "mycelium",
+ 		"result": "upper_jagged_mycelium_spire_tip",
+ 		"amount": 16
+	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "netherrack",
+ 		"result": "upper_jagged_netherrack_spire_tip",
+ 		"amount": 16
+	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "obsidian",
+ 		"result": "upper_jagged_obsidian_spire_tip",
+ 		"amount": 16
+	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "podzol",
+ 		"result": "upper_jagged_podzol_spire_tip",
+ 		"amount": 16
+	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "red_sandstone",
+ 		"result": "upper_jagged_red_sandstone_spire_tip",
+ 		"amount": 16
+	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "sandstone",
+ 		"result": "upper_jagged_sandstone_spire_tip",
+ 		"amount": 16
+	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "stone",
+ 		"result": "upper_jagged_stone_spire_tip",
+ 		"amount": 16
+	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "tuff",
+ 		"result": "upper_jagged_tuff_spire_tip",
+ 		"amount": 16
+	},
+	{
+ 		"type": "stonecutting",
+ 		"genre": "blocks",
+ 		"input": "warped_nylium",
+ 		"result": "upper_jagged_warped_nylium_spire_tip",
+ 		"amount": 16
+	}
 ];
