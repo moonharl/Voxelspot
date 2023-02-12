@@ -925,7 +925,7 @@ const addonsList = [
   {
     "dat_link": "https://direct-link.net/131911/useful-sides-dat",
 		"res_link": "https://direct-link.net/131911/useful-sides-res",
-		"gallery": 0,
+		"gallery": 3,
     "title": "Useful Sides",
 		"desc": "This adds new decorative blocks that uses unnoticed textures from the vanilla game. Most blocks in the game have more than one texture so this addon will provide those textures as plain blocks.",
     "full_desc": "Blocks have their own sides and it's a shame that we can't use them the way we want to all the time, so this add-on gives you that possibility! This add-on adds more than 200 blocks that uses almost every vanilla texture.",
