@@ -47,7 +47,7 @@ const menuList = [
   { "title": "Tipped Swords", "blocks": true, "items": true },
   { "title": "Topiary", "blocks": true, "items": true },
   { "title": "Total Carnage", "blocks": true, "items": true },
-  { "title": "Useful Sides", "blocks": true, "items": true },
+  { "title": "Useful Sides", "blocks": true, "items": false },
   { "title": "Useful Staffs", "blocks": true, "items": true },
   { "title": "Vanilla Figurines", "blocks": true, "items": true },
   { "title": "Villajars", "blocks": true, "items": true },
