@@ -16,7 +16,7 @@ const total_carnage_items = [
 		],
 		"durability": "1061",
 		"group": "Equipment",
-		"description": "Using it fires fires a projectile dealing twice the melee damage."
+		"description": "Using it fires a projectile dealing twice the melee damage."
 	},
 	{
 		"name": "Aceroid Shovel",
@@ -35,7 +35,7 @@ const total_carnage_items = [
 		],
 		"durability": "1061",
 		"group": "Equipment",
-		"description": "Using it fires fires a projectile dealing twice the melee damage. It can be used as a normal shovel, it can be used to create paths."
+		"description": "Using it fires a projectile dealing twice the melee damage. It can be used as a normal shovel, it can be used to create paths."
 	},
 	{
 		"name": "Aceroid Axe",
@@ -54,7 +54,7 @@ const total_carnage_items = [
 		],
 		"durability": "1061",
 		"group": "Equipment",
-		"description": "Using it fires fires a projectile dealing twice the melee damage. It can be used as a normal axe, it can be used to strip wood."
+		"description": "Using it fires a projectile dealing twice the melee damage. It can be used as a normal axe, it can be used to strip wood."
 	},
 	{
 		"name": "Aceroid Pickaxe",
@@ -73,7 +73,7 @@ const total_carnage_items = [
 		],
 		"durability": "1061",
 		"group": "Equipment",
-		"description": "Using it fires fires a projectile dealing twice the melee damage."
+		"description": "Using it fires a projectile dealing twice the melee damage."
 	},
 	{
 		"name": "Aceroid Hoe",
@@ -92,7 +92,7 @@ const total_carnage_items = [
 		],
 		"durability": "1061",
 		"group": "Equipment",
-		"description": "Using it fires fires a projectile dealing twice the melee damage. It can be used as a normal hoe, it can be used to till dirt."
+		"description": "Using it fires a projectile dealing twice the melee damage. It can be used as a normal hoe, it can be used to till dirt."
 	},
 	{
 		"name": "Aceroid Broadsword",
@@ -112,7 +112,7 @@ const total_carnage_items = [
 		],
 		"durability": "1061",
 		"group": "Equipment",
-		"description": "Using it fires fires a projectile dealing twice the melee damage. It will produce AOE damage when released after being fully charged."
+		"description": "Using it fires a projectile dealing twice the melee damage. It will produce AOE damage when released after being fully charged."
 	},
 	{
 		"name": "Aceroid Claymore",
@@ -132,7 +132,7 @@ const total_carnage_items = [
 		],
 		"durability": "1061",
 		"group": "Equipment",
-		"description": "Using it fires fires a projectile dealing twice the melee damage. It will produce AOE damage when released after being fully charged."
+		"description": "Using it fires a projectile dealing twice the melee damage. It will produce AOE damage when released after being fully charged."
 	},
 	{
 		"name": "Aceroid Halberd",
@@ -152,7 +152,7 @@ const total_carnage_items = [
 		],
 		"durability": "1061",
 		"group": "Equipment",
-		"description": "Using it fires fires a projectile dealing twice the melee damage. It will produce AOE damage when released after being fully charged."
+		"description": "Using it fires a projectile dealing twice the melee damage. It will produce AOE damage when released after being fully charged."
 	},
 	{
 		"name": "Aceroid Mace",
@@ -171,7 +171,7 @@ const total_carnage_items = [
 		],
 		"durability": "1061",
 		"group": "Equipment",
-		"description": "Using it fires fires a projectile dealing twice the melee damage. It will inflict weakness for 5 seconds and slowness 10 for 5 seconds."
+		"description": "Using it fires a projectile dealing twice the melee damage. It will inflict weakness for 5 seconds and slowness 10 for 5 seconds."
 	},
 	{
 		"name": "Aceroid Swordspear",
@@ -191,7 +191,7 @@ const total_carnage_items = [
 		],
 		"durability": "1061",
 		"group": "Equipment",
-		"description": "Using it fires fires a projectile dealing twice the melee damage. It will produce AOE damage when released after being fully charged."
+		"description": "Using it fires a projectile dealing twice the melee damage. It will produce AOE damage when released after being fully charged."
 	},
 	{
 		"name": "Aceroid Waraxe",
@@ -211,7 +211,7 @@ const total_carnage_items = [
 		],
 		"durability": "1061",
 		"group": "Equipment",
-		"description": "Using it fires fires a projectile dealing twice the melee damage. It will produce AOE damage when released after being fully charged."
+		"description": "Using it fires a projectile dealing twice the melee damage. It will produce AOE damage when released after being fully charged."
 	},
 	{
 		"name": "Aceroid Helmet",
@@ -14431,4 +14431,135 @@ const total_carnage_items = [
     "group": "Items",
     "description": "Can be used to summon its mob by holding in your offhand and while using a dreadnought feather."
   }
+]
+
+const ambience_items = [
+	{
+		"name": "Birch Forest Cicadas",
+		"model": false,
+		"sub": "",
+		"max_stack": 1,
+		"off_hand": false,
+		"explodeable": true,
+		"flammable": true,
+		"cooldown": 5,
+		"armor": [],
+		"nutrition": "",
+		"damage": [],
+		"durability": "",
+		"group": "Equipment",
+		"description": "Using will play its audio and a small particle will appear on top of the user indicating that they played the sound."
+	},
+	{
+		"name": "Cave Rocks",
+		"model": false,
+		"sub": "",
+		"max_stack": 1,
+		"off_hand": false,
+		"explodeable": true,
+		"flammable": true,
+		"cooldown": 5,
+		"armor": [],
+		"nutrition": "",
+		"damage": [],
+		"durability": "",
+		"group": "Equipment",
+		"description": "Using will play its audio and a small particle will appear on top of the user indicating that they played the sound."
+	},
+	{
+		"name": "Forest Birds",
+		"model": false,
+		"sub": "",
+		"max_stack": 1,
+		"off_hand": false,
+		"explodeable": true,
+		"flammable": true,
+		"cooldown": 5,
+		"armor": [],
+		"nutrition": "",
+		"damage": [],
+		"durability": "",
+		"group": "Equipment",
+		"description": "Using will play its audio and a small particle will appear on top of the user indicating that they played the sound."
+	},
+	{
+		"name": "Mountain Winds",
+		"model": false,
+		"sub": "",
+		"max_stack": 1,
+		"off_hand": false,
+		"explodeable": true,
+		"flammable": true,
+		"cooldown": 5,
+		"armor": [],
+		"nutrition": "",
+		"damage": [],
+		"durability": "",
+		"group": "Equipment",
+		"description": "Using will play its audio and a small particle will appear on top of the user indicating that they played the sound."
+	},
+	{
+		"name": "Nether Voices",
+		"model": false,
+		"sub": "",
+		"max_stack": 1,
+		"off_hand": false,
+		"explodeable": true,
+		"flammable": true,
+		"cooldown": 5,
+		"armor": [],
+		"nutrition": "",
+		"damage": [],
+		"durability": "",
+		"group": "Equipment",
+		"description": "Using will play its audio and a small particle will appear on top of the user indicating that they played the sound."
+	},
+	{
+		"name": "Night Crickets",
+		"model": false,
+		"sub": "",
+		"max_stack": 1,
+		"off_hand": false,
+		"explodeable": true,
+		"flammable": true,
+		"cooldown": 5,
+		"armor": [],
+		"nutrition": "",
+		"damage": [],
+		"durability": "",
+		"group": "Equipment",
+		"description": "Using will play its audio and a small particle will appear on top of the user indicating that they played the sound."
+	},
+	{
+		"name": "Taiga Owl",
+		"model": false,
+		"sub": "",
+		"max_stack": 1,
+		"off_hand": false,
+		"explodeable": true,
+		"flammable": true,
+		"cooldown": 5,
+		"armor": [],
+		"nutrition": "",
+		"damage": [],
+		"durability": "",
+		"group": "Equipment",
+		"description": "Using will play its audio and a small particle will appear on top of the user indicating that they played the sound."
+	},
+	{
+		"name": "Taiga Wolf",
+		"model": false,
+		"sub": "",
+		"max_stack": 1,
+		"off_hand": false,
+		"explodeable": true,
+		"flammable": true,
+		"cooldown": 5,
+		"armor": [],
+		"nutrition": "",
+		"damage": [],
+		"durability": "",
+		"group": "Equipment",
+		"description": "Using will play its audio and a small particle will appear on top of the user indicating that they played the sound."
+	}
 ]

@@ -1,14 +1,14 @@
 const addonsList = [
   {
-    "dat_link": "link",
-		"res_link": "link",
-		"gallery": 0,
+    "dat_link": "https://link-hub.net/131911/ambience-dat",
+		"res_link": "https://link-target.net/131911/ambience-res",
+		"gallery": 4,
     "title": "Ambience",
 		"desc": "This adds entities that emit sound. They spawn around the world and provides a simple immmersion addition",
-    "full_desc": "Testing the full description lol",
+    "full_desc": "This might be a small add-on but it adds aesthetics around 2 major biomes. The Forest (all variants except the tundra) has bird chirping noises now, especially the roofed forest. The Nether has creepy choir-like noises to give the player a more ominous feel.",
 		"crafting": false,
 		"blocks": false,
-		"items": false,
+		"items": true,
 		"entities": false,
 		"structures": false
   },

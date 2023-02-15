@@ -23,7 +23,7 @@ for(var i = 0; i < menu.length; i++){
     title.textContent = `Craftrock | ${menu[i].title}`;
     header.textContent = `HOME < ${menu[i].title.toUpperCase()}`;
     var contentSection = document.querySelector('.contentSection');
-    if(menu[i].blocks){
+    if(menu[i].blocks && menu[i].crafting){
       var newA = document.createElement('a');
       newA.href = `recipes.html?r=${link}_Skcolb`;
       newA.classList.add('pageLink', 'forBlocks');
@@ -39,7 +39,7 @@ for(var i = 0; i < menu.length; i++){
       fBlocks.appendChild(newDiv);
       fBlocks.appendChild(newP);
     }
-    if(menu[i].items){
+    if(menu[i].items && menu[i].crafting){
       var newA = document.createElement('a');
       newA.href = `recipes.html?r=${link}_Smeti`;
       newA.classList.add('pageLink', 'forItems');
