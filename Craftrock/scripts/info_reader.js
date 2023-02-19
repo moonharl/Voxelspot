@@ -154,7 +154,7 @@ function setValues(clicked){
   else{//do items values
     document.getElementById('name').textContent = `Name: ${clicked.sub} ${clicked.name}`;
     document.getElementById('maxstack').textContent = `Max Stack: ${clicked.max_stack}`;
-    document.getElementById('offhand').textContent = `Offhand: ${clicked.offhand ? 'Yes' : 'No'}`;
+    document.getElementById('offhand').textContent = `Offhand: ${clicked.off_hand ? 'Yes' : 'No'}`;
     document.getElementById('explodeable').textContent = `Explodeable: ${clicked.explodeable ? 'Yes' : 'No'}`;
     document.getElementById('flammable').textContent = `Flammable: ${clicked.flammable ? 'Yes' : 'No'}`;
     document.getElementById('cooldown').textContent = `Cooldown: ${clicked.cooldown}`;
