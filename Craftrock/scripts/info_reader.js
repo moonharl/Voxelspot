@@ -35,6 +35,10 @@ if(addon.search('Skcolb') > 0){//do blocks
   newCategory.id = 'category';
   newCategory.textContent = 'Category: ';
   it.appendChild(newCategory);
+  var newLoot = document.createElement('pre');
+  newLoot.id = 'loot';
+  newLoot.textContent = 'Loot: ';
+  it.appendChild(newLoot);
   var newOrientation = document.createElement('pre');
   newOrientation.id = 'orientation';
   newOrientation.textContent = 'Orientation: ';
@@ -139,6 +143,7 @@ function setValues(clicked){
   if(addon.search('Skcolb') > 0){//do blocks values
     document.getElementById('name').textContent = `Name: ${clicked.name}`;
     document.getElementById('category').textContent = `Category: ${clicked.group}`;
+    document.getElementById('loot').textContent = `Loot: ${clicked.special_loot.length == 0 ? clicked.name : clicked.special_loot.length == 1 ? clicked.special_loot : '\n' + clicked.special_loot.toLocaleString().replaceAll(',', '\n')}`;
     document.getElementById('orientation').textContent = `Orientation: ${clicked.orientation}`;
     document.getElementById('flammable').textContent = `Flammable: ${clicked.flammable ? 'Yes' : 'No'}`;
     document.getElementById('light').textContent = `Light: ${clicked.light}`;
@@ -156,8 +161,8 @@ function setValues(clicked){
     document.getElementById('nutrition').textContent = `Nutrition: ${clicked.nutrition == '' ? 'None' : clicked.nutrition}`;
     document.getElementById('durability').textContent = `Durability: ${clicked.durability == '' ? 'None' : clicked.durability}`;
     document.getElementById('category').textContent = `Category: ${clicked.group}`;
-    document.getElementById('damage').textContent = `Damage: ${clicked.damage.length == 0 ? 'None' : '\n' + clicked.damage.toLocaleString().replaceAll(',', '\n')}`;
-    document.getElementById('armor').textContent = `Armor: ${clicked.armor.length == 0 ? 'None' : '\n' + clicked.armor.toLocaleString().replaceAll(',', '\n')}`;
+    document.getElementById('damage').textContent = `Damage: ${clicked.damage.length == 0 ? 'None' : clicked.damage.length == 1 ? clicked.damage : '\n' + clicked.damage.toLocaleString().replaceAll(',', '\n')}`;
+    document.getElementById('armor').textContent = `Armor: ${clicked.armor.length == 0 ? 'None' : clicked.armor.length == 1 ? clicked.armor : '\n' + clicked.armor.toLocaleString().replaceAll(',', '\n')}`;
     document.getElementById('description').textContent = `Description: ${clicked.description}`;
   }
   

@@ -77,25 +77,25 @@ const addonsList = [
 		// "entities": false,
 		// "structures": false
   // },
+  {
+    "dat_link": "https://link-target.net/131911/biome-box-dat",
+		"res_link": "https://link-center.net/131911/biome-box-res",
+		"gallery": 2,
+    "title": "Biome Box",
+		"desc": "Adds naturally spawning loot boxes filled with items related to the biomes they spawn in. Though they're an uncommon occurance, they may hold overpowered loot.",
+    "full_desc": "Beginning to imagine to find the resources being spoonfed to the player in the form of a loot box found in their native biomes; that's the idea of the Biome Box add-on. This add-on will spawn rare boxes throughout the world filled with content native to the biome they spawn in. With so much as 22 boxes to find scattered around every major biome, seeing all of them in your base might cna be a big flex to make proving you travelled across those biomes. The boxes aren't structures and can be treated as entities, they don't have a fixed coordinate to spawn on so living in a biome may spawn more.",
+		"crafting": false,
+		"blocks": true,
+		"items": false,
+		"entities": false,
+		"structures": false
+  },
   // {
     // "dat_link": "link",
 		// "res_link": "link",
 		// "gallery": 0,
     // "title": "Biome Project: 0",
 		// "desc": "The first contender of the BIOME series adds loads of custom mobs. It will help populate certain empty biomes with new content.",
-    // "full_desc": "Testing the full description lol",
-		// "crafting": false,
-		// "blocks": false,
-		// "items": false,
-		// "entities": false,
-		// "structures": false
-  // },
-  // {
-    // "dat_link": "link",
-		// "res_link": "link",
-		// "gallery": 0,
-    // "title": "Biome Box",
-		// "desc": "Adds naturally spawning loot boxes filled with items related to the biomes they spawn in. Though they're an uncommon occurance, they may hold overpowered loot.",
     // "full_desc": "Testing the full description lol",
 		// "crafting": false,
 		// "blocks": false,

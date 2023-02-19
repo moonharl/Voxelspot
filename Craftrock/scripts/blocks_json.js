@@ -2,6 +2,7 @@ const total_carnage_blocks = [
   {
     "name": "Aceroid Block",
 		"model": false,
+		"special_loot": [],
     "mining_time": 7.5,
     "explosion_resistance": 6,
     "flammable": false,
@@ -13,6 +14,7 @@ const total_carnage_blocks = [
   {
     "name": "Amalgam Shiv",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": false,
@@ -24,6 +26,7 @@ const total_carnage_blocks = [
   {
     "name": "Ancient Bone Block",
 		"model": false,
+		"special_loot": [],
     "mining_time": 5.0,
     "explosion_resistance": 35,
     "flammable": false,
@@ -35,6 +38,7 @@ const total_carnage_blocks = [
   {
     "name": "Arcane Powder Block",
 		"model": false,
+		"special_loot": [],
     "mining_time": 25,
     "explosion_resistance": 6,
     "flammable": false,
@@ -46,6 +50,7 @@ const total_carnage_blocks = [
   {
     "name": "Ashen Soil",
 		"model": false,
+		"special_loot": [],
     "mining_time": 1.25,
     "explosion_resistance": 3,
     "flammable": false,
@@ -63,6 +68,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Nature",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -74,6 +80,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -85,6 +92,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -96,6 +104,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -107,6 +116,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -118,6 +128,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -129,6 +140,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -140,6 +152,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -151,6 +164,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -162,6 +176,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -173,6 +188,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -184,6 +200,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -195,6 +212,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -206,6 +224,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -217,6 +236,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -228,6 +248,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -239,6 +260,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -250,6 +272,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -261,6 +284,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -272,6 +296,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -283,6 +308,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -294,6 +320,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -305,6 +332,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -316,6 +344,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -327,6 +356,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -338,6 +368,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -349,6 +380,7 @@ const total_carnage_blocks = [
 		"orientation": "log",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -360,6 +392,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -371,11 +404,13 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
     "name": "Atmortem",
 		"model": false,
+		"special_loot": [],
     "mining_time": 15,
     "explosion_resistance": 6,
     "flammable": false,
@@ -387,6 +422,7 @@ const total_carnage_blocks = [
   {
     "name": "Atmortic Geyser",
 		"model": false,
+		"special_loot": [],
     "mining_time": 0.2,
     "explosion_resistance": 6,
     "flammable": false,
@@ -398,6 +434,7 @@ const total_carnage_blocks = [
   {
     "name": "Battery Tomb",
 		"model": false,
+		"special_loot": [],
     "mining_time": 5,
     "explosion_resistance": 4,
     "flammable": false,
@@ -409,6 +446,7 @@ const total_carnage_blocks = [
   {
     "name": "Big Torch",
 		"model": false,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": false,
@@ -426,6 +464,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip."
 	},
   {
@@ -437,6 +476,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip."
 	},
   {
@@ -448,6 +488,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip."
 	},
   {
@@ -459,6 +500,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip."
 	},
   {
@@ -470,6 +512,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip."
 	},
   {
@@ -481,6 +524,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip."
 	},
   {
@@ -492,6 +536,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip."
 	},
   {
@@ -503,6 +548,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip."
 	},
   {
@@ -514,6 +560,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip."
 	},
   {
@@ -525,6 +572,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip."
 	},
   {
@@ -536,6 +584,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip."
 	},
   {
@@ -547,6 +596,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip."
 	},
   {
@@ -558,6 +608,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip."
 	},
   {
@@ -569,6 +620,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip."
 	},
   {
@@ -580,6 +632,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip."
 	},
   {
@@ -591,6 +644,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip."
 	},
   {
@@ -602,6 +656,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "It will make grass slippery if placed on top. It will remove the slipperiness if broken from grass."
 	},
   {
@@ -613,6 +668,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "It will make grass slippery if placed on top. It will remove the slipperiness if broken from grass."
 	},
   {
@@ -624,6 +680,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "It will make grass slippery if placed on top. It will remove the slipperiness if broken from grass."
 	},
   {
@@ -635,6 +692,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "It will make grass slippery if placed on top. It will remove the slipperiness if broken from grass."
 	},
   {
@@ -646,6 +704,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "It will make grass slippery if placed on top. It will remove the slipperiness if broken from grass."
 	},
   {
@@ -657,6 +716,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "It will make grass slippery if placed on top. It will remove the slipperiness if broken from grass."
 	},
   {
@@ -668,6 +728,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "It will make grass slippery if placed on top. It will remove the slipperiness if broken from grass."
 	},
   {
@@ -679,6 +740,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "It will make grass slippery if placed on top. It will remove the slipperiness if broken from grass."
 	},
   {
@@ -690,6 +752,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "It will make grass slippery if placed on top. It will remove the slipperiness if broken from grass."
 	},
   {
@@ -701,6 +764,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "It will make grass slippery if placed on top. It will remove the slipperiness if broken from grass."
 	},
   {
@@ -712,6 +776,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "It will make grass slippery if placed on top. It will remove the slipperiness if broken from grass."
 	},
   {
@@ -723,6 +788,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "It will make grass slippery if placed on top. It will remove the slipperiness if broken from grass."
 	},
   {
@@ -734,6 +800,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "It will make grass slippery if placed on top. It will remove the slipperiness if broken from grass."
 	},
   {
@@ -745,6 +812,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "It will make grass slippery if placed on top. It will remove the slipperiness if broken from grass."
 	},
   {
@@ -756,6 +824,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "It will make grass slippery if placed on top. It will remove the slipperiness if broken from grass."
 	},
   {
@@ -767,6 +836,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "It will make grass slippery if placed on top. It will remove the slipperiness if broken from grass."
 	},
   {
@@ -778,6 +848,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Nature",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip. It can also be obtained from placing a Mucus Puddle on top of Grass."
 	},
   {
@@ -789,6 +860,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Nature",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip. It can also be obtained from placing a Mucus Puddle on top of Grass."
 	},
   {
@@ -800,6 +872,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Nature",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip. It can also be obtained from placing a Mucus Puddle on top of Grass."
 	},
   {
@@ -811,6 +884,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Nature",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip. It can also be obtained from placing a Mucus Puddle on top of Grass."
 	},
   {
@@ -822,6 +896,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Nature",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip. It can also be obtained from placing a Mucus Puddle on top of Grass."
 	},
   {
@@ -833,6 +908,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Nature",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip. It can also be obtained from placing a Mucus Puddle on top of Grass."
 	},
   {
@@ -844,6 +920,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Nature",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip. It can also be obtained from placing a Mucus Puddle on top of Grass."
 	},
   {
@@ -855,6 +932,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Nature",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip. It can also be obtained from placing a Mucus Puddle on top of Grass."
 	},
   {
@@ -866,6 +944,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Nature",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip. It can also be obtained from placing a Mucus Puddle on top of Grass."
 	},
   {
@@ -877,6 +956,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Nature",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip. It can also be obtained from placing a Mucus Puddle on top of Grass."
 	},
   {
@@ -888,6 +968,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Nature",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip. It can also be obtained from placing a Mucus Puddle on top of Grass."
 	},
   {
@@ -899,6 +980,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Nature",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip. It can also be obtained from placing a Mucus Puddle on top of Grass."
 	},
   {
@@ -910,6 +992,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Nature",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip. It can also be obtained from placing a Mucus Puddle on top of Grass."
 	},
   {
@@ -921,6 +1004,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Nature",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip. It can also be obtained from placing a Mucus Puddle on top of Grass."
 	},
   {
@@ -932,6 +1016,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Nature",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip. It can also be obtained from placing a Mucus Puddle on top of Grass."
 	},
   {
@@ -943,6 +1028,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Nature",
 		"model": false,
+		"special_loot": [],
 		"description": "Walking on top of it will make you slip. It can also be obtained from placing a Mucus Puddle on top of Grass."
 	},
   {
@@ -954,6 +1040,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "A decorative block made from Shellbit Shells."
 	},
   {
@@ -965,6 +1052,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "A decorative block made from Shellbit Shells."
 	},
   {
@@ -976,6 +1064,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "A decorative block made from Shellbit Shells."
 	},
   {
@@ -987,6 +1076,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "A decorative block made from Shellbit Shells."
 	},
   {
@@ -998,6 +1088,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "A decorative block made from Shellbit Shells."
 	},
   {
@@ -1009,6 +1100,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "A decorative block made from Shellbit Shells."
 	},
   {
@@ -1020,6 +1112,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "A decorative block made from Shellbit Shells."
 	},
   {
@@ -1031,6 +1124,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "A decorative block made from Shellbit Shells."
 	},
   {
@@ -1042,6 +1136,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "A decorative block made from Shellbit Shells."
 	},
   {
@@ -1053,6 +1148,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "A decorative block made from Shellbit Shells."
 	},
   {
@@ -1064,6 +1160,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "A decorative block made from Shellbit Shells."
 	},
   {
@@ -1075,6 +1172,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "A decorative block made from Shellbit Shells."
 	},
   {
@@ -1086,6 +1184,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "A decorative block made from Shellbit Shells."
 	},
   {
@@ -1097,6 +1196,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "A decorative block made from Shellbit Shells."
 	},
   {
@@ -1108,6 +1208,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "A decorative block made from Shellbit Shells."
 	},
   {
@@ -1119,6 +1220,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "A decorative block made from Shellbit Shells."
 	},
   {
@@ -1130,6 +1232,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Nature",
 		"model": true,
+		"special_loot": [],
 		"description": "A decorative plant obtained from shearing Tusoch."
 	},
   {
@@ -1141,6 +1244,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Nature",
 		"model": true,
+		"special_loot": [],
 		"description": "A decorative plant obtained from shearing Tusoch."
 	},
   {
@@ -1152,6 +1256,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Nature",
 		"model": true,
+		"special_loot": [],
 		"description": "A decorative plant obtained from shearing Tusoch."
 	},
   {
@@ -1163,6 +1268,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Nature",
 		"model": true,
+		"special_loot": [],
 		"description": "A decorative plant obtained from shearing Tusoch."
 	},
   {
@@ -1174,6 +1280,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Nature",
 		"model": true,
+		"special_loot": [],
 		"description": "A decorative plant obtained from shearing Tusoch."
 	},
   {
@@ -1185,6 +1292,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Nature",
 		"model": true,
+		"special_loot": [],
 		"description": "A decorative plant obtained from shearing Tusoch."
 	},
   {
@@ -1196,6 +1304,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Nature",
 		"model": true,
+		"special_loot": [],
 		"description": "A decorative plant obtained from shearing Tusoch."
 	},
   {
@@ -1207,6 +1316,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Nature",
 		"model": true,
+		"special_loot": [],
 		"description": "A decorative plant obtained from shearing Tusoch."
 	},
   {
@@ -1218,6 +1328,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Nature",
 		"model": true,
+		"special_loot": [],
 		"description": "A decorative plant obtained from shearing Tusoch."
 	},
   {
@@ -1229,6 +1340,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Nature",
 		"model": true,
+		"special_loot": [],
 		"description": "A decorative plant obtained from shearing Tusoch."
 	},
   {
@@ -1240,6 +1352,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Nature",
 		"model": true,
+		"special_loot": [],
 		"description": "A decorative plant obtained from shearing Tusoch."
 	},
   {
@@ -1251,6 +1364,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Nature",
 		"model": true,
+		"special_loot": [],
 		"description": "A decorative plant obtained from shearing Tusoch."
 	},
   {
@@ -1262,6 +1376,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Nature",
 		"model": true,
+		"special_loot": [],
 		"description": "A decorative plant obtained from shearing Tusoch."
 	},
   {
@@ -1273,6 +1388,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Nature",
 		"model": true,
+		"special_loot": [],
 		"description": "A decorative plant obtained from shearing Tusoch."
 	},
   {
@@ -1284,6 +1400,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Nature",
 		"model": true,
+		"special_loot": [],
 		"description": "A decorative plant obtained from shearing Tusoch."
 	},
   {
@@ -1295,6 +1412,7 @@ const total_carnage_blocks = [
 		"orientation": "up",
 		"group": "Nature",
 		"model": true,
+		"special_loot": [],
 		"description": "A decorative plant obtained from shearing Tusoch."
 	},
   {
@@ -1306,6 +1424,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Stepping on it will inflict damage."
 	},
   {
@@ -1317,6 +1436,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Stepping on it will inflict damage."
 	},
   {
@@ -1328,6 +1448,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Stepping on it will inflict damage."
 	},
   {
@@ -1339,6 +1460,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Stepping on it will inflict damage."
 	},
   {
@@ -1350,6 +1472,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Stepping on it will inflict damage."
 	},
   {
@@ -1361,6 +1484,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Stepping on it will inflict damage."
 	},
   {
@@ -1372,6 +1496,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Stepping on it will inflict damage."
 	},
   {
@@ -1383,6 +1508,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Stepping on it will inflict damage."
 	},
   {
@@ -1394,6 +1520,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Stepping on it will inflict damage."
 	},
   {
@@ -1405,6 +1532,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Stepping on it will inflict damage."
 	},
   {
@@ -1416,6 +1544,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Stepping on it will inflict damage."
 	},
   {
@@ -1427,6 +1556,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Stepping on it will inflict damage."
 	},
   {
@@ -1438,6 +1568,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Stepping on it will inflict damage."
 	},
   {
@@ -1449,6 +1580,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Stepping on it will inflict damage."
 	},
   {
@@ -1460,6 +1592,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Stepping on it will inflict damage."
 	},
   {
@@ -1471,11 +1604,13 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "Stepping on it will inflict damage."
 	},
   {
     "name": "Black Snow Block",
 		"model": false,
+		"special_loot": [],
     "mining_time": 2.0,
     "explosion_resistance": 0.5,
     "flammable": false,
@@ -1487,6 +1622,7 @@ const total_carnage_blocks = [
   {
     "name": "Bleeding Spore",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": true,
@@ -1498,6 +1634,7 @@ const total_carnage_blocks = [
   {
     "name": "Blood Vessels",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": true,
@@ -1509,6 +1646,7 @@ const total_carnage_blocks = [
   {
     "name": "Bloodiron Block",
 		"model": false,
+		"special_loot": [],
     "mining_time": 7.5,
     "explosion_resistance": 6,
     "flammable": false,
@@ -1520,6 +1658,7 @@ const total_carnage_blocks = [
   {
     "name": "Bogreeds",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": true,
@@ -1531,6 +1670,7 @@ const total_carnage_blocks = [
   {
     "name": "Venom Lily",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": true,
@@ -1542,6 +1682,7 @@ const total_carnage_blocks = [
   {
     "name": "Carved Moon Pumpkin",
 		"model": false,
+		"special_loot": [],
     "mining_time": 1.5,
     "explosion_resistance": 3,
     "flammable": true,
@@ -1553,6 +1694,7 @@ const total_carnage_blocks = [
   {
     "name": "Cerebral Block",
 		"model": false,
+		"special_loot": [],
     "mining_time": 2.5,
     "explosion_resistance": 6,
     "flammable": false,
@@ -1564,6 +1706,7 @@ const total_carnage_blocks = [
   {
     "name": "Charred Bone Block",
 		"model": false,
+		"special_loot": [],
     "mining_time": 5,
     "explosion_resistance": 35,
     "flammable": false,
@@ -1575,6 +1718,7 @@ const total_carnage_blocks = [
   {
     "name": "Charred Spinal Cord",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": false,
@@ -1592,6 +1736,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Nature",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -1603,6 +1748,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -1614,6 +1760,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -1625,6 +1772,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -1636,6 +1784,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -1647,6 +1796,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -1658,6 +1808,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -1669,6 +1820,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -1680,6 +1832,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -1691,6 +1844,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -1702,6 +1856,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -1713,6 +1868,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -1724,6 +1880,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -1735,6 +1892,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -1746,6 +1904,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -1757,6 +1916,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -1768,6 +1928,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -1779,6 +1940,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -1790,6 +1952,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -1801,6 +1964,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -1812,6 +1976,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -1823,6 +1988,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -1834,6 +2000,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -1845,6 +2012,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -1856,6 +2024,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -1867,6 +2036,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -1878,6 +2048,7 @@ const total_carnage_blocks = [
 		"orientation": "log",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -1889,6 +2060,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -1900,11 +2072,13 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
     "name": "Copper Mesh",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": false,
@@ -1916,6 +2090,7 @@ const total_carnage_blocks = [
   {
     "name": "Exposed Copper Mesh",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": false,
@@ -1927,6 +2102,7 @@ const total_carnage_blocks = [
   {
     "name": "Weathered Copper Mesh",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": false,
@@ -1938,6 +2114,7 @@ const total_carnage_blocks = [
   {
     "name": "Oxidized Copper Mesh",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": false,
@@ -1949,6 +2126,7 @@ const total_carnage_blocks = [
   {
     "name": "Short Hair Strands",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": true,
@@ -1960,6 +2138,7 @@ const total_carnage_blocks = [
   {
     "name": "Long Hair Strands",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": true,
@@ -1971,6 +2150,7 @@ const total_carnage_blocks = [
   {
     "name": "Curly Hair Strands",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": true,
@@ -1982,6 +2162,7 @@ const total_carnage_blocks = [
   {
     "name": "Dead Agave",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": true,
@@ -1993,6 +2174,7 @@ const total_carnage_blocks = [
   {
     "name": "Marsh Sprouts",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": true,
@@ -2004,6 +2186,7 @@ const total_carnage_blocks = [
   {
     "name": "Dense Marsh Sprouts",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": true,
@@ -2015,6 +2198,7 @@ const total_carnage_blocks = [
   {
     "name": "Dermis",
 		"model": false,
+		"special_loot": [],
     "mining_time": 1.25,
     "explosion_resistance": 3,
     "flammable": false,
@@ -2026,6 +2210,7 @@ const total_carnage_blocks = [
   {
     "name": "Dry Brush",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": true,
@@ -2037,6 +2222,7 @@ const total_carnage_blocks = [
   {
     "name": "Dry Shrub",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": true,
@@ -2048,6 +2234,7 @@ const total_carnage_blocks = [
   {
     "name": "Dune Sand",
 		"model": false,
+		"special_loot": [],
     "mining_time": 3.0,
     "explosion_resistance": 0.5,
     "flammable": false,
@@ -2059,6 +2246,7 @@ const total_carnage_blocks = [
   {
     "name": "Durasteel Block",
 		"model": false,
+		"special_loot": [],
     "mining_time": 30,
     "explosion_resistance": 3600,
     "flammable": false,
@@ -2070,6 +2258,7 @@ const total_carnage_blocks = [
   {
     "name": "Embedded Discarded Sword",
 		"model": false,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 3600,
     "flammable": false,
@@ -2081,6 +2270,7 @@ const total_carnage_blocks = [
   {
     "name": "Ember Powder Block",
 		"model": false,
+		"special_loot": [],
     "mining_time": 3,
     "explosion_resistance": 0.5,
     "flammable": false,
@@ -2098,6 +2288,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Nature",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2109,6 +2300,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2120,6 +2312,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2131,6 +2324,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2142,6 +2336,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2153,6 +2348,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2164,6 +2360,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2175,6 +2372,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2186,6 +2384,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2197,6 +2396,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2208,6 +2408,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2219,6 +2420,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2230,6 +2432,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2241,6 +2444,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2252,6 +2456,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2263,6 +2468,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2274,6 +2480,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2285,6 +2492,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2296,6 +2504,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2307,6 +2516,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2318,6 +2528,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2329,6 +2540,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2340,6 +2552,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2351,6 +2564,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2362,6 +2576,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2373,6 +2588,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2384,6 +2600,7 @@ const total_carnage_blocks = [
 		"orientation": "log",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2395,6 +2612,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2406,11 +2624,13 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
     "name": "Flaring Tulip",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": false,
@@ -2422,6 +2642,7 @@ const total_carnage_blocks = [
   {
     "name": "Flaring Soul Tulip",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": false,
@@ -2433,6 +2654,7 @@ const total_carnage_blocks = [
   {
     "name": "Flesh Block",
 		"model": false,
+		"special_loot": [],
     "mining_time": 2.5,
     "explosion_resistance": 6.0,
     "flammable": false,
@@ -2444,6 +2666,7 @@ const total_carnage_blocks = [
   {
     "name": "Fountain of Saturation",
 		"model": false,
+		"special_loot": [],
     "mining_time": 0.5,
     "explosion_resistance": 3.0,
     "flammable": false,
@@ -2461,6 +2684,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Nature",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2472,6 +2696,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2483,6 +2708,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2494,6 +2720,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2505,6 +2732,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2516,6 +2744,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2527,6 +2756,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2538,6 +2768,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2549,6 +2780,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2560,6 +2792,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2571,6 +2804,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2582,6 +2816,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2593,6 +2828,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2604,6 +2840,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2615,6 +2852,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2626,6 +2864,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2637,6 +2876,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2648,6 +2888,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2659,6 +2900,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2670,6 +2912,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2681,6 +2924,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2692,6 +2936,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2703,6 +2948,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2714,6 +2960,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2725,6 +2972,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2736,6 +2984,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2747,6 +2996,7 @@ const total_carnage_blocks = [
 		"orientation": "log",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2758,6 +3008,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2769,11 +3020,13 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
     "name": "Gloomy Sludge Block",
 		"model": false,
+		"special_loot": [],
     "mining_time": 0.2,
     "explosion_resistance": 6.0,
     "flammable": false,
@@ -2785,6 +3038,7 @@ const total_carnage_blocks = [
   {
     "name": "Gloomy Sludge Carpet",
 		"model": false,
+		"special_loot": [],
     "mining_time": 0.2,
     "explosion_resistance": 6.0,
     "flammable": false,
@@ -2796,6 +3050,7 @@ const total_carnage_blocks = [
   {
     "name": "Gold Disc",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": false,
@@ -2807,6 +3062,7 @@ const total_carnage_blocks = [
   {
     "name": "Gravitite Treasure",
 		"model": false,
+		"special_loot": [],
     "mining_time": 2.0,
     "explosion_resistance": 100000,
     "flammable": false,
@@ -2818,6 +3074,7 @@ const total_carnage_blocks = [
   {
     "name": "Heart of Tyranny",
 		"model": false,
+		"special_loot": [],
     "mining_time": 0.5,
     "explosion_resistance": 180,
     "flammable": false,
@@ -2829,6 +3086,7 @@ const total_carnage_blocks = [
   {
     "name": "Iron Slag",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": false,
@@ -2840,6 +3098,7 @@ const total_carnage_blocks = [
   {
     "name": "Iron Slurry Block",
 		"model": false,
+		"special_loot": [],
     "mining_time": 0.2,
     "explosion_resistance": 6.0,
     "flammable": false,
@@ -2857,6 +3116,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Nature",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2868,6 +3128,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2879,6 +3140,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2890,6 +3152,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2901,6 +3164,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2912,6 +3176,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2923,6 +3188,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2934,6 +3200,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2945,6 +3212,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2956,6 +3224,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2967,6 +3236,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2978,6 +3248,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -2989,6 +3260,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3000,6 +3272,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3011,6 +3284,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3022,6 +3296,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3033,6 +3308,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3044,6 +3320,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3055,6 +3332,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3066,6 +3344,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3077,6 +3356,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3088,6 +3368,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3099,6 +3380,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3110,6 +3392,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3121,6 +3404,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3132,6 +3416,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3143,6 +3428,7 @@ const total_carnage_blocks = [
 		"orientation": "log",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3154,6 +3440,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3165,11 +3452,13 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
     "name": "Pile of Loot",
 		"model": false,
+		"special_loot": [],
     "mining_time": 2.0,
     "explosion_resistance": 3.0,
     "flammable": false,
@@ -3181,6 +3470,7 @@ const total_carnage_blocks = [
   {
     "name": "Big Pile of Loot",
 		"model": false,
+		"special_loot": [],
     "mining_time": 1.5,
     "explosion_resistance": 3.0,
     "flammable": false,
@@ -3192,6 +3482,7 @@ const total_carnage_blocks = [
   {
     "name": "Small Pile of Loot",
 		"model": false,
+		"special_loot": [],
     "mining_time": 1.0,
     "explosion_resistance": 3.0,
     "flammable": false,
@@ -3203,6 +3494,7 @@ const total_carnage_blocks = [
   {
     "name": "Lumenji Cap Skin",
 		"model": false,
+		"special_loot": [],
     "mining_time": 0.5,
     "explosion_resistance": 1.0,
     "flammable": true,
@@ -3214,6 +3506,7 @@ const total_carnage_blocks = [
   {
     "name": "Lumenji",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": true,
@@ -3225,6 +3518,7 @@ const total_carnage_blocks = [
   {
     "name": "Lumenji Stem",
 		"model": false,
+		"special_loot": [],
     "mining_time": 0.5,
     "explosion_resistance": 1.0,
     "flammable": true,
@@ -3236,6 +3530,7 @@ const total_carnage_blocks = [
   {
     "name": "Luminous Bone Block",
 		"model": false,
+		"special_loot": [],
     "mining_time": 5.0,
     "explosion_resistance": 35,
     "flammable": false,
@@ -3247,6 +3542,7 @@ const total_carnage_blocks = [
   {
     "name": "Malefic Bone Block",
 		"model": false,
+		"special_loot": [],
     "mining_time": 5.0,
     "explosion_resistance": 35,
     "flammable": false,
@@ -3258,6 +3554,7 @@ const total_carnage_blocks = [
   {
     "name": "Mawhali Record",
 		"model": false,
+		"special_loot": [],
     "mining_time": 5.0,
     "explosion_resistance": 0,
     "flammable": false,
@@ -3269,6 +3566,7 @@ const total_carnage_blocks = [
   {
     "name": "Mawhali Record Monument",
 		"model": false,
+		"special_loot": [],
     "mining_time": 8.0,
     "explosion_resistance": 6,
     "flammable": false,
@@ -3280,6 +3578,7 @@ const total_carnage_blocks = [
   {
     "name": "Small Midnight Fungus",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": true,
@@ -3291,6 +3590,7 @@ const total_carnage_blocks = [
   {
     "name": "Big Midnight Fungus",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": true,
@@ -3302,6 +3602,7 @@ const total_carnage_blocks = [
   {
     "name": "Thin Midnight Fungus Stalk",
 		"model": false,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": true,
@@ -3313,6 +3614,7 @@ const total_carnage_blocks = [
   {
     "name": "Thick Midnight Fungus Stalk",
 		"model": false,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": true,
@@ -3324,6 +3626,7 @@ const total_carnage_blocks = [
   {
     "name": "Molar",
 		"model": false,
+		"special_loot": [],
     "mining_time": 30.0,
     "explosion_resistance": 16.0,
     "flammable": false,
@@ -3335,6 +3638,7 @@ const total_carnage_blocks = [
   {
     "name": "Rotten Molar",
 		"model": false,
+		"special_loot": [],
     "mining_time": 30.0,
     "explosion_resistance": 16.0,
     "flammable": false,
@@ -3346,6 +3650,7 @@ const total_carnage_blocks = [
   {
     "name": "Moon Pumpkin",
 		"model": false,
+		"special_loot": [],
     "mining_time": 1.5,
     "explosion_resistance": 3,
     "flammable": true,
@@ -3357,6 +3662,7 @@ const total_carnage_blocks = [
   {
     "name": "Moon o' Lantern",
 		"model": false,
+		"special_loot": [],
     "mining_time": 1.5,
     "explosion_resistance": 3,
     "flammable": true,
@@ -3368,6 +3674,7 @@ const total_carnage_blocks = [
   {
     "name": "Moth Silk",
 		"model": false,
+		"special_loot": [],
     "mining_time": 0.2,
     "explosion_resistance": 6,
     "flammable": true,
@@ -3379,6 +3686,7 @@ const total_carnage_blocks = [
   {
     "name": "Muscle Fiber",
 		"model": false,
+		"special_loot": [],
     "mining_time": 12,
     "explosion_resistance": 6,
     "flammable": false,
@@ -3390,6 +3698,7 @@ const total_carnage_blocks = [
   {
     "name": "Nimbus Block",
 		"model": false,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0,
     "flammable": false,
@@ -3401,6 +3710,7 @@ const total_carnage_blocks = [
   {
     "name": "Ochre Grimule",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": true,
@@ -3412,6 +3722,7 @@ const total_carnage_blocks = [
   {
     "name": "Ochre Grimule Sprouts",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": true,
@@ -3423,6 +3734,7 @@ const total_carnage_blocks = [
   {
     "name": "Pearlescent Grimule",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": true,
@@ -3434,6 +3746,7 @@ const total_carnage_blocks = [
   {
     "name": "Pearlescent Grimule Sprouts",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": true,
@@ -3445,6 +3758,7 @@ const total_carnage_blocks = [
   {
     "name": "Verdant Grimule",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": true,
@@ -3456,6 +3770,7 @@ const total_carnage_blocks = [
   {
     "name": "Verdant Grimule Sprouts",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": true,
@@ -3467,6 +3782,7 @@ const total_carnage_blocks = [
   {
     "name": "Overbrush",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": true,
@@ -3478,6 +3794,7 @@ const total_carnage_blocks = [
   {
     "name": "Ovex Fluid",
 		"model": false,
+		"special_loot": [],
     "mining_time": 0.2,
     "explosion_resistance": 6.0,
     "flammable": false,
@@ -3495,6 +3812,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Nature",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3506,6 +3824,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3517,6 +3836,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3528,6 +3848,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3539,6 +3860,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3550,6 +3872,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3561,6 +3884,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3572,6 +3896,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3583,6 +3908,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3594,6 +3920,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3605,6 +3932,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3616,6 +3944,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3627,6 +3956,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3638,6 +3968,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3649,6 +3980,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3660,6 +3992,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3671,6 +4004,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3682,6 +4016,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3693,6 +4028,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3704,6 +4040,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3715,6 +4052,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3726,6 +4064,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3737,6 +4076,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3748,6 +4088,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3759,6 +4100,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3770,6 +4112,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3781,6 +4124,7 @@ const total_carnage_blocks = [
 		"orientation": "log",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3792,6 +4136,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3803,11 +4148,13 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
     "name": "Ovex Fluid",
 		"model": false,
+		"special_loot": [],
     "mining_time": 0.2,
     "explosion_resistance": 6.0,
     "flammable": false,
@@ -3819,6 +4166,7 @@ const total_carnage_blocks = [
   {
     "name": "Permaflow",
 		"model": false,
+		"special_loot": [],
     "mining_time": 15.0,
     "explosion_resistance": 6.0,
     "flammable": false,
@@ -3830,6 +4178,7 @@ const total_carnage_blocks = [
   {
     "name": "Petrified Vastatos Skull",
 		"model": false,
+		"special_loot": [],
     "mining_time": 7.5,
     "explosion_resistance": 6.0,
     "flammable": false,
@@ -3841,6 +4190,7 @@ const total_carnage_blocks = [
   {
     "name": "Petrol Puddle",
 		"model": false,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.0,
     "flammable": false,
@@ -3852,6 +4202,7 @@ const total_carnage_blocks = [
   {
     "name": "Photolith",
 		"model": false,
+		"special_loot": [],
     "mining_time": 300,
     "explosion_resistance": 3600000.0,
     "flammable": false,
@@ -3869,6 +4220,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Nature",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3880,6 +4232,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3891,6 +4244,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3902,6 +4256,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3913,6 +4268,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3924,6 +4280,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3935,6 +4292,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3946,6 +4304,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3957,6 +4316,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3968,6 +4328,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3979,6 +4340,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -3990,6 +4352,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4001,6 +4364,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4012,6 +4376,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4023,6 +4388,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4034,6 +4400,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4045,6 +4412,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4056,6 +4424,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4067,6 +4436,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4078,6 +4448,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4089,6 +4460,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4100,6 +4472,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4111,6 +4484,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4122,6 +4496,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4133,6 +4508,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4144,6 +4520,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4155,6 +4532,7 @@ const total_carnage_blocks = [
 		"orientation": "log",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4166,6 +4544,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4177,6 +4556,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4188,6 +4568,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Nature",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4199,6 +4580,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4210,6 +4592,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4221,6 +4604,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4232,6 +4616,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4243,6 +4628,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4254,6 +4640,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4265,6 +4652,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4276,6 +4664,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4287,6 +4676,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4298,6 +4688,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4309,6 +4700,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4320,6 +4712,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4331,6 +4724,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4342,6 +4736,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4353,6 +4748,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4364,6 +4760,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4375,6 +4772,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4386,6 +4784,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4397,6 +4796,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4408,6 +4808,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4419,6 +4820,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4430,6 +4832,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4441,6 +4844,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4452,6 +4856,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4463,6 +4868,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4474,6 +4880,7 @@ const total_carnage_blocks = [
 		"orientation": "log",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4485,6 +4892,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4496,11 +4904,13 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
     "name": "Pot of Famine",
 		"model": false,
+		"special_loot": [],
     "mining_time": 0.25,
     "explosion_resistance": 0.1,
     "flammable": false,
@@ -4512,6 +4922,7 @@ const total_carnage_blocks = [
   {
     "name": "Pruthox Block",
 		"model": false,
+		"special_loot": [],
     "mining_time": 7.5,
     "explosion_resistance": 6,
     "flammable": false,
@@ -4523,6 +4934,7 @@ const total_carnage_blocks = [
   {
     "name": "Quicksand Block",
 		"model": false,
+		"special_loot": [],
     "mining_time": 3.0,
     "explosion_resistance": 0.5,
     "flammable": false,
@@ -4534,6 +4946,7 @@ const total_carnage_blocks = [
   {
     "name": "Red Quicksand Block",
 		"model": false,
+		"special_loot": [],
     "mining_time": 3.0,
     "explosion_resistance": 0.5,
     "flammable": false,
@@ -4545,6 +4958,7 @@ const total_carnage_blocks = [
   {
     "name": "Rotten Slime Block",
 		"model": false,
+		"special_loot": [],
     "mining_time": 0.5,
     "explosion_resistance": 0.25,
     "flammable": false,
@@ -4562,6 +4976,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Nature",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
 		"name": "Seasalt Stairs",
@@ -4572,6 +4987,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
 		"name": "Seasalt Slab",
@@ -4582,6 +4998,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
 		"name": "Seasalt Double Slab",
@@ -4592,6 +5009,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
 		"name": "Seasalt Wall",
@@ -4602,6 +5020,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
 		"name": "Polished Seasalt",
@@ -4612,6 +5031,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
 		"name": "Polished Seasalt Stairs",
@@ -4622,6 +5042,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
 		"name": "Polished Seasalt Slab",
@@ -4632,6 +5053,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
 		"name": "Polished Seasalt Double Slab",
@@ -4642,6 +5064,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
 		"name": "Polished Seasalt Wall",
@@ -4652,6 +5075,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
 		"name": "Seasalt Bricks",
@@ -4662,6 +5086,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
 		"name": "Seasalt Bricks Stairs",
@@ -4672,6 +5097,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
 		"name": "Seasalt Bricks Slab",
@@ -4682,6 +5108,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
 		"name": "Seasalt Bricks Double Slab",
@@ -4692,6 +5119,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
 		"name": "Seasalt Bricks Wall",
@@ -4702,6 +5130,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
 		"name": "Polished Seasalt Bricks",
@@ -4712,6 +5141,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
 		"name": "Polished Seasalt Bricks Stairs",
@@ -4722,6 +5152,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
 		"name": "Polished Seasalt Bricks Slab",
@@ -4732,6 +5163,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
 		"name": "Polished Seasalt Bricks Double Slab",
@@ -4742,6 +5174,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
 		"name": "Polished Seasalt Bricks Wall",
@@ -4752,6 +5185,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
 		"name": "Cobbled Seasalt",
@@ -4762,6 +5196,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
 		"name": "Cobbled Seasalt Stairs",
@@ -4772,6 +5207,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
 		"name": "Cobbled Seasalt Slab",
@@ -4782,6 +5218,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
 		"name": "Cobbled Seasalt Double Slab",
@@ -4792,6 +5229,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
 		"name": "Cobbled Seasalt Wall",
@@ -4802,6 +5240,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
 		"name": "Seasalt Pillar",
@@ -4812,6 +5251,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
 		"name": "Polished Seasalt Pillar",
@@ -4822,6 +5262,7 @@ const total_carnage_blocks = [
 		"orientation": "log",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
 		"name": "Chiseled Seasalt",
@@ -4832,6 +5273,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
 		"name": "Chiseled Polished Seasalt",
@@ -4842,10 +5284,12 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block. It damages slime monsters greatly" },
   {
     "name": "Short Dry Straws",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": false,
@@ -4857,6 +5301,7 @@ const total_carnage_blocks = [
   {
     "name": "Tall Dry Straws",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": false,
@@ -4868,6 +5313,7 @@ const total_carnage_blocks = [
   {
     "name": "Soggy Grass",
 		"model": false,
+		"special_loot": [],
     "mining_time": 1.25,
     "explosion_resistance": 3,
     "flammable": false,
@@ -4879,6 +5325,7 @@ const total_carnage_blocks = [
   {
     "name": "Soiled Sponge",
 		"model": false,
+		"special_loot": [],
     "mining_time": 2.5,
     "explosion_resistance": 6,
     "flammable": false,
@@ -4890,6 +5337,7 @@ const total_carnage_blocks = [
   {
     "name": "Spun Gold",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": false,
@@ -4907,6 +5355,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Nature",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4918,6 +5367,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4929,6 +5379,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4940,6 +5391,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4951,6 +5403,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4962,6 +5415,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4973,6 +5427,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4984,6 +5439,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -4995,6 +5451,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -5006,6 +5463,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -5017,6 +5475,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -5028,6 +5487,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -5039,6 +5499,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -5050,6 +5511,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -5061,6 +5523,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -5072,6 +5535,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -5083,6 +5547,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -5094,6 +5559,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -5105,6 +5571,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -5116,6 +5583,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -5127,6 +5595,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -5138,6 +5607,7 @@ const total_carnage_blocks = [
 		"orientation": "stairs",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -5149,6 +5619,7 @@ const total_carnage_blocks = [
 		"orientation": "slab",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -5160,6 +5631,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -5171,6 +5643,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -5182,6 +5655,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -5193,6 +5667,7 @@ const total_carnage_blocks = [
 		"orientation": "log",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -5204,6 +5679,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
@@ -5215,11 +5691,13 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Construction",
 		"model": false,
+		"special_loot": [],
 		"description": "Decorative Building block."
 	},
   {
     "name": "Tarbleck",
 		"model": false,
+		"special_loot": [],
     "mining_time": 0.2,
     "explosion_resistance": 6.0,
     "flammable": false,
@@ -5231,6 +5709,7 @@ const total_carnage_blocks = [
   {
     "name": "Thorny Vines",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": false,
@@ -5242,6 +5721,7 @@ const total_carnage_blocks = [
   {
     "name": "Toxic Waste Block",
 		"model": false,
+		"special_loot": [],
     "mining_time": 0.2,
     "explosion_resistance": 6.0,
     "flammable": false,
@@ -5253,6 +5733,7 @@ const total_carnage_blocks = [
   {
     "name": "Toxic Waste Carpet",
 		"model": false,
+		"special_loot": [],
     "mining_time": 0.2,
     "explosion_resistance": 6.0,
     "flammable": false,
@@ -5264,6 +5745,7 @@ const total_carnage_blocks = [
   {
     "name": "Velvet Floor",
 		"model": false,
+		"special_loot": [],
     "mining_time": 1.25,
     "explosion_resistance": 3,
     "flammable": false,
@@ -5275,6 +5757,7 @@ const total_carnage_blocks = [
   {
     "name": "Velvet Coral",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": false,
@@ -5286,6 +5769,7 @@ const total_carnage_blocks = [
   {
     "name": "Velvet Lily",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": false,
@@ -5297,6 +5781,7 @@ const total_carnage_blocks = [
   {
     "name": "Velvet Ridge",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": false,
@@ -5308,6 +5793,7 @@ const total_carnage_blocks = [
   {
     "name": "Velvet Reed",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": false,
@@ -5319,6 +5805,7 @@ const total_carnage_blocks = [
   {
     "name": "Velvet Spine",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": false,
@@ -5330,6 +5817,7 @@ const total_carnage_blocks = [
   {
     "name": "Velvet Scales",
 		"model": false,
+		"special_loot": [],
     "mining_time": 7.5,
     "explosion_resistance": 6.0,
     "flammable": false,
@@ -5341,6 +5829,7 @@ const total_carnage_blocks = [
   {
     "name": "Velvet Hive",
 		"model": false,
+		"special_loot": [],
     "mining_time": 0.2,
     "explosion_resistance": 6.0,
     "flammable": true,
@@ -5352,6 +5841,7 @@ const total_carnage_blocks = [
   {
     "name": "Void Signal",
 		"model": false,
+		"special_loot": [],
     "mining_time": 50000.0,
     "explosion_resistance": 300000.0,
     "flammable": false,
@@ -5363,6 +5853,7 @@ const total_carnage_blocks = [
   {
     "name": "Widow Tail",
 		"model": true,
+		"special_loot": [],
     "mining_time": 0.1,
     "explosion_resistance": 0.1,
     "flammable": false,
@@ -5374,6 +5865,7 @@ const total_carnage_blocks = [
   {
     "name": "Wrathen Metal Block",
 		"model": false,
+		"special_loot": [],
     "mining_time": 7.5,
     "explosion_resistance": 6,
     "flammable": false,
@@ -5385,6 +5877,7 @@ const total_carnage_blocks = [
   {
     "name": "Wrathen Metal Block",
 		"model": false,
+		"special_loot": [],
     "mining_time": 7.5,
     "explosion_resistance": 6,
     "flammable": false,
@@ -5402,6 +5895,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5413,6 +5907,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5424,6 +5919,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5435,6 +5931,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5446,6 +5943,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5457,6 +5955,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5468,6 +5967,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5479,6 +5979,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5490,6 +5991,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5501,6 +6003,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5512,6 +6015,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5523,6 +6027,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5534,6 +6039,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5545,6 +6051,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5556,6 +6063,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5567,6 +6075,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5578,6 +6087,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5589,6 +6099,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5600,6 +6111,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5611,6 +6123,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5622,6 +6135,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5633,6 +6147,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5644,6 +6159,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5655,6 +6171,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5666,6 +6183,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5677,6 +6195,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5688,6 +6207,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5699,6 +6219,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5710,6 +6231,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5721,6 +6243,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5732,6 +6255,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5743,6 +6267,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5754,6 +6279,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5765,6 +6291,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5776,6 +6303,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5787,6 +6315,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5798,6 +6327,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5809,6 +6339,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5820,6 +6351,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5831,6 +6363,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5842,6 +6375,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5853,6 +6387,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5864,6 +6399,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5875,6 +6411,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5886,6 +6423,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5897,6 +6435,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5908,6 +6447,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5919,6 +6459,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5930,6 +6471,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5941,6 +6483,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5952,6 +6495,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5963,6 +6507,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5974,6 +6519,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5985,6 +6531,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -5996,6 +6543,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6007,6 +6555,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6018,6 +6567,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6029,6 +6579,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6040,6 +6591,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6051,6 +6603,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6062,6 +6615,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6073,6 +6627,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6084,6 +6639,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6095,6 +6651,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6106,6 +6663,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6117,6 +6675,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6128,6 +6687,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6139,6 +6699,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6150,6 +6711,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6161,6 +6723,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6172,6 +6735,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6183,6 +6747,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6194,6 +6759,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6205,6 +6771,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6216,6 +6783,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6227,6 +6795,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6238,6 +6807,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6249,6 +6819,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6260,6 +6831,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6271,6 +6843,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6282,6 +6855,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6293,6 +6867,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6304,6 +6879,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6315,6 +6891,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6326,6 +6903,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6337,6 +6915,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6348,6 +6927,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6359,6 +6939,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6370,6 +6951,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6381,6 +6963,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6392,6 +6975,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6403,6 +6987,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6414,6 +6999,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6425,6 +7011,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6436,6 +7023,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6447,6 +7035,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6458,6 +7047,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6469,6 +7059,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6480,6 +7071,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6491,6 +7083,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6502,6 +7095,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6513,6 +7107,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6524,6 +7119,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6535,6 +7131,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6546,6 +7143,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6557,6 +7155,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6568,6 +7167,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6579,6 +7179,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6590,6 +7191,7 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	},
   {
@@ -6601,312 +7203,338 @@ const total_carnage_blocks = [
 		"orientation": "none",
 		"group": "Items",
 		"model": false,
+		"special_loot": [],
 		"description": "A block summoned by the Terra-terror."
 	}
 ]
 
 const useful_sides_blocks = [
-  { "name": "Farmland Dry", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Farmland Wet", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Block Snow", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Path Top", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Side (#4c763c)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Side (#6a7039)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Side (#8ab689)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Side (#8bd58a)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Side (#8eb971)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Side (#9abe4b)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Side (#55c93f)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Side (#59c93c)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Side (#64c73f)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Side (#79c05a)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Side (#80b497)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Side (#82c245)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Side (#83b593)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Side (#83bb6d)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Side (#86b87f)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Side (#86b783)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Side (#88bb67)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Side (#91bd59)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Side (#507a32)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Side (#90814d)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Side (#b9b75b)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Side (#bfb755)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Top (#4c763c)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Top (#6a7039)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Top (#8ab689)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Top (#8bd58a)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Top (#8eb971)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Top (#9abe4b)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Top (#55c93f)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Top (#59c93c)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Top (#64c73f)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Top (#79c05a)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Top (#80b497)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Top (#82c245)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Top (#83b593)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Top (#83bb6d)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Top (#86b87f)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Top (#86b783)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Top (#88bb67)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Top (#91bd59)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Top (#507a32)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Top (#90814d)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Top (#b9b75b)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Grass Top (#bfb755)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Mycelium Side", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Mycelium Top", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Podzol Side", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Podzol Top", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Beacon Light", "mining_time": 0.1, "explosion_resistance": 0, "flammable": false, "light": 15, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Frosted Ice 0", "mining_time": 0.1, "explosion_resistance": 0, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Frosted Ice 1", "mining_time": 0.1, "explosion_resistance": 0, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Frosted Ice 2", "mining_time": 0.1, "explosion_resistance": 0, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Frosted Ice 3", "mining_time": 0.1, "explosion_resistance": 0, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Anvil Base", "mining_time": 15, "explosion_resistance": 10, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Cauldron Inner", "mining_time": 15, "explosion_resistance": 10, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Hopper Inside", "mining_time": 15, "explosion_resistance": 10, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Hopper Outside", "mining_time": 15, "explosion_resistance": 10, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Iron Trapdoor Block", "mining_time": 15, "explosion_resistance": 10, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Jigsaw Back", "mining_time": 15, "explosion_resistance": 10, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Jigsaw Front", "mining_time": 15, "explosion_resistance": 10, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Jigsaw Lock", "mining_time": 15, "explosion_resistance": 10, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Jigsaw Side", "mining_time": 15, "explosion_resistance": 10, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Lower Iron Door", "mining_time": 15, "explosion_resistance": 10, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Upper Iron Door", "mining_time": 15, "explosion_resistance": 10, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Azalea Top", "mining_time": 0.25, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Dried Kelp Side A", "mining_time": 0.25, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Dried Kelp Side B", "mining_time": 0.25, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Dried Kelp Top", "mining_time": 0.25, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Flowering Azalea Top", "mining_time": 0.25, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Solid Slime", "mining_time": 0.25, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Tnt Bottom", "mining_time": 0.25, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Tnt Side", "mining_time": 0.25, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Tnt Top", "mining_time": 0.25, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Sculk Catalyst Bottom", "mining_time": 3, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Sculk Catalyst Side", "mining_time": 3, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Sculk Sensor Top", "mining_time": 3, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Ancient Debris Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Ancient Debris Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Basalt Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Basalt Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Black Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Black Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Blackstone Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Blackstone Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Blast Furnace Front Off", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Blast Furnace Front On", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Blast Furnace Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Blast Furnace Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Blue Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Blue Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Brown Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Brown Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Chiseled Quartz Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Chiseled Quartz Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Cyan Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Cyan Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Deepslate Side", "mining_time": 20, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Deepslate Top", "mining_time": 20, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Dispenser Front Horizontal", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Dispenser Front Vertical", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Dragon Egg Shell", "mining_time": 120, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Dropper Front Horizontal", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Dropper Front Vertical", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Enchanting Table Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "End Portal Frame Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Ender Chest Front", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Ender Chest Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Ender Chest Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Furnace Front Off", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Furnace Front On", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Furnace Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Furnace Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Gray Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Gray Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Green Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Green Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Light Blue Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Light Blue Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Lime Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Lime Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Lodestone Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Lodestone Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Magenta Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Magenta Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "New Stonecutter Bottom", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "New Stonecutter Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Observer Back", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Observer Back Lit", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Observer Front", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Observer Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Observer Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Orange Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Orange Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Pink Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Pink Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Piston Bottom", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Piston Inner", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Piston Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Polished Basalt Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Polished Basalt Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Purple Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Purple Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Purpur Pillar Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Purpur Pillar Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Quartz Pillar Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Quartz Pillar Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Red Sandstone Bottom", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Red Sandstone Carved", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Red Sandstone Cut", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Red Sandstone Normal", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Red Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Red Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Reinforced Deepslate Bottom", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Reinforced Deepslate Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Reinforced Deepslate Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Respawn Anchor Side 0", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Respawn Anchor Side 1", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Respawn Anchor Side 2", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Respawn Anchor Side 3", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Respawn Anchor Side 4", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Respawn Anchor Top Off", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Respawn Anchor Top On", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Sandstone Bottom", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Sandstone Carved", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Sandstone Cut", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Sandstone Normal", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Silver Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Silver Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Smoker Bottom", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Smoker Front Off", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Smoker Front On", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Smoker Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Smoker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Stonecutter Bottom", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Stonecutter Other Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Stonecutter Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Stonecutter Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Undyed Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Undyed Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "White Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "White Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Yellow Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Yellow Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Acacia Log Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Acacia Trapdoor Block", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Barrel Bottom", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Barrel Side", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Barrel Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Barrel Top Open", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Bee Nest Bottom", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Bee Nest Front", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Bee Nest Front Honey", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Bee Nest Side", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Bee Nest Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Beehive Front", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Beehive Front Honey", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Beehive Side", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Beehive Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Birch Log Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Birch Trapdoor Block", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Bone Block Side", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Bone Block Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Bookshelf Side", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Brewing Stand Base", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Cartography Table Side 1", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Cartography Table Side 2", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Cartography Table Side 3", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Cartography Table Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Chest Front", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Chest Side", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Chest Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Chorus Flower Head", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Chorus Flower Head Dead", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Chorus Plant Branch", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Comparator Off", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Comparator On", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Composter Bottom", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Composter Side", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Crafting Table Front", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Crafting Table Side", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Crafting Table Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Crimson Nylium Side", "mining_time": 3, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Crimson Nylium Top", "mining_time": 3, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Crimson Stem Top", "mining_time": 3, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Crimson Trapdoor Block", "mining_time": 3, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Dark Oak Log Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Dark Oak Trapdoor Block", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Daylight Sensor Inverted Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Daylight Sensor Side", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Daylight Sensor Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Fletching Table Side 1", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Fletching Table Side 2", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Fletching Table Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Glow Item Frame Block", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Item Frame Block", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Jukebox Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Jungle Log Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Jungle Trapdoor Block", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Lectern Base", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Lectern Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Loom Bottom", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Loom Front", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Loom Side", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Loom Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Lower Acacia Door", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Lower Birch Door", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Lower Crimson Door", "mining_time": 3, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Lower Dark Oak Door", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Lower Jungle Door", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Lower Mangrove Door", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Lower Oak Door", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Lower Spruce Door", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Lower Warped Door", "mining_time": 3, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Mangrove Log Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Mangrove Trapdoor Block", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Melon Side", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Melon Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Muddy Mangrove Roots Side", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Muddy Mangrove Roots Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Oak Log Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Piston Top Normal", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Piston Top Sticky", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Pumpkin Face Off", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Pumpkin Face On", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Pumpkin Side", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Pumpkin Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Repeater Off", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Repeater On", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Scaffolding Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Smithing Table Bottom", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Smithing Table Front", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Smithing Table Side", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Smithing Table Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Spruce Log Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Spruce Trapdoor Block", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Stripped Acacia Log Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Stripped Birch Log Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Stripped Crimson Stem Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Stripped Dark Oak Log Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Stripped Jungle Log Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Stripped Mangrove Log Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Stripped Oak Log Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Stripped Spruce Log Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Stripped Warped Stem Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Trapdoor Block", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Trapped Chest Front", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Upper Acacia Door", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Upper Birch Door", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Upper Crimson Door", "mining_time": 3, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Upper Dark Oak Door", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Upper Jungle Door", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Upper Mangrove Door", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Upper Oak Door", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Upper Spruce Door", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Upper Warped Door", "mining_time": 3, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Warped Nylium Side", "mining_time": 3, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Warped Nylium Top", "mining_time": 3, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Warped Stem Top", "mining_time": 3, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
-  { "name": "Warped Trapdoor Block", "mining_time": 3, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." }
+  { "name": "Farmland Dry", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Farmland Wet", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Block Snow", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Path Top", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Side (#4c763c)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Side (#6a7039)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Side (#8ab689)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Side (#8bd58a)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Side (#8eb971)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Side (#9abe4b)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Side (#55c93f)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Side (#59c93c)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Side (#64c73f)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Side (#79c05a)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Side (#80b497)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Side (#82c245)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Side (#83b593)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Side (#83bb6d)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Side (#86b87f)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Side (#86b783)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Side (#88bb67)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Side (#91bd59)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Side (#507a32)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Side (#90814d)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Side (#b9b75b)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Side (#bfb755)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Top (#4c763c)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Top (#6a7039)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Top (#8ab689)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Top (#8bd58a)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Top (#8eb971)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Top (#9abe4b)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Top (#55c93f)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Top (#59c93c)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Top (#64c73f)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Top (#79c05a)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Top (#80b497)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Top (#82c245)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Top (#83b593)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Top (#83bb6d)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Top (#86b87f)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Top (#86b783)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Top (#88bb67)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Top (#91bd59)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Top (#507a32)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Top (#90814d)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Top (#b9b75b)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Grass Top (#bfb755)", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Mycelium Side", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Mycelium Top", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Podzol Side", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Podzol Top", "mining_time": 1.5, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Beacon Light", "mining_time": 0.1, "explosion_resistance": 0, "flammable": false, "light": 15, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Frosted Ice 0", "mining_time": 0.1, "explosion_resistance": 0, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Frosted Ice 1", "mining_time": 0.1, "explosion_resistance": 0, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Frosted Ice 2", "mining_time": 0.1, "explosion_resistance": 0, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Frosted Ice 3", "mining_time": 0.1, "explosion_resistance": 0, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Anvil Base", "mining_time": 15, "explosion_resistance": 10, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Cauldron Inner", "mining_time": 15, "explosion_resistance": 10, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Hopper Inside", "mining_time": 15, "explosion_resistance": 10, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Hopper Outside", "mining_time": 15, "explosion_resistance": 10, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Iron Trapdoor Block", "mining_time": 15, "explosion_resistance": 10, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Jigsaw Back", "mining_time": 15, "explosion_resistance": 10, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Jigsaw Front", "mining_time": 15, "explosion_resistance": 10, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Jigsaw Lock", "mining_time": 15, "explosion_resistance": 10, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Jigsaw Side", "mining_time": 15, "explosion_resistance": 10, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Lower Iron Door", "mining_time": 15, "explosion_resistance": 10, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Upper Iron Door", "mining_time": 15, "explosion_resistance": 10, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Azalea Top", "mining_time": 0.25, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Dried Kelp Side A", "mining_time": 0.25, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Dried Kelp Side B", "mining_time": 0.25, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Dried Kelp Top", "mining_time": 0.25, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Flowering Azalea Top", "mining_time": 0.25, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Solid Slime", "mining_time": 0.25, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Tnt Bottom", "mining_time": 0.25, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Tnt Side", "mining_time": 0.25, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Tnt Top", "mining_time": 0.25, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Sculk Catalyst Bottom", "mining_time": 3, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Sculk Catalyst Side", "mining_time": 3, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Sculk Sensor Top", "mining_time": 3, "explosion_resistance": 3, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Ancient Debris Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Ancient Debris Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Basalt Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Basalt Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Black Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Black Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Blackstone Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Blackstone Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Blast Furnace Front Off", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Blast Furnace Front On", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Blast Furnace Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Blast Furnace Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Blue Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Blue Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Brown Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Brown Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Chiseled Quartz Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Chiseled Quartz Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Cyan Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Cyan Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Deepslate Side", "mining_time": 20, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Deepslate Top", "mining_time": 20, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Dispenser Front Horizontal", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Dispenser Front Vertical", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Dragon Egg Shell", "mining_time": 120, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Dropper Front Horizontal", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Dropper Front Vertical", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Enchanting Table Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "End Portal Frame Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Ender Chest Front", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Ender Chest Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Ender Chest Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Furnace Front Off", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Furnace Front On", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Furnace Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Furnace Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Gray Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Gray Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Green Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Green Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Light Blue Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Light Blue Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Lime Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Lime Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Lodestone Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Lodestone Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Magenta Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Magenta Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "New Stonecutter Bottom", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "New Stonecutter Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Observer Back", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Observer Back Lit", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Observer Front", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Observer Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Observer Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Orange Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Orange Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Pink Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Pink Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Piston Bottom", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Piston Inner", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Piston Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Polished Basalt Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Polished Basalt Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Purple Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Purple Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Purpur Pillar Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Purpur Pillar Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Quartz Pillar Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Quartz Pillar Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Red Sandstone Bottom", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Red Sandstone Carved", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Red Sandstone Cut", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Red Sandstone Normal", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Red Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Red Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Reinforced Deepslate Bottom", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Reinforced Deepslate Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Reinforced Deepslate Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Respawn Anchor Side 0", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Respawn Anchor Side 1", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Respawn Anchor Side 2", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Respawn Anchor Side 3", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Respawn Anchor Side 4", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Respawn Anchor Top Off", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Respawn Anchor Top On", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Sandstone Bottom", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Sandstone Carved", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Sandstone Cut", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Sandstone Normal", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Silver Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Silver Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Smoker Bottom", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Smoker Front Off", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Smoker Front On", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Smoker Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Smoker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Stonecutter Bottom", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Stonecutter Other Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Stonecutter Side", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Stonecutter Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Undyed Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Undyed Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "White Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "White Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Yellow Shulker Block", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Yellow Shulker Top", "mining_time": 6, "explosion_resistance": 6, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Acacia Log Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Acacia Trapdoor Block", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Barrel Bottom", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Barrel Side", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Barrel Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Barrel Top Open", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Bee Nest Bottom", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Bee Nest Front", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Bee Nest Front Honey", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Bee Nest Side", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Bee Nest Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Beehive Front", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Beehive Front Honey", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Beehive Side", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Beehive Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Birch Log Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Birch Trapdoor Block", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Bone Block Side", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Bone Block Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Bookshelf Side", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Brewing Stand Base", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Cartography Table Side 1", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Cartography Table Side 2", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Cartography Table Side 3", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Cartography Table Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Chest Front", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Chest Side", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Chest Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Chorus Flower Head", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Chorus Flower Head Dead", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Chorus Plant Branch", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Comparator Off", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Comparator On", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Composter Bottom", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Composter Side", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Crafting Table Front", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Crafting Table Side", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Crafting Table Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Crimson Nylium Side", "mining_time": 3, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Crimson Nylium Top", "mining_time": 3, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Crimson Stem Top", "mining_time": 3, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Crimson Trapdoor Block", "mining_time": 3, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Dark Oak Log Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Dark Oak Trapdoor Block", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Daylight Sensor Inverted Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Daylight Sensor Side", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Daylight Sensor Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Fletching Table Side 1", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Fletching Table Side 2", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Fletching Table Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Glow Item Frame Block", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Item Frame Block", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Jukebox Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Jungle Log Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Jungle Trapdoor Block", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Lectern Base", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Lectern Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Loom Bottom", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Loom Front", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Loom Side", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Loom Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Lower Acacia Door", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Lower Birch Door", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Lower Crimson Door", "mining_time": 3, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Lower Dark Oak Door", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Lower Jungle Door", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Lower Mangrove Door", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Lower Oak Door", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Lower Spruce Door", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Lower Warped Door", "mining_time": 3, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Mangrove Log Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Mangrove Trapdoor Block", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Melon Side", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Melon Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Muddy Mangrove Roots Side", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Muddy Mangrove Roots Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Oak Log Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Piston Top Normal", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Piston Top Sticky", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Pumpkin Face Off", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Pumpkin Face On", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Pumpkin Side", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Pumpkin Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Repeater Off", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Repeater On", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Scaffolding Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Smithing Table Bottom", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Smithing Table Front", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Smithing Table Side", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Smithing Table Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Spruce Log Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Spruce Trapdoor Block", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Stripped Acacia Log Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Stripped Birch Log Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Stripped Crimson Stem Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Stripped Dark Oak Log Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Stripped Jungle Log Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Stripped Mangrove Log Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Stripped Oak Log Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Stripped Spruce Log Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Stripped Warped Stem Top", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Trapdoor Block", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Trapped Chest Front", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Upper Acacia Door", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Upper Birch Door", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Upper Crimson Door", "mining_time": 3, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Upper Dark Oak Door", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Upper Jungle Door", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Upper Mangrove Door", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Upper Oak Door", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Upper Spruce Door", "mining_time": 3, "explosion_resistance": 2, "flammable": true, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Upper Warped Door", "mining_time": 3, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Warped Nylium Side", "mining_time": 3, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Warped Nylium Top", "mining_time": 3, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Warped Stem Top", "mining_time": 3, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "special_loot": [], "description": "A decorative block used for construction. Under the context of its add-on, it uses textures that aren't usually used often." },
+  { "name": "Warped Trapdoor Block", "mining_time": 3, "explosion_resistance": 2, "flammable": false, "light": 0, "orientation": "none", "group": "Construction", "model": false, "description": "A decorative block used for construction. Under the context of its add-on,it uses textures that aren't usually used often." }
+];
+
+const biome_box_blocks = [
+  { "name": "Basalt Deltas Biome Box", "model": false, "special_loot": [ "0-4 Brown Mushroom", "2-12 Magma", "0-12 Blackstone", "0-24 Basalt", "3-12 Gravel", "2-8 Gold Nugget" ], "mining_time": 3.0, "explosion_resistance": 15, "flammable": true, "light": 0, "orientation": "none", "group": "Items", "description": "It will drop items and blocks related to its biome." },
+  { "name": "Beach Biome Box", "model": false, "special_loot": [ "0-8 Flint", "2-9 Gravel", "3-7 Sand", "1-3 Cut Sandstone", "1-7 Kelp", "2-7 Oak Planks" ], "mining_time": 3.0, "explosion_resistance": 15, "flammable": true, "light": 0, "orientation": "none", "group": "Items", "description": "It will drop items and blocks related to its biome." },
+  { "name": "Crimson Forest Biome Box", "model": false, "special_loot": [ "2-12 Crimson Nylium", "0-8 Nether Wart Block", "0-8 Crimson Stem", "2-12 Netherrack", "3-12 Gravel", "2-4 Crimson Roots", "0-8 Gold Nugget", "2-9 Crimson Fungus" ], "mining_time": 3.0, "explosion_resistance": 15, "flammable": true, "light": 0, "orientation": "none", "group": "Items", "description": "It will drop items and blocks related to its biome." },
+  { "name": "Desert Biome Box", "model": false, "special_loot": [ "0-2 Rotten Flesh", "2-9 Cactus", "3-7 Sand", "1-6 Cut Sandstone", "1-4 Deadbush", "4-8 Stick" ], "mining_time": 3.0, "explosion_resistance": 15, "flammable": true, "light": 0, "orientation": "none", "group": "Items", "description": "It will drop items and blocks related to its biome." },
+  { "name": "Extreme Hills Biome Box", "model": false, "special_loot": [ "0-4 Emerald", "3-7 Spruce Log", "4-7 Spruce Sapling", "4-12 Spruce Planks", "0-5 Stone", "2-7 Snowball" ], "mining_time": 3.0, "explosion_resistance": 15, "flammable": true, "light": 0, "orientation": "none", "group": "Items", "description": "It will drop items and blocks related to its biome." },
+  { "name": "Flat Biome Box", "model": false, "special_loot": [ "8-18 Grass", "2-8 Dirt" ], "mining_time": 3.0, "explosion_resistance": 15, "flammable": true, "light": 0, "orientation": "none", "group": "Items", "description": "It will drop items and blocks related to its biome." },
+  { "name": "Forest Biome Box", "model": false, "special_loot": [ "0-8 Gunpowder", "2-9 Oak Log", "1-5 Birch Log", "0-2 Oak Sapling", "0-2 Birch Sapling", "3-6 Apple", "0-1 Tnt", "4-12 Oak Planks" ], "mining_time": 3.0, "explosion_resistance": 15, "flammable": true, "light": 0, "orientation": "none", "group": "Items", "description": "It will drop items and blocks related to its biome." },
+  { "name": "Ice Biome Box", "model": false, "special_loot": [ "0-2 Arrow", "0-2 Bone", "2-5 Ice", "1-4 Packed Ice", "0-4 Blue Ice", "8-16 Snowball", "8-13 Snow", "8-16 Spruce Planks" ], "mining_time": 3.0, "explosion_resistance": 15, "flammable": true, "light": 0, "orientation": "none", "group": "Items", "description": "It will drop items and blocks related to its biome." },
+  { "name": "Jungle Biome Box", "model": false, "special_loot": [ "0-2 Jungle Leaves", "4-12 Jungle Log", "1-8 Bamboo", "1-4 Cocoa Beans", "0-3 Jungle Sapling" ], "mining_time": 3.0, "explosion_resistance": 15, "flammable": true, "light": 0, "orientation": "none", "group": "Items", "description": "It will drop items and blocks related to its biome." },
+  { "name": "Mesa Biome Box", "model": false, "special_loot": [ "0-2 Rotten Flesh", "1-4 Red Sand", "3-5 Red Sandstone", "4-10 Deadbush" ], "mining_time": 3.0, "explosion_resistance": 15, "flammable": true, "light": 0, "orientation": "none", "group": "Items", "description": "It will drop items and blocks related to its biome." },
+  { "name": "Mushroom Island Biome Box", "model": false, "special_loot": [ "2-9 Mycelium", "0-6 Brown Mushroom", "0-6 Red Mushroom", "2-6 Brown Mushroom Block", "2-6 Red Mushroom Block" ], "mining_time": 3.0, "explosion_resistance": 15, "flammable": true, "light": 0, "orientation": "none", "group": "Items", "description": "It will drop items and blocks related to its biome." },
+  { "name": "Nether Wastes Biome Box", "model": false, "special_loot": [ "2-12 Netherrack", "0-8 Gold Nugget", "0-8 Magma", "0-8 Soul Sand", "0-4 Glowstone", "0-12 Glowstone Dust", "3-12 Nether Brick", "2-4 Nether Wart", "0-4 Quartz" ], "mining_time": 3.0, "explosion_resistance": 15, "flammable": true, "light": 0, "orientation": "none", "group": "Items", "description": "It will drop items and blocks related to its biome." },
+  { "name": "Ocean Biome Box", "model": false, "special_loot": [ "1-4 Rotten Flesh", "4-10 Gravel", "0-9 Tube Coral Block", "0-9 Brain Coral Block", "0-9 Bubble Coral Block", "0-9 Fire Coral Block", "0-9 Horn Coral Block", "2-5 Sea Pickle", "2-5 Kelp", "0-10 Flint", "0-6 Wet Sponge", "0-2 Gold Ingot", "0-2 Prismarine Crystals", "0-2 Prismarine Shard", "3-10 Jungle Planks" ], "mining_time": 3.0, "explosion_resistance": 15, "flammable": true, "light": 0, "orientation": "none", "group": "Items", "description": "It will drop items and blocks related to its biome." },
+  { "name": "Plains Biome Box", "model": false, "special_loot": [ "0-4 Feather", "0-2 Raw Chicken", "4-10 Tallgrass", "0-5 Wheat Seeds", "1-8 Cobblestone", "0-5 Stone", "3-9 Grass", "0-8 Dirt", "1-4 Oak Planks" ], "mining_time": 3.0, "explosion_resistance": 15, "flammable": true, "light": 0, "orientation": "none", "group": "Items", "description": "It will drop items and blocks related to its biome." },
+  { "name": "River Biome Box", "model": false, "special_loot": [ "0-2 Kelp", "0-7 Sand", "1-5 Sugar Canes", "2-4 Raw Salmon" ], "mining_time": 3.0, "explosion_resistance": 15, "flammable": true, "light": 0, "orientation": "none", "group": "Items", "description": "It will drop items and blocks related to its biome." },
+  { "name": "Savanna Biome Box", "model": false, "special_loot": [ "1-4 Acacia Leaves", "2-8 Acacia Log", "4-9 Tallgrass", "1-4 Acacia Sapling" ], "mining_time": 3.0, "explosion_resistance": 15, "flammable": true, "light": 0, "orientation": "none", "group": "Items", "description": "It will drop items and blocks related to its biome." },
+  { "name": "Soulsand Valley Biome Box", "model": false, "special_loot": [ "2-12 Soul Soil", "0-8 Bone Block", "0-8 Soul Sand", "2-12 Blackstone", "0-12 Basalt", "3-12 Gravel", "0-8 Gold Nugget" ], "mining_time": 3.0, "explosion_resistance": 15, "flammable": true, "light": 0, "orientation": "none", "group": "Items", "description": "It will drop items and blocks related to its biome." },
+  { "name": "Stone Beach Biome Box", "model": false, "special_loot": [ "4-12 Flint", "4-12 Gravel", "1-4 Stone", "2-8 Snowball" ], "mining_time": 3.0, "explosion_resistance": 15, "flammable": true, "light": 0, "orientation": "none", "group": "Items", "description": "It will drop items and blocks related to its biome." },
+  { "name": "Swamp Biome Box", "model": false, "special_loot": [ "0-6 Mangrove Propagule", "0-6 Mud", "0-4 Mangrove Roots", "0-4 Muddy Mangrove Roots", "0-8 Mangrove Leaves", "4-12 Mangrove Log", "0-8 Vine", "0-6 Stick", "1-4 Lily Pad", "0-2 Slime", "2-8 Slime Ball", "4-12 Oak Planks" ], "mining_time": 3.0, "explosion_resistance": 15, "flammable": true, "light": 0, "orientation": "none", "group": "Items", "description": "It will drop items and blocks related to its biome." },
+  { "name": "Taiga Biome Box", "model": false, "special_loot": [ "2-8 Podzol", "0-9 Spruce Log", "0-4 Spruce Sapling", "2-6 Mossy Cobblestone", "8-16 Spruce Planks" ], "mining_time": 3.0, "explosion_resistance": 15, "flammable": true, "light": 0, "orientation": "none", "group": "Items", "description": "It will drop items and blocks related to its biome." },
+  { "name": "The End Biome Box", "model": false, "special_loot": [ "0-12 End Stone", "0-8 End Bricks", "0-6 Purpur Block", "0-3 Purpur Pillar", "0-4 End Rod", "4-12 Chorus Fruit", "0-12 Popped Chorus Fruit" ], "mining_time": 3.0, "explosion_resistance": 15, "flammable": true, "light": 0, "orientation": "none", "group": "Items", "description": "It will drop items and blocks related to its biome." },
+  { "name": "Warped Forest Biome Box", "model": false, "special_loot": [ "2-12 Warped Nylium", "0-8 Warped Wart Block", "0-8 Warped Stem", "2-12 Netherrack", "3-12 Gravel", "2-4 Warped Roots", "0-8 Gold Nugget", "2-9 Warped Fungus" ], "mining_time": 3.0, "explosion_resistance": 15, "flammable": true, "light": 0, "orientation": "none", "group": "Items", "description": "It will drop items and blocks related to its biome." }
 ];
