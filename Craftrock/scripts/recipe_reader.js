@@ -22,7 +22,7 @@ for(var i = 0; i < menu.length; i++){
   }
 }
 var list = addon.replaceAll('_Skcolb', '').replaceAll('_Smeti', '').toLowerCase();
-var recipe = JSON.parse(JSON.stringify(eval(list)));
+const recipe = JSON.parse(JSON.stringify(eval(list)));
 
 var types = ['crafting', 'stonecutting', 'smelting', 'brewing', 'smithing'];
 var current = -1;

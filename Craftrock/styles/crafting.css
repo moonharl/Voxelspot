@@ -75,6 +75,27 @@ td{
   text-align:right;
 }
 
+.hoverModal{
+  background-color:black;
+  border-radius:5px;
+  height:30px;
+  position:fixed;
+  z-index:10;
+  display:none;
+  padding:5px;
+  align-items:center;
+  pointer-events:none;
+}
+.hoverModal > div{
+  height:25px;
+  width:25px;
+  background-size:contain;
+  background-repeat:no-repeat;
+  background-position:center;
+  image-rendering:pixelated;
+  margin:5px;
+}
+
 .crafting{ background-image:var(--craftingIcon); }
 .brewing{ background-image:var(--brewingIcon); }
 .smelting{ background-image:var(--smeltingIcon); }

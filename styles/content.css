@@ -147,7 +147,7 @@ a{
 .contentButtons{
   display:flex;
   flex-wrap:wrap;
-  justify-content:space-between;
+  justify-content:center;
 }
 .contentBtn{
   height:12.5vw;
