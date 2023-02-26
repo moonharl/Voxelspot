@@ -376,19 +376,19 @@ const addonsList = [
 		// "entities": false,
 		// "structures": false
   // },
-  // {
-    // "dat_link": "link",
-		// "res_link": "link",
-		// "gallery": 0,
-    // "title": "Helpful Blocks",
-		// "desc": "Adds blocks with new mechanics that may help in automation and other aspects. Adding gates, conveyor belts, grinders, filters, etc.",
-    // "full_desc": "Testing the full description lol",
-		// "crafting": false,
-		// "blocks": false,
-		// "items": false,
-		// "entities": false,
-		// "structures": false
-  // },
+  {
+    "dat_link": "https://link-center.net/131911/helpful-blocks-dat",
+		"res_link": "https://direct-link.net/131911/helpful-blocks-res",
+		"gallery": 0,
+    "title": "Helpful Blocks",
+		"desc": "Adds blocks with new mechanics that may help in automation and other aspects. Adding gates, conveyor belts, grinders, filters, etc.",
+    "full_desc": "Industrially speaking, Minecraft is set in a time where technology clearly isn't around. This add-on provides you with more than 40 new blocks which allows you to burn, carry, and filter. The blocks have their own unique abilities however these blocks are supposed to be activated with redstone but that feature isn't possible yet!",
+		"crafting": true,
+		"blocks": true,
+		"items": false,
+		"entities": false,
+		"structures": false
+  },
   // {
     // "dat_link": "link",
 		// "res_link": "link",

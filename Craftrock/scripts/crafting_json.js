@@ -11098,3 +11098,318 @@ const useful_sides = [
   { "type": "stonecutting", "genre": "blocks", "input": "white_shulker_top", "result": "white_shulker_block", "amount": 1 },
   { "type": "stonecutting", "genre": "blocks", "input": "yellow_shulker_top", "result": "yellow_shulker_block", "amount": 1 }
 ]
+
+const helpful_blocks = [
+	{
+		"type": "crafting",
+		"genre": "blocks",
+		"pattern": [
+			"cobblestone", "dispenser", "cobblestone",
+			"cobblestone", "blaze_powder", "cobblestone",
+			"cobblestone", "cobblestone", "cobblestone"
+		],
+		"result": "cobblestone_burner_block",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"genre": "blocks",
+		"pattern": [
+			"cobblestone", "cobblestone", "cobblestone",
+			"cobblestone", "obsidian", "cobblestone",
+			"cobblestone", "cobblestone", "cobblestone"
+		],
+		"result": "cobblestone_compact_block",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"genre": "blocks",
+		"pattern": [
+			"smooth_stone", "smooth_stone", "smooth_stone",
+			"redstone_dust", "redstone_dust", "redstone_dust",
+			"cobblestone", "cobblestone", "cobblestone"
+		],
+		"result": "cobblestone_conveyor_block",
+		"amount": 4
+	},
+	{
+		"type": "crafting",
+		"genre": "blocks",
+		"pattern": [
+			"smooth_stone", "smooth_stone", "smooth_stone",
+			"cobblestone", "slime_block", "cobblestone",
+			"cobblestone", "cobblestone", "cobblestone"
+		],
+		"result": "cobblestone_displayer_block",
+		"amount": 4
+	},
+	{
+		"type": "crafting",
+		"genre": "blocks",
+		"pattern": [
+			"smooth_stone", "cobblestone", "smooth_stone",
+			"smooth_stone", "redstone_dust", "smooth_stone",
+			"smooth_stone", "cobblestone", "smooth_stone"
+		],
+		"result": "cobblestone_elevator_block",
+		"amount": 4
+	},
+	{
+		"type": "crafting",
+		"genre": "blocks",
+		"pattern": [
+			"cobblestone", "piston", "cobblestone",
+			"cobblestone", "redstone_dust", "cobblestone",
+			"cobblestone", "cobblestone", "cobblestone"
+		],
+		"result": "cobblestone_grinder_block",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"genre": "blocks",
+		"pattern": [
+			"cobblestone", "iron_ingot", "cobblestone",
+			"cobblestone", "hopper", "cobblestone",
+			"cobblestone", "iron_ingot", "cobblestone"
+		],
+		"result": "cobblestone_item_filter_block",
+		"amount": 4
+	},
+	{
+		"type": "crafting",
+		"genre": "blocks",
+		"pattern": [
+			"cobblestone", "hopper", "cobblestone",
+			"cobblestone", "hopper", "cobblestone",
+			"cobblestone", "hopper", "cobblestone"
+		],
+		"result": "cobblestone_mob_filter_block",
+		"amount": 4
+	},
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "black_dye", "cobblestone", "black_dye", "cobblestone", "redstone_dust", "cobblestone", "black_dye", "cobblestone", "black_dye" ], "result": "black_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "blue_dye", "cobblestone", "blue_dye", "cobblestone", "redstone_dust", "cobblestone", "blue_dye", "cobblestone", "blue_dye" ], "result": "blue_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "brown_dye", "cobblestone", "brown_dye", "cobblestone", "redstone_dust", "cobblestone", "brown_dye", "cobblestone", "brown_dye" ], "result": "brown_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "cyan_dye", "cobblestone", "cyan_dye", "cobblestone", "redstone_dust", "cobblestone", "cyan_dye", "cobblestone", "cyan_dye" ], "result": "cyan_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "gray_dye", "cobblestone", "gray_dye", "cobblestone", "redstone_dust", "cobblestone", "gray_dye", "cobblestone", "gray_dye" ], "result": "gray_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "green_dye", "cobblestone", "green_dye", "cobblestone", "redstone_dust", "cobblestone", "green_dye", "cobblestone", "green_dye" ], "result": "green_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "light_blue_dye", "cobblestone", "light_blue_dye", "cobblestone", "redstone_dust", "cobblestone", "light_blue_dye", "cobblestone", "light_blue_dye" ], "result": "light_blue_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "lime_dye", "cobblestone", "lime_dye", "cobblestone", "redstone_dust", "cobblestone", "lime_dye", "cobblestone", "lime_dye" ], "result": "lime_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "magenta_dye", "cobblestone", "magenta_dye", "cobblestone", "redstone_dust", "cobblestone", "magenta_dye", "cobblestone", "magenta_dye" ], "result": "magenta_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "orange_dye", "cobblestone", "orange_dye", "cobblestone", "redstone_dust", "cobblestone", "orange_dye", "cobblestone", "orange_dye" ], "result": "orange_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "pink_dye", "cobblestone", "pink_dye", "cobblestone", "redstone_dust", "cobblestone", "pink_dye", "cobblestone", "pink_dye" ], "result": "pink_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "purple_dye", "cobblestone", "purple_dye", "cobblestone", "redstone_dust", "cobblestone", "purple_dye", "cobblestone", "purple_dye" ], "result": "purple_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "red_dye", "cobblestone", "red_dye", "cobblestone", "redstone_dust", "cobblestone", "red_dye", "cobblestone", "red_dye" ], "result": "red_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "silver_dye", "cobblestone", "silver_dye", "cobblestone", "redstone_dust", "cobblestone", "silver_dye", "cobblestone", "silver_dye" ], "result": "silver_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "white_dye", "cobblestone", "white_dye", "cobblestone", "redstone_dust", "cobblestone", "white_dye", "cobblestone", "white_dye" ], "result": "white_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "yellow_dye", "cobblestone", "yellow_dye", "cobblestone", "redstone_dust", "cobblestone", "yellow_dye", "cobblestone", "yellow_dye" ], "result": "yellow_cobblestone_gate_block", "amount": 4 },
+	{
+		"type": "crafting",
+		"genre": "blocks",
+		"pattern": [
+			"cobbled_deepslate", "dispenser", "cobbled_deepslate",
+			"cobbled_deepslate", "blaze_powder", "cobbled_deepslate",
+			"cobbled_deepslate", "cobbled_deepslate", "cobbled_deepslate"
+		],
+		"result": "cobbled_deepslate_burner_block",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"genre": "blocks",
+		"pattern": [
+			"cobbled_deepslate", "cobbled_deepslate", "cobbled_deepslate",
+			"cobbled_deepslate", "obsidian", "cobbled_deepslate",
+			"cobbled_deepslate", "cobbled_deepslate", "cobbled_deepslate"
+		],
+		"result": "cobbled_deepslate_compact_block",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"genre": "blocks",
+		"pattern": [
+			"smooth_stone", "smooth_stone", "smooth_stone",
+			"redstone_dust", "redstone_dust", "redstone_dust",
+			"cobbled_deepslate", "cobbled_deepslate", "cobbled_deepslate"
+		],
+		"result": "cobbled_deepslate_conveyor_block",
+		"amount": 4
+	},
+	{
+		"type": "crafting",
+		"genre": "blocks",
+		"pattern": [
+			"smooth_stone", "smooth_stone", "smooth_stone",
+			"cobbled_deepslate", "slime_block", "cobbled_deepslate",
+			"cobbled_deepslate", "cobbled_deepslate", "cobbled_deepslate"
+		],
+		"result": "cobbled_deepslate_displayer_block",
+		"amount": 4
+	},
+	{
+		"type": "crafting",
+		"genre": "blocks",
+		"pattern": [
+			"smooth_stone", "cobbled_deepslate", "smooth_stone",
+			"smooth_stone", "redstone_dust", "smooth_stone",
+			"smooth_stone", "cobbled_deepslate", "smooth_stone"
+		],
+		"result": "cobbled_deepslate_elevator_block",
+		"amount": 4
+	},
+	{
+		"type": "crafting",
+		"genre": "blocks",
+		"pattern": [
+			"cobbled_deepslate", "piston", "cobbled_deepslate",
+			"cobbled_deepslate", "redstone_dust", "cobbled_deepslate",
+			"cobbled_deepslate", "cobbled_deepslate", "cobbled_deepslate"
+		],
+		"result": "cobbled_deepslate_grinder_block",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"genre": "blocks",
+		"pattern": [
+			"cobbled_deepslate", "iron_ingot", "cobbled_deepslate",
+			"cobbled_deepslate", "hopper", "cobbled_deepslate",
+			"cobbled_deepslate", "iron_ingot", "cobbled_deepslate"
+		],
+		"result": "cobbled_deepslate_item_filter_block",
+		"amount": 4
+	},
+	{
+		"type": "crafting",
+		"genre": "blocks",
+		"pattern": [
+			"cobbled_deepslate", "hopper", "cobbled_deepslate",
+			"cobbled_deepslate", "hopper", "cobbled_deepslate",
+			"cobbled_deepslate", "hopper", "cobbled_deepslate"
+		],
+		"result": "cobbled_deepslate_mob_filter_block",
+		"amount": 4
+	},
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "black_dye", "cobbled_deepslate", "black_dye", "cobbled_deepslate", "redstone_dust", "cobbled_deepslate", "black_dye", "cobbled_deepslate", "black_dye" ], "result": "black_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "blue_dye", "cobbled_deepslate", "blue_dye", "cobbled_deepslate", "redstone_dust", "cobbled_deepslate", "blue_dye", "cobbled_deepslate", "blue_dye" ], "result": "blue_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "brown_dye", "cobbled_deepslate", "brown_dye", "cobbled_deepslate", "redstone_dust", "cobbled_deepslate", "brown_dye", "cobbled_deepslate", "brown_dye" ], "result": "brown_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "cyan_dye", "cobbled_deepslate", "cyan_dye", "cobbled_deepslate", "redstone_dust", "cobbled_deepslate", "cyan_dye", "cobbled_deepslate", "cyan_dye" ], "result": "cyan_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "gray_dye", "cobbled_deepslate", "gray_dye", "cobbled_deepslate", "redstone_dust", "cobbled_deepslate", "gray_dye", "cobbled_deepslate", "gray_dye" ], "result": "gray_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "green_dye", "cobbled_deepslate", "green_dye", "cobbled_deepslate", "redstone_dust", "cobbled_deepslate", "green_dye", "cobbled_deepslate", "green_dye" ], "result": "green_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "light_blue_dye", "cobbled_deepslate", "light_blue_dye", "cobbled_deepslate", "redstone_dust", "cobbled_deepslate", "light_blue_dye", "cobbled_deepslate", "light_blue_dye" ], "result": "light_blue_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "lime_dye", "cobbled_deepslate", "lime_dye", "cobbled_deepslate", "redstone_dust", "cobbled_deepslate", "lime_dye", "cobbled_deepslate", "lime_dye" ], "result": "lime_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "magenta_dye", "cobbled_deepslate", "magenta_dye", "cobbled_deepslate", "redstone_dust", "cobbled_deepslate", "magenta_dye", "cobbled_deepslate", "magenta_dye" ], "result": "magenta_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "orange_dye", "cobbled_deepslate", "orange_dye", "cobbled_deepslate", "redstone_dust", "cobbled_deepslate", "orange_dye", "cobbled_deepslate", "orange_dye" ], "result": "orange_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "pink_dye", "cobbled_deepslate", "pink_dye", "cobbled_deepslate", "redstone_dust", "cobbled_deepslate", "pink_dye", "cobbled_deepslate", "pink_dye" ], "result": "pink_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "purple_dye", "cobbled_deepslate", "purple_dye", "cobbled_deepslate", "redstone_dust", "cobbled_deepslate", "purple_dye", "cobbled_deepslate", "purple_dye" ], "result": "purple_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "red_dye", "cobbled_deepslate", "red_dye", "cobbled_deepslate", "redstone_dust", "cobbled_deepslate", "red_dye", "cobbled_deepslate", "red_dye" ], "result": "red_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "silver_dye", "cobbled_deepslate", "silver_dye", "cobbled_deepslate", "redstone_dust", "cobbled_deepslate", "silver_dye", "cobbled_deepslate", "silver_dye" ], "result": "silver_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "white_dye", "cobbled_deepslate", "white_dye", "cobbled_deepslate", "redstone_dust", "cobbled_deepslate", "white_dye", "cobbled_deepslate", "white_dye" ], "result": "white_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "yellow_dye", "cobbled_deepslate", "yellow_dye", "cobbled_deepslate", "redstone_dust", "cobbled_deepslate", "yellow_dye", "cobbled_deepslate", "yellow_dye" ], "result": "yellow_cobbled_deepslate_gate_block", "amount": 4 },
+	{
+		"type": "crafting",
+		"genre": "blocks",
+		"pattern": [
+			"dripstone_block", "dispenser", "dripstone_block",
+			"dripstone_block", "blaze_powder", "dripstone_block",
+			"dripstone_block", "dripstone_block", "dripstone_block"
+		],
+		"result": "dripstone_burner_block",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"genre": "blocks",
+		"pattern": [
+			"dripstone_block", "dripstone_block", "dripstone_block",
+			"dripstone_block", "obsidian", "dripstone_block",
+			"dripstone_block", "dripstone_block", "dripstone_block"
+		],
+		"result": "dripstone_compact_block",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"genre": "blocks",
+		"pattern": [
+			"smooth_stone", "smooth_stone", "smooth_stone",
+			"redstone_dust", "redstone_dust", "redstone_dust",
+			"dripstone_block", "dripstone_block", "dripstone_block"
+		],
+		"result": "dripstone_conveyor_block",
+		"amount": 4
+	},
+	{
+		"type": "crafting",
+		"genre": "blocks",
+		"pattern": [
+			"smooth_stone", "smooth_stone", "smooth_stone",
+			"dripstone_block", "slime_block", "dripstone_block",
+			"dripstone_block", "dripstone_block", "dripstone_block"
+		],
+		"result": "dripstone_displayer_block",
+		"amount": 4
+	},
+	{
+		"type": "crafting",
+		"genre": "blocks",
+		"pattern": [
+			"smooth_stone", "dripstone_block", "smooth_stone",
+			"smooth_stone", "redstone_dust", "smooth_stone",
+			"smooth_stone", "dripstone_block", "smooth_stone"
+		],
+		"result": "dripstone_elevator_block",
+		"amount": 4
+	},
+	{
+		"type": "crafting",
+		"genre": "blocks",
+		"pattern": [
+			"dripstone_block", "piston", "dripstone_block",
+			"dripstone_block", "redstone_dust", "dripstone_block",
+			"dripstone_block", "dripstone_block", "dripstone_block"
+		],
+		"result": "dripstone_grinder_block",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"genre": "blocks",
+		"pattern": [
+			"dripstone_block", "iron_ingot", "dripstone_block",
+			"dripstone_block", "hopper", "dripstone_block",
+			"dripstone_block", "iron_ingot", "dripstone_block"
+		],
+		"result": "dripstone_item_filter_block",
+		"amount": 4
+	},
+	{
+		"type": "crafting",
+		"genre": "blocks",
+		"pattern": [
+			"dripstone_block", "hopper", "dripstone_block",
+			"dripstone_block", "hopper", "dripstone_block",
+			"dripstone_block", "hopper", "dripstone_block"
+		],
+		"result": "dripstone_mob_filter_block",
+		"amount": 4
+	},
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "black_dye", "dripstone_block", "black_dye", "dripstone_block", "redstone_dust", "dripstone_block", "black_dye", "dripstone_block", "black_dye" ], "result": "black_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "blue_dye", "dripstone_block", "blue_dye", "dripstone_block", "redstone_dust", "dripstone_block", "blue_dye", "dripstone_block", "blue_dye" ], "result": "blue_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "brown_dye", "dripstone_block", "brown_dye", "dripstone_block", "redstone_dust", "dripstone_block", "brown_dye", "dripstone_block", "brown_dye" ], "result": "brown_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "cyan_dye", "dripstone_block", "cyan_dye", "dripstone_block", "redstone_dust", "dripstone_block", "cyan_dye", "dripstone_block", "cyan_dye" ], "result": "cyan_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "gray_dye", "dripstone_block", "gray_dye", "dripstone_block", "redstone_dust", "dripstone_block", "gray_dye", "dripstone_block", "gray_dye" ], "result": "gray_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "green_dye", "dripstone_block", "green_dye", "dripstone_block", "redstone_dust", "dripstone_block", "green_dye", "dripstone_block", "green_dye" ], "result": "green_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "light_blue_dye", "dripstone_block", "light_blue_dye", "dripstone_block", "redstone_dust", "dripstone_block", "light_blue_dye", "dripstone_block", "light_blue_dye" ], "result": "light_blue_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "lime_dye", "dripstone_block", "lime_dye", "dripstone_block", "redstone_dust", "dripstone_block", "lime_dye", "dripstone_block", "lime_dye" ], "result": "lime_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "magenta_dye", "dripstone_block", "magenta_dye", "dripstone_block", "redstone_dust", "dripstone_block", "magenta_dye", "dripstone_block", "magenta_dye" ], "result": "magenta_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "orange_dye", "dripstone_block", "orange_dye", "dripstone_block", "redstone_dust", "dripstone_block", "orange_dye", "dripstone_block", "orange_dye" ], "result": "orange_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "pink_dye", "dripstone_block", "pink_dye", "dripstone_block", "redstone_dust", "dripstone_block", "pink_dye", "dripstone_block", "pink_dye" ], "result": "pink_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "purple_dye", "dripstone_block", "purple_dye", "dripstone_block", "redstone_dust", "dripstone_block", "purple_dye", "dripstone_block", "purple_dye" ], "result": "purple_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "red_dye", "dripstone_block", "red_dye", "dripstone_block", "redstone_dust", "dripstone_block", "red_dye", "dripstone_block", "red_dye" ], "result": "red_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "silver_dye", "dripstone_block", "silver_dye", "dripstone_block", "redstone_dust", "dripstone_block", "silver_dye", "dripstone_block", "silver_dye" ], "result": "silver_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "white_dye", "dripstone_block", "white_dye", "dripstone_block", "redstone_dust", "dripstone_block", "white_dye", "dripstone_block", "white_dye" ], "result": "white_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "genre": "blocks", "pattern": [ "yellow_dye", "dripstone_block", "yellow_dye", "dripstone_block", "redstone_dust", "dripstone_block", "yellow_dye", "dripstone_block", "yellow_dye" ], "result": "yellow_dripstone_gate_block", "amount": 4 },
+]

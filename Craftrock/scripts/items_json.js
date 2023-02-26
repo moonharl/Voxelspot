@@ -10757,10 +10757,10 @@ const total_carnage_items = [
 		"flammable": true,
 		"cooldown": 0,
 		"armor": [],
-		"nutrition": "🍖 2 - Nutrition",
+		"nutrition": "",
 		"damage": [],
 		"durability": "0",
-		"group": "Nature",
+		"group": "Items",
 		"description": "Obtained from killing Terraflares."
 	},
 	{
