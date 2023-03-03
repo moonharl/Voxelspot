@@ -5,7 +5,7 @@ const menuList = [
   // { "title": "Bedrock Recrafted", "blocks": true, "items": true, "crafting": true },
   { "title": "Biome Box", "blocks": true, "items": false, "crafting": false },
   // { "title": "Block Letters", "blocks": true, "items": true, "crafting": true },
-  // { "title": "Boomerangs", "blocks": true, "items": true, "crafting": true },
+  { "title": "Boomerangs", "blocks": false, "items": true, "crafting": true },
   // { "title": "Bridge Cannon", "blocks": true, "items": true, "crafting": true },
   // { "title": "Cargo Craft", "blocks": true, "items": true, "crafting": true },
   // { "title": "Colorful Spiders", "blocks": true, "items": true, "crafting": true },

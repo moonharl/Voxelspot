@@ -14563,3 +14563,276 @@ const ambience_items = [
 		"description": "Using will play its audio and a small particle will appear on top of the user indicating that they played the sound."
 	}
 ]
+
+const boomerangs_items = [
+	{
+		"name": "Wooden Boomerang",
+		"model": false,
+		"sub": "",
+		"max_stack": 1,
+		"off_hand": false,
+		"explodeable": true,
+		"flammable": true,
+		"cooldown": 2.5,
+		"armor": [],
+		"nutrition": "",
+		"damage": [
+			"➶ 5 - Ranged"
+		],
+		"durability": "",
+		"group": "Equipment",
+		"description": "It will return to the nearest player after hitting an entity or entering maximum distance."
+	},
+	{
+		"name": "Stone Boomerang",
+		"model": false,
+		"sub": "",
+		"max_stack": 1,
+		"off_hand": false,
+		"explodeable": true,
+		"flammable": true,
+		"cooldown": 2.5,
+		"armor": [],
+		"nutrition": "",
+		"damage": [
+			"➶ 6 - Ranged"
+		],
+		"durability": "",
+		"group": "Equipment",
+		"description": "It will return to the nearest player after hitting an entity or entering maximum distance."
+	},
+	{
+		"name": "Iron Boomerang",
+		"model": false,
+		"sub": "",
+		"max_stack": 1,
+		"off_hand": false,
+		"explodeable": true,
+		"flammable": true,
+		"cooldown": 2.5,
+		"armor": [],
+		"nutrition": "",
+		"damage": [
+			"➶ 7 - Ranged"
+		],
+		"durability": "",
+		"group": "Equipment",
+		"description": "It will return to the nearest player after hitting an entity or entering maximum distance."
+	},
+	{
+		"name": "Gold Boomerang",
+		"model": false,
+		"sub": "",
+		"max_stack": 1,
+		"off_hand": false,
+		"explodeable": true,
+		"flammable": true,
+		"cooldown": 2.5,
+		"armor": [],
+		"nutrition": "",
+		"damage": [
+			"➶ 8 - Ranged"
+		],
+		"durability": "",
+		"group": "Equipment",
+		"description": "It will return to the nearest player after hitting an entity or entering maximum distance."
+	},
+	{
+		"name": "Diamond Boomerang",
+		"model": false,
+		"sub": "",
+		"max_stack": 1,
+		"off_hand": false,
+		"explodeable": true,
+		"flammable": true,
+		"cooldown": 2.5,
+		"armor": [],
+		"nutrition": "",
+		"damage": [
+			"➶ 5 - Ranged"
+		],
+		"durability": "",
+		"group": "Equipment",
+		"description": "It will return to the nearest player after hitting an entity or entering maximum distance."
+	},
+	{
+		"name": "Netherite Boomerang",
+		"model": false,
+		"sub": "",
+		"max_stack": 1,
+		"off_hand": false,
+		"explodeable": true,
+		"flammable": true,
+		"cooldown": 2.5,
+		"armor": [],
+		"nutrition": "",
+		"damage": [
+			"➶ 9 - Ranged"
+		],
+		"durability": "",
+		"group": "Equipment",
+		"description": "It will return to the nearest player after hitting an entity or entering maximum distance."
+	},
+	{
+		"name": "Flamerang",
+		"model": false,
+		"sub": "",
+		"max_stack": 1,
+		"off_hand": false,
+		"explodeable": true,
+		"flammable": true,
+		"cooldown": 2.5,
+		"armor": [],
+		"nutrition": "",
+		"damage": [
+			"➶ 5 - Ranged"
+		],
+		"durability": "",
+		"group": "Equipment",
+		"description": "It will return to the nearest player after entering maximum distance. It will pierce through entities and set them on fire."
+	},
+	{
+		"name": "Frosty Boomerang",
+		"model": false,
+		"sub": "",
+		"max_stack": 1,
+		"off_hand": false,
+		"explodeable": true,
+		"flammable": true,
+		"cooldown": 2.5,
+		"armor": [],
+		"nutrition": "",
+		"damage": [
+			"➶ 5 - Ranged"
+		],
+		"durability": "",
+		"group": "Equipment",
+		"description": "It will return to the nearest player after entering maximum distance. It will pierce through entities and inflict slowness 10 for 10 seconds."
+	},
+	{
+		"name": "Hookerang",
+		"model": false,
+		"sub": "",
+		"max_stack": 1,
+		"off_hand": false,
+		"explodeable": true,
+		"flammable": true,
+		"cooldown": 2.5,
+		"armor": [],
+		"nutrition": "",
+		"damage": [
+			"➶ 7 - Ranged"
+		],
+		"durability": "",
+		"group": "Equipment",
+		"description": "It will return to the nearest player after hitting an entity or entering maximum distance. It will snag entities nearby after hitting one."
+	},
+	{
+		"name": "Hopper Boomerang",
+		"model": false,
+		"sub": "",
+		"max_stack": 1,
+		"off_hand": false,
+		"explodeable": true,
+		"flammable": true,
+		"cooldown": 2.5,
+		"armor": [],
+		"nutrition": "",
+		"damage": [
+			"➶ 7 - Ranged"
+		],
+		"durability": "",
+		"group": "Equipment",
+		"description": "It will return to the nearest player after hitting an entity or entering maximum distance. It will snag items nearby after entering maximum distance."
+	},
+	{
+		"name": "Kaboomerang",
+		"model": false,
+		"sub": "",
+		"max_stack": 1,
+		"off_hand": false,
+		"explodeable": true,
+		"flammable": true,
+		"cooldown": 2.5,
+		"armor": [],
+		"nutrition": "",
+		"damage": [
+			"➶ 5 - Ranged"
+		],
+		"durability": "",
+		"group": "Equipment",
+		"description": "It will return to the nearest player after hitting an entity or entering maximum distance. It will explode upon hitting an entity."
+	},
+	{
+		"name": "Lightning Boomerang",
+		"model": false,
+		"sub": "",
+		"max_stack": 1,
+		"off_hand": false,
+		"explodeable": true,
+		"flammable": true,
+		"cooldown": 2.5,
+		"armor": [],
+		"nutrition": "",
+		"damage": [
+			"➶ 8 - Ranged"
+		],
+		"durability": "",
+		"group": "Equipment",
+		"description": "It will return to the nearest player after hitting an entity or entering maximum distance. It will summon a lightning bolt upon hitting an entity."
+	},
+	{
+		"name": "Shulkerang",
+		"model": false,
+		"sub": "",
+		"max_stack": 1,
+		"off_hand": false,
+		"explodeable": true,
+		"flammable": true,
+		"cooldown": 2.5,
+		"armor": [],
+		"nutrition": "",
+		"damage": [
+			"➶ 7 - Ranged"
+		],
+		"durability": "",
+		"group": "Equipment",
+		"description": "It will return to the nearest player after hitting an entity or entering maximum distance. It will start bouncing off of nearby entities within a 10 block radius upon hitting an entity or entering maximum distance."
+	},
+	{
+		"name": "Windy Boomerang",
+		"model": false,
+		"sub": "",
+		"max_stack": 1,
+		"off_hand": false,
+		"explodeable": true,
+		"flammable": true,
+		"cooldown": 2.5,
+		"armor": [],
+		"nutrition": "",
+		"damage": [
+			"➶ 5 - Ranged"
+		],
+		"durability": "",
+		"group": "Equipment",
+		"description": "It will return to the nearest player after entering maximum distance. It will pierce through entities and inflict levitation 20 for 1 second."
+	},
+	{
+		"name": "Wither Boomerang",
+		"model": false,
+		"sub": "",
+		"max_stack": 1,
+		"off_hand": false,
+		"explodeable": true,
+		"flammable": true,
+		"cooldown": 2.5,
+		"armor": [],
+		"nutrition": "",
+		"damage": [
+			"➶ 8 - Ranged"
+		],
+		"durability": "",
+		"group": "Equipment",
+		"description": "It will return to the nearest player after entering maximum distance. It will pierce through entities and inflict wither 3 for 10 seconds."
+	}
+]

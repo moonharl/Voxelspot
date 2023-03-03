@@ -11413,3 +11413,171 @@ const helpful_blocks = [
 	{ "type": "crafting", "genre": "blocks", "pattern": [ "white_dye", "dripstone_block", "white_dye", "dripstone_block", "redstone_dust", "dripstone_block", "white_dye", "dripstone_block", "white_dye" ], "result": "white_dripstone_gate_block", "amount": 4 },
 	{ "type": "crafting", "genre": "blocks", "pattern": [ "yellow_dye", "dripstone_block", "yellow_dye", "dripstone_block", "redstone_dust", "dripstone_block", "yellow_dye", "dripstone_block", "yellow_dye" ], "result": "yellow_dripstone_gate_block", "amount": 4 },
 ]
+
+const boomerangs = [
+	{
+		"type": "crafting",
+		"genre": "items",
+		"pattern": [
+			"oak_planks", "leather", "",
+			"", "oak_planks", "",
+			"", "", ""
+		],
+		"result": "wooden_boomerang",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"genre": "items",
+		"pattern": [
+			"cobblestone", "leather", "",
+			"", "cobblestone", "",
+			"", "", ""
+		],
+		"result": "stone_boomerang",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"genre": "items",
+		"pattern": [
+			"iron_ingot", "leather", "",
+			"", "iron_ingot", "",
+			"", "", ""
+		],
+		"result": "iron_boomerang",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"genre": "items",
+		"pattern": [
+			"gold_ingot", "leather", "",
+			"", "gold_ingot", "",
+			"", "", ""
+		],
+		"result": "gold_boomerang",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"genre": "items",
+		"pattern": [
+			"diamond", "leather", "",
+			"", "diamond", "",
+			"", "", ""
+		],
+		"result": "diamond_boomerang",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"genre": "items",
+		"pattern": [
+			"netherite_ingot", "leather", "",
+			"", "netherite_ingot", "",
+			"", "", ""
+		],
+		"result": "netherite_boomerang",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"genre": "items",
+		"pattern": [
+			"gold_boomerang", "blaze_rod", "",
+			"", "", "",
+			"", "", ""
+		],
+		"result": "flamerang",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"genre": "items",
+		"pattern": [
+			"ice", "ice", "ice",
+			"ice", "diamond_boomerang", "ice",
+			"ice", "ice", "ice"
+		],
+		"result": "frosty_boomerang",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"genre": "items",
+		"pattern": [
+			"iron_boomerang", "fishing_rod", "",
+			"", "", "",
+			"", "", ""
+		],
+		"result": "hookerang",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"genre": "items",
+		"pattern": [
+			"iron_boomerang", "hopper", "",
+			"", "", "",
+			"", "", ""
+		],
+		"result": "hopper_boomerang",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"genre": "items",
+		"pattern": [
+			"wooden_boomerang", "tnt", "",
+			"", "", "",
+			"", "", ""
+		],
+		"result": "kaboomerang",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"genre": "items",
+		"pattern": [
+			"netherite_boomerang", "nether_star", "",
+			"", "", "",
+			"", "", ""
+		],
+		"result": "lightning_boomerang",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"genre": "items",
+		"pattern": [
+			"iron_boomerang", "popped_chorus_fruit", "",
+			"", "", "",
+			"", "", ""
+		],
+		"result": "shulkerang",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"genre": "items",
+		"pattern": [
+			"iron_boomerang", "shulker_shell", "",
+			"", "", "",
+			"", "", ""
+		],
+		"result": "windy_boomerang",
+		"amount": 1
+	},
+	{
+		"type": "crafting",
+		"genre": "items",
+		"pattern": [
+			"netherite_boomerang", "wither_skeleton_head", "",
+			"", "", "",
+			"", "", ""
+		],
+		"result": "wither_boomerang",
+		"amount": 1
+	},
+]

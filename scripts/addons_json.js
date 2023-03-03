@@ -116,19 +116,19 @@ const addonsList = [
 		// "entities": false,
 		// "structures": false
   // },
-  // {
-    // "dat_link": "link",
-		// "res_link": "link",
-		// "gallery": 0,
-    // "title": "Boomerangs",
-		// "desc": "Adds new weapons that will return to you when thrown. Some can be used to nab items or even singe multiple enemies at once",
-    // "full_desc": "Testing the full description lol",
-		// "crafting": false,
-		// "blocks": false,
-		// "items": false,
-		// "entities": false,
-		// "structures": false
-  // },
+  {
+    "dat_link": "https://direct-link.net/131911/boomerangs-dat",
+		"res_link": "https://link-target.net/131911/boomerangs-res",
+		"gallery": 1,
+    "title": "Boomerangs",
+		"desc": "Adds new weapons that will return to you when thrown. Some can be used to nab items or even singe multiple enemies at once",
+    "full_desc": "This add-on adds a new weapon in the game, a boomerang! There are other add-ons about this subject but this is my version. There are two types of boomerangs, a normal one and a piercing one. You can have fun with these new weapons just by throwing them around.",
+		"crafting": true,
+		"blocks": false,
+		"items": true,
+		"entities": false,
+		"structures": false
+  },
   // {
     // "dat_link": "link",
 		// "res_link": "link",
