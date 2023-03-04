@@ -16,7 +16,7 @@ let type = addon.search('Skcolb') > 0 ? 'blocks' : 'items';
 var menu = JSON.parse(JSON.stringify(menuList));
 for(var i = 0; i < menu.length; i++){
   var match = menu[i].title.toLowerCase().replaceAll('!', '').replaceAll('-', '_').replaceAll('&', 'and').replaceAll(':', '').replaceAll("'", "").replaceAll(' ', '_');
-  if(addon.toLowerCase()  == match + `_${type.split("").reverse().join().replaceAll(',', '')}`){
+  if(addon.toLowerCase() == match + `_${type.split("").reverse().join().replaceAll(',', '')}`){
     title.textContent = `Craftrock | ${menu[i].title}`;
     header.textContent = `HOME < ${menu[i].title.toUpperCase()} < ${content} INFO`
   }
@@ -124,7 +124,7 @@ for(var i = 0; i < info.length; i++){
   var cells = document.getElementsByClassName('infoCell');
   var newCellImg = document.createElement('img');
   newCellImg.loading = 'lazy';
-  newCellImg.src = `../images/crafting/${info[i].name.toLowerCase().replaceAll('(', '').replaceAll(')', '').replaceAll('#', '').replaceAll('-', '_').replaceAll(' ', '_').replaceAll("'", "")}.png`;
+  newCellImg.src = `../images/crafting/${list}/${info[i].name.toLowerCase().replaceAll('(', '').replaceAll(')', '').replaceAll('#', '').replaceAll('-', '_').replaceAll(' ', '_').replaceAll("'", "")}.png`;
   cells[i].appendChild(newCellImg);
 }
 //selection
@@ -176,7 +176,7 @@ function setValues(clicked){
     
     var imgDiv = document.getElementsByClassName('infoItem');
     var newInfImg = document.createElement('img');
-    newInfImg.src = `../images/crafting/${clicked.name.toLowerCase().replaceAll('(', '').replaceAll(')', '').replaceAll('#', '').replaceAll(' ', '_').replaceAll("'", "")}_model.png`;
+    newInfImg.src = `../images/crafting/${list}/${clicked.name.toLowerCase().replaceAll('(', '').replaceAll(')', '').replaceAll('#', '').replaceAll(' ', '_').replaceAll("'", "")}_model.png`;
     imgDiv[0].appendChild(newInfImg);
     
     var cellImgDiv = document.createElement('div');
@@ -185,7 +185,7 @@ function setValues(clicked){
     
     var imgDiv = document.getElementsByClassName('infoItem');
     var newInfImg = document.createElement('img');
-    newInfImg.src = `../images/crafting/${clicked.name.toLowerCase().replaceAll('(', '').replaceAll(')', '').replaceAll('#', '').replaceAll(' ', '_').replaceAll("'", "")}.png`;
+    newInfImg.src = `../images/crafting/${list}/${clicked.name.toLowerCase().replaceAll('(', '').replaceAll(')', '').replaceAll('#', '').replaceAll(' ', '_').replaceAll("'", "")}.png`;
     imgDiv[1].appendChild(newInfImg);
   }
   else{
@@ -195,7 +195,7 @@ function setValues(clicked){
     
     var imgDiv = document.getElementsByClassName('infoItem');
     var newInfImg = document.createElement('img');
-    newInfImg.src = `../images/crafting/${clicked.name.toLowerCase().replaceAll('(', '').replaceAll(')', '').replaceAll('#', '').replaceAll(' ', '_').replaceAll("'", "")}.png`;
+    newInfImg.src = `../images/crafting/${list}/${clicked.name.toLowerCase().replaceAll('(', '').replaceAll(')', '').replaceAll('#', '').replaceAll(' ', '_').replaceAll("'", "")}.png`;
     imgDiv[0].appendChild(newInfImg);
   }
 }

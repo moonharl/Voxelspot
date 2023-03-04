@@ -119,7 +119,7 @@ for(var i = 0; i < recipe.length; i++){
         }
         else if(recipe[i].type == types[2]){
           for(var q = 0; q < recipe[i].intensity.length; q++){
-            cell[q].style.backgroundImage = "url('../images/crafting/" + recipe[i].intensity[q] + ".png')";
+            cell[q].style.backgroundImage = "url('../images/crafting/minecraft/" + recipe[i].intensity[q] + ".png')";
           }
           cell[0].classList.add('empty');
           cell[1].classList.add('empty');
