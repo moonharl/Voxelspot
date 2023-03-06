@@ -96,6 +96,42 @@ td{
   margin:5px;
 }
 
+.modal{
+  position:fixed;
+  height:100vh;
+  width:100vw;
+  top:0;
+  left:0;
+  background-color:#000000c7;
+  z-index:10;
+  display:none;
+  place-items:center;
+  user-select:none;
+}
+.modalMain{
+  height:75vh;
+  width:75vh;
+  backdrop-filter:blur(5px);
+  padding:25px;
+  border-radius:5px;
+  border:3px solid var(--cellColor);
+}
+.modalMain h1{
+  font-size:1.5em;
+  color:var(--lightBorder);
+  margin-block-end:0px;
+}
+.modalMain pre{
+  color:var(--cellColor);
+  padding-left:50px;
+  background-size:contain;
+  background-repeat:no-repeat;
+  text-wrap:ellipses;
+}
+#craftingIngredients, #craftingResult{
+  border-bottom:2px solid var(--cellColor);
+}
+
 .crafting{ background-image:var(--craftingIcon); }
 .brewing{ background-image:var(--brewingIcon); }
 .smelting{ background-image:var(--smeltingIcon); }

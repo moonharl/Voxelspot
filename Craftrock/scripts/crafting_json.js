@@ -1,6 +1,7 @@
 const total_carnage = [
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "total_carnage/jade", "",
@@ -12,6 +13,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "total_carnage/jade", "",
@@ -23,6 +25,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/jade", "total_carnage/jade", "total_carnage/jade",
@@ -34,6 +37,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "total_carnage/jade", "total_carnage/jade",
@@ -45,6 +49,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "total_carnage/jade", "total_carnage/jade",
@@ -56,6 +61,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/jade", "total_carnage/jade", "total_carnage/jade",
@@ -67,6 +73,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/jade", "total_carnage/jade", "total_carnage/jade",
@@ -78,6 +85,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_claymore", "total_carnage/jade", "",
@@ -89,6 +97,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_halberd", "total_carnage/jade", "",
@@ -100,6 +109,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_mace", "total_carnage/jade", "",
@@ -111,6 +121,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_swordspear", "total_carnage/jade", "",
@@ -122,6 +133,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_waraxe", "total_carnage/jade", "",
@@ -133,6 +145,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/jade", "", "total_carnage/jade",
@@ -144,6 +157,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/jade", "total_carnage/jade", "total_carnage/jade",
@@ -155,6 +169,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "", "",
@@ -166,6 +181,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "total_carnage/aceroid_ingot", "total_carnage/aceroid_ingot",
@@ -177,6 +193,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "total_carnage/aceroid_ingot", "total_carnage/aceroid_ingot",
@@ -188,6 +205,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/aceroid_ingot", "total_carnage/aceroid_ingot", "total_carnage/aceroid_ingot",
@@ -199,6 +217,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/aceroid_ingot", "total_carnage/aceroid_ingot", "total_carnage/aceroid_ingot",
@@ -210,6 +229,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/aceroid_nugget", "total_carnage/aceroid_nugget", "total_carnage/aceroid_nugget",
@@ -221,6 +241,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "", "",
@@ -232,6 +253,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/aceroid_ingot", "total_carnage/aceroid_ingot", "total_carnage/aceroid_ingot",
@@ -243,6 +265,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/aceroid_ingot", "", "total_carnage/aceroid_ingot",
@@ -254,6 +277,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_claymore", "total_carnage/aceroid_ingot", "",
@@ -265,6 +289,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_halberd", "total_carnage/aceroid_ingot", "",
@@ -276,6 +301,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_mace", "total_carnage/aceroid_ingot", "",
@@ -287,6 +313,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_swordspear", "total_carnage/aceroid_ingot", "",
@@ -298,6 +325,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_waraxe", "total_carnage/aceroid_ingot", "",
@@ -309,6 +337,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/aceroid_ingot", "total_carnage/aceroid_ingot", "total_carnage/aceroid_ingot",
@@ -320,6 +349,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/aceroid_block", "", "",
@@ -331,6 +361,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/aceroid_ingot", "", "",
@@ -342,6 +373,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/aceroid_ingot", "total_carnage/aceroid_ingot", "total_carnage/aceroid_ingot",
@@ -353,6 +385,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "total_carnage/aceroid_ingot", "",
@@ -364,6 +397,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "total_carnage/aceroid_ingot", "",
@@ -375,6 +409,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/little_rags", "total_carnage/aceroid_thread", "",
@@ -393,6 +428,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/popped_chorus_fruit", "minecraft/shulker_shell", "minecraft/popped_chorus_fruit",
@@ -404,6 +440,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "total_carnage/pruthox_ingot", "total_carnage/pruthox_ingot",
@@ -415,6 +452,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "total_carnage/pruthox_ingot", "total_carnage/pruthox_ingot",
@@ -426,6 +464,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/pruthox_ingot", "total_carnage/pruthox_ingot", "total_carnage/pruthox_ingot",
@@ -437,6 +476,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/pruthox_ingot", "total_carnage/pruthox_ingot", "total_carnage/pruthox_ingot",
@@ -448,6 +488,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/pruthox_nugget", "total_carnage/pruthox_nugget", "total_carnage/pruthox_nugget",
@@ -459,6 +500,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "", "",
@@ -470,6 +512,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/pruthox_ingot", "total_carnage/pruthox_ingot", "total_carnage/pruthox_ingot",
@@ -481,6 +524,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/pruthox_ingot", "", "total_carnage/pruthox_ingot",
@@ -492,6 +536,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_claymore", "total_carnage/pruthox_ingot", "",
@@ -503,6 +548,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_halberd", "total_carnage/pruthox_ingot", "",
@@ -514,6 +560,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_mace", "total_carnage/pruthox_ingot", "",
@@ -525,6 +572,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_swordspear", "total_carnage/pruthox_ingot", "",
@@ -536,6 +584,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_waraxe", "total_carnage/pruthox_ingot", "",
@@ -547,6 +596,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/pruthox_ingot", "total_carnage/pruthox_ingot", "total_carnage/pruthox_ingot",
@@ -558,6 +608,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/pruthox_block", "", "",
@@ -569,6 +620,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/pruthox_ingot", "", "",
@@ -580,6 +632,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/pruthox_ingot", "total_carnage/pruthox_ingot", "total_carnage/pruthox_ingot",
@@ -591,6 +644,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "total_carnage/pruthox_ingot", "",
@@ -602,6 +656,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "total_carnage/pruthox_ingot", "",
@@ -620,6 +675,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/little_rags", "total_carnage/pruthox_thread", "",
@@ -631,6 +687,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/ancient_bone_meal", "total_carnage/ancient_bone_meal", "total_carnage/ancient_bone_meal",
@@ -642,6 +699,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/ancient_bone_block", "", "",
@@ -653,6 +711,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/ancient_bone", "", "",
@@ -664,6 +723,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/fossil_piece", "", "",
@@ -675,6 +735,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/charred_bone_meal", "total_carnage/charred_bone_meal", "total_carnage/charred_bone_meal",
@@ -686,6 +747,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/charred_bone_block", "", "",
@@ -697,6 +759,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/charred_bone", "", "",
@@ -708,6 +771,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/malefic_bone_meal", "total_carnage/malefic_bone_meal", "total_carnage/malefic_bone_meal",
@@ -719,6 +783,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/malefic_bone_block", "", "",
@@ -730,6 +795,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/malefic_bone", "", "",
@@ -741,6 +807,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/luminous_bone_meal", "total_carnage/luminous_bone_meal", "total_carnage/luminous_bone_meal",
@@ -752,6 +819,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/luminous_bone_block", "", "",
@@ -763,6 +831,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/luminous_bone", "", "",
@@ -774,6 +843,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/arcane_powder", "total_carnage/arcane_powder", "total_carnage/arcane_powder",
@@ -785,6 +855,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/arcane_powder_block", "", "",
@@ -838,6 +909,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/glacial_ice", "total_carnage/glacial_ice", "total_carnage/glacial_ice",
@@ -849,6 +921,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/black_snowball", "total_carnage/black_snowball", "",
@@ -860,6 +933,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/polished_eldrock", "total_carnage/polished_eldrock", "total_carnage/polished_eldrock",
@@ -871,6 +945,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/moon_pumpkin", "", "",
@@ -882,6 +957,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/pumpkin_chunk", "total_carnage/pumpkin_chunk", "",
@@ -893,6 +969,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/moon_pumpkin_chunk", "total_carnage/moon_pumpkin_chunk", "",
@@ -904,6 +981,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/moon_pumpkin", "minecraft/egg", "minecraft/sugar",
@@ -915,6 +993,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/antilight_fragment", "", "total_carnage/antilight_fragment",
@@ -926,6 +1005,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/crying_obsidian", "total_carnage/nullen_core", "minecraft/crying_obsidian",
@@ -937,6 +1017,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/volcanic_carapace", "total_carnage/volcanic_carapace", "total_carnage/volcanic_carapace",
@@ -948,6 +1029,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/permaflow", "", "",
@@ -959,6 +1041,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "total_carnage/sonaga_horn", "",
@@ -970,6 +1053,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/diamond", "minecraft/diamond", "minecraft/diamond",
@@ -981,6 +1065,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/diamond", "total_carnage/gold_claymore", "",
@@ -992,6 +1077,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/diamond", "total_carnage/gold_halberd", "",
@@ -1003,6 +1089,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/diamond", "total_carnage/gold_mace", "",
@@ -1014,6 +1101,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/diamond", "total_carnage/gold_swordspear", "",
@@ -1025,6 +1113,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/diamond", "total_carnage/gold_waraxe", "",
@@ -1036,6 +1125,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "total_carnage/wrathen_metal_ingot", "total_carnage/wrathen_metal_ingot",
@@ -1047,6 +1137,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "total_carnage/wrathen_metal_ingot", "total_carnage/wrathen_metal_ingot",
@@ -1058,6 +1149,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/wrathen_metal_ingot", "total_carnage/wrathen_metal_ingot", "total_carnage/wrathen_metal_ingot",
@@ -1069,6 +1161,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/wrathen_metal_ingot", "total_carnage/wrathen_metal_ingot", "total_carnage/wrathen_metal_ingot",
@@ -1080,6 +1173,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/wrathen_metal_nugget", "total_carnage/wrathen_metal_nugget", "total_carnage/wrathen_metal_nugget",
@@ -1091,6 +1185,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "", "",
@@ -1102,6 +1197,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/wrathen_metal_ingot", "total_carnage/wrathen_metal_ingot", "total_carnage/wrathen_metal_ingot",
@@ -1113,6 +1209,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/wrathen_metal_ingot", "", "total_carnage/wrathen_metal_ingot",
@@ -1124,6 +1221,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_claymore", "total_carnage/wrathen_metal_ingot", "",
@@ -1135,6 +1233,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_halberd", "total_carnage/wrathen_metal_ingot", "",
@@ -1146,6 +1245,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_mace", "total_carnage/wrathen_metal_ingot", "",
@@ -1157,6 +1257,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_swordspear", "total_carnage/wrathen_metal_ingot", "",
@@ -1168,6 +1269,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_waraxe", "total_carnage/wrathen_metal_ingot", "",
@@ -1179,6 +1281,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/wrathen_metal_ingot", "total_carnage/wrathen_metal_ingot", "total_carnage/wrathen_metal_ingot",
@@ -1190,6 +1293,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/wrathen_metal_block", "", "",
@@ -1201,6 +1305,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/wrathen_metal_ingot", "", "",
@@ -1212,6 +1317,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/wrathen_metal_ingot", "total_carnage/wrathen_metal_ingot", "total_carnage/wrathen_metal_ingot",
@@ -1223,6 +1329,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "total_carnage/wrathen_metal_ingot", "",
@@ -1234,6 +1341,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "total_carnage/wrathen_metal_ingot", "",
@@ -1252,6 +1360,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/little_rags", "total_carnage/wrathen_metal_thread", "",
@@ -1270,6 +1379,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "total_carnage/bloodiron_ingot", "total_carnage/bloodiron_ingot",
@@ -1281,6 +1391,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "total_carnage/bloodiron_ingot", "total_carnage/bloodiron_ingot",
@@ -1292,6 +1403,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/bloodiron_ingot", "total_carnage/bloodiron_ingot", "total_carnage/bloodiron_ingot",
@@ -1303,6 +1415,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/bloodiron_ingot", "total_carnage/bloodiron_ingot", "total_carnage/bloodiron_ingot",
@@ -1314,6 +1427,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/bloodiron_nugget", "total_carnage/bloodiron_nugget", "total_carnage/bloodiron_nugget",
@@ -1325,6 +1439,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "", "",
@@ -1336,6 +1451,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/bloodiron_ingot", "total_carnage/bloodiron_ingot", "total_carnage/bloodiron_ingot",
@@ -1347,6 +1463,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/bloodiron_ingot", "", "total_carnage/bloodiron_ingot",
@@ -1358,6 +1475,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_claymore", "total_carnage/bloodiron_ingot", "",
@@ -1369,6 +1487,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_halberd", "total_carnage/bloodiron_ingot", "",
@@ -1380,6 +1499,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_mace", "total_carnage/bloodiron_ingot", "",
@@ -1391,6 +1511,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_swordspear", "total_carnage/bloodiron_ingot", "",
@@ -1402,6 +1523,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_waraxe", "total_carnage/bloodiron_ingot", "",
@@ -1413,6 +1535,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/bloodiron_ingot", "total_carnage/bloodiron_ingot", "total_carnage/bloodiron_ingot",
@@ -1424,6 +1547,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/bloodiron_block", "", "",
@@ -1435,6 +1559,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/bloodiron_ingot", "", "",
@@ -1446,6 +1571,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/bloodiron_ingot", "total_carnage/bloodiron_ingot", "total_carnage/bloodiron_ingot",
@@ -1457,6 +1583,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "total_carnage/bloodiron_ingot", "",
@@ -1468,6 +1595,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "total_carnage/bloodiron_ingot", "",
@@ -1479,6 +1607,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/little_rags", "total_carnage/bloodiron_thread", "",
@@ -1511,6 +1640,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "total_carnage/durasteel_ingot", "total_carnage/durasteel_ingot",
@@ -1522,6 +1652,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "total_carnage/durasteel_ingot", "total_carnage/durasteel_ingot",
@@ -1533,6 +1664,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/durasteel_ingot", "total_carnage/durasteel_ingot", "total_carnage/durasteel_ingot",
@@ -1544,6 +1676,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/durasteel_ingot", "total_carnage/durasteel_ingot", "total_carnage/durasteel_ingot",
@@ -1555,6 +1688,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/durasteel_nugget", "total_carnage/durasteel_nugget", "total_carnage/durasteel_nugget",
@@ -1566,6 +1700,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "", "",
@@ -1577,6 +1712,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/durasteel_ingot", "total_carnage/durasteel_ingot", "total_carnage/durasteel_ingot",
@@ -1588,6 +1724,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/durasteel_ingot", "", "total_carnage/durasteel_ingot",
@@ -1599,6 +1736,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_claymore", "total_carnage/durasteel_ingot", "",
@@ -1610,6 +1748,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_halberd", "total_carnage/durasteel_ingot", "",
@@ -1621,6 +1760,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_mace", "total_carnage/durasteel_ingot", "",
@@ -1632,6 +1772,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_swordspear", "total_carnage/durasteel_ingot", "",
@@ -1643,6 +1784,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gold_waraxe", "total_carnage/durasteel_ingot", "",
@@ -1654,6 +1796,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/durasteel_ingot", "total_carnage/durasteel_ingot", "total_carnage/durasteel_ingot",
@@ -1665,6 +1808,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/durasteel_block", "", "",
@@ -1676,6 +1820,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/durasteel_ingot", "", "",
@@ -1687,6 +1832,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/durasteel_ingot", "total_carnage/durasteel_ingot", "total_carnage/durasteel_ingot",
@@ -1698,6 +1844,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "total_carnage/durasteel_ingot", "",
@@ -1709,6 +1856,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "total_carnage/durasteel_ingot", "",
@@ -1727,6 +1875,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/little_rags", "total_carnage/durasteel_thread", "",
@@ -1738,6 +1887,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/water_bucket", "total_carnage/soiled_sponge", "",
@@ -1749,6 +1899,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/taalite", "minecraft/stone_pickaxe", "total_carnage/taalite",
@@ -1760,6 +1911,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/stone", "minecraft/stone", "minecraft/stone",
@@ -1771,6 +1923,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/stone", "total_carnage/wooden_claymore", "",
@@ -1782,6 +1935,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/stone", "total_carnage/wooden_halberd", "",
@@ -1793,6 +1947,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/stone", "total_carnage/wooden_mace", "",
@@ -1804,6 +1959,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/stone", "total_carnage/wooden_swordspear", "",
@@ -1815,6 +1971,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/stone", "total_carnage/wooden_waraxe", "",
@@ -1826,6 +1983,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/stone", "minecraft/stone_pickaxe", "minecraft/stone",
@@ -1837,6 +1995,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/granite", "minecraft/stone_pickaxe", "minecraft/granite",
@@ -1848,6 +2007,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/diorite", "minecraft/stone_pickaxe", "minecraft/diorite",
@@ -1859,6 +2019,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/andesite", "minecraft/stone_pickaxe", "minecraft/andesite",
@@ -1870,6 +2031,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/seasalt", "minecraft/stone_pickaxe", "total_carnage/seasalt",
@@ -1881,6 +2043,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/rhodusite", "minecraft/stone_pickaxe", "total_carnage/rhodusite",
@@ -1892,6 +2055,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/rhodochrosite", "minecraft/stone_pickaxe", "total_carnage/rhodochrosite",
@@ -1903,6 +2067,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/perchrock", "minecraft/stone_pickaxe", "total_carnage/perchrock",
@@ -1914,6 +2079,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/glacial_ice", "minecraft/stone_pickaxe", "total_carnage/glacial_ice",
@@ -1925,6 +2091,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/feldspar", "minecraft/stone_pickaxe", "total_carnage/feldspar",
@@ -1936,6 +2103,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/eldrock", "minecraft/stone_pickaxe", "total_carnage/eldrock",
@@ -1947,6 +2115,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/asteroid", "minecraft/stone_pickaxe", "total_carnage/asteroid",
@@ -1958,6 +2127,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/taalite", "total_carnage/taalite", "total_carnage/taalite",
@@ -1969,6 +2139,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/stone", "minecraft/stone", "minecraft/stone",
@@ -1980,6 +2151,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/granite", "minecraft/granite", "minecraft/granite",
@@ -1991,6 +2163,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/diorite", "minecraft/diorite", "minecraft/diorite",
@@ -2002,6 +2175,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/andesite", "minecraft/andesite", "minecraft/andesite",
@@ -2013,6 +2187,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/seasalt", "total_carnage/seasalt", "total_carnage/seasalt",
@@ -2024,6 +2199,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/rhodusite", "total_carnage/rhodusite", "total_carnage/rhodusite",
@@ -2035,6 +2211,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/rhodochrosite", "total_carnage/rhodochrosite", "total_carnage/rhodochrosite",
@@ -2046,6 +2223,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/perchrock", "total_carnage/perchrock", "total_carnage/perchrock",
@@ -2057,6 +2235,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/glacial_ice", "total_carnage/glacial_ice", "total_carnage/glacial_ice",
@@ -2068,6 +2247,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/feldspar", "total_carnage/feldspar", "total_carnage/feldspar",
@@ -2079,6 +2259,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/eldrock", "total_carnage/eldrock", "total_carnage/eldrock",
@@ -2090,6 +2271,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/asteroid", "total_carnage/asteroid", "total_carnage/asteroid",
@@ -2101,6 +2283,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/tarbleck", "", "",
@@ -2112,6 +2295,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/biocarbon", "total_carnage/biocarbon", "",
@@ -2123,6 +2307,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/titan_moonstone", "total_carnage/ember_powder", "total_carnage/iron_claymore",
@@ -2134,6 +2319,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/io_moonstone", "total_carnage/ember_powder", "total_carnage/iron_claymore",
@@ -2145,6 +2331,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/ganymede_moonstone", "total_carnage/ember_powder", "total_carnage/iron_claymore",
@@ -2156,6 +2343,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/europa_moonstone", "total_carnage/ember_powder", "total_carnage/iron_claymore",
@@ -2167,6 +2355,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/callisto_moonstone", "total_carnage/ember_powder", "total_carnage/iron_claymore",
@@ -2178,6 +2367,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/iron_nugget", "", "",
@@ -2196,6 +2386,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/iron_ingot", "minecraft/iron_ingot", "minecraft/iron_ingot",
@@ -2207,6 +2398,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/iron_ingot", "total_carnage/stone_claymore", "",
@@ -2218,6 +2410,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/iron_ingot", "total_carnage/stone_halberd", "",
@@ -2229,6 +2422,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/iron_ingot", "total_carnage/stone_mace", "",
@@ -2240,6 +2434,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/iron_ingot", "total_carnage/stone_swordspear", "",
@@ -2251,6 +2446,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/iron_ingot", "total_carnage/stone_waraxe", "",
@@ -2262,6 +2458,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/toxic_waste_mass", "total_carnage/toxic_waste_mass", "total_carnage/toxic_waste_mass",
@@ -2273,6 +2470,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -2284,6 +2482,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/toxic_waste_block", "", "",
@@ -2295,6 +2494,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/toxic_waste_carpet", "", "",
@@ -2306,6 +2506,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/gloomy_sludge", "total_carnage/gloomy_sludge", "total_carnage/gloomy_sludge",
@@ -2317,6 +2518,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -2328,6 +2530,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gloomy_sludge_block", "", "",
@@ -2339,6 +2542,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gloomy_sludge_carpet", "", "",
@@ -2350,6 +2554,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/anvil", "minecraft/anvil", "minecraft/anvil",
@@ -2361,6 +2566,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/anvil", "minecraft/anvil", "minecraft/anvil",
@@ -2372,6 +2578,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/anvil", "minecraft/anvil", "minecraft/anvil",
@@ -2383,6 +2590,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/anvil", "minecraft/anvil", "minecraft/anvil",
@@ -2401,6 +2609,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/gold_ingot", "minecraft/gold_ingot", "minecraft/gold_ingot",
@@ -2412,6 +2621,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/gold_ingot", "total_carnage/iron_claymore", "",
@@ -2423,6 +2633,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/gold_ingot", "total_carnage/iron_halberd", "",
@@ -2434,6 +2645,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/gold_ingot", "total_carnage/iron_mace", "",
@@ -2445,6 +2657,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/gold_ingot", "total_carnage/iron_swordspear", "",
@@ -2456,6 +2669,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/gold_ingot", "total_carnage/iron_waraxe", "",
@@ -2467,6 +2681,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gyro_shards", "total_carnage/gyro_shards", "total_carnage/gyro_shards",
@@ -2478,6 +2693,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/gyro_gem", "total_carnage/zephyr_crown", "total_carnage/gyro_shards",
@@ -2496,6 +2712,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/netherite_ingot", "minecraft/netherite_ingot", "minecraft/netherite_ingot",
@@ -2507,6 +2724,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/netherite_ingot", "total_carnage/diamond_claymore", "",
@@ -2518,6 +2736,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/netherite_ingot", "total_carnage/diamond_halberd", "",
@@ -2529,6 +2748,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/netherite_ingot", "total_carnage/diamond_mace", "",
@@ -2540,6 +2760,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/netherite_ingot", "total_carnage/diamond_swordspear", "",
@@ -2551,6 +2772,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/netherite_ingot", "total_carnage/diamond_waraxe", "",
@@ -2569,6 +2791,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/raw_cerebral_gut", "total_carnage/raw_cerebral_gut", "",
@@ -2580,6 +2803,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/cerebral_block", "", "",
@@ -2591,6 +2815,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/undead_fang", "", "",
@@ -2602,6 +2827,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/shellcut_spike", "", "",
@@ -2613,6 +2839,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "total_carnage/undead_fang", "minecraft/bone",
@@ -2624,6 +2851,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/rotten_flesh", "total_carnage/biocarbon", "",
@@ -2656,6 +2884,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/ember_powder", "total_carnage/ember_powder", "total_carnage/ember_powder",
@@ -2667,6 +2896,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/ember_powder_block", "", "",
@@ -2678,6 +2908,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/raw_tender_gut", "total_carnage/raw_tender_gut", "",
@@ -2689,6 +2920,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/flesh_block", "", "",
@@ -2700,6 +2932,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/water_bucket", "total_carnage/famine_potion", "minecraft/water_bucket",
@@ -2711,6 +2944,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/little_rags", "total_carnage/gold_thread", "",
@@ -2722,6 +2956,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/little_rags", "total_carnage/iron_thread", "",
@@ -2733,6 +2968,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/little_rags", "total_carnage/netherite_thread", "",
@@ -2744,6 +2980,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/rotten_flesh", "minecraft/glowstone_dust", "minecraft/rotten_flesh",
@@ -2755,6 +2992,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/glowstone_dust", "minecraft/glowstone_dust", "minecraft/glowstone_dust",
@@ -2766,6 +3004,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/vigorous_muscle", "total_carnage/vigorous_muscle", "",
@@ -2777,6 +3016,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/muscle_fiber", "", "",
@@ -2788,6 +3028,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/moon_pumpkin", "", "",
@@ -2799,6 +3040,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/moth_silk_strand", "total_carnage/moth_silk_strand", "total_carnage/moth_silk_strand",
@@ -2810,6 +3052,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/moth_silk", "", "",
@@ -2821,6 +3064,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/bloodclot", "minecraft/cobblestone", "",
@@ -2832,6 +3076,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/sand", "minecraft/water_bucket", "",
@@ -2843,6 +3088,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/red_sand", "minecraft/water_bucket", "",
@@ -2854,6 +3100,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/redstone_scute", "", "",
@@ -2865,6 +3112,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/redstone_scute", "total_carnage/redstone_scute", "total_carnage/redstone_scute",
@@ -2876,6 +3124,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/rotten_slime_ball", "total_carnage/rotten_slime_ball", "total_carnage/rotten_slime_ball",
@@ -2887,6 +3136,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/rotten_slime_block", "", "",
@@ -2898,6 +3148,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/ringwyrm_scales", "", "total_carnage/ringwyrm_scales",
@@ -2909,6 +3160,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/snapped_branch", "", "",
@@ -2920,6 +3172,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/bloodclot", "total_carnage/bloodclot", "total_carnage/bloodclot",
@@ -2931,6 +3184,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/oak_planks", "minecraft/oak_planks", "minecraft/oak_planks",
@@ -2942,6 +3196,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/oak_planks", "total_carnage/ruined_claymore", "",
@@ -2953,6 +3208,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/oak_planks", "total_carnage/ruined_halberd", "",
@@ -2964,6 +3220,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/oak_planks", "total_carnage/ruined_mace", "",
@@ -2975,6 +3232,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/oak_planks", "total_carnage/ruined_swordspear", "",
@@ -2986,6 +3244,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/oak_planks", "total_carnage/ruined_waraxe", "",
@@ -2997,6 +3256,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/wooden_splinter", "total_carnage/wooden_splinter", "total_carnage/wooden_splinter",
@@ -3008,6 +3268,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/wooden_splinter", "total_carnage/wooden_splinter", "total_carnage/snapped_branch",
@@ -3019,6 +3280,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/blaze_powder", "minecraft/blaze_powder", "minecraft/blaze_powder",
@@ -3030,6 +3292,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"", "", "",
@@ -3041,6 +3304,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/seasalt_chunk", "total_carnage/seasalt_chunk", "total_carnage/seasalt_chunk",
@@ -3052,6 +3316,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"total_carnage/seasalt", "", "",
@@ -3063,6 +3328,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/seasalt", "total_carnage/seasalt", "total_carnage/seasalt",
@@ -3081,6 +3347,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -3099,6 +3366,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/seasalt_bricks",
@@ -3117,6 +3385,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -3143,6 +3412,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/seasalt", "", "",
@@ -3161,6 +3431,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -3179,6 +3450,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/seasalt",
@@ -3197,6 +3469,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -3215,6 +3488,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -3233,6 +3507,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/cobbled_seasalt",
@@ -3251,6 +3526,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -3269,6 +3545,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_seasalt", "total_carnage/polished_seasalt", "",
@@ -3287,6 +3564,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_seasalt", "", "",
@@ -3305,6 +3583,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_seasalt", "total_carnage/polished_seasalt", "total_carnage/polished_seasalt",
@@ -3323,6 +3602,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -3341,6 +3621,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/polished_seasalt",
@@ -3359,6 +3640,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -3377,6 +3659,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -3395,6 +3678,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/polished_seasalt_bricks",
@@ -3413,6 +3697,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -3431,6 +3716,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_seasalt_slab", "", "",
@@ -3449,6 +3735,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/seasalt_slab", "", "",
@@ -3467,6 +3754,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/taalite", "total_carnage/taalite", "total_carnage/taalite",
@@ -3485,6 +3773,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -3503,6 +3792,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/taalite_bricks",
@@ -3521,6 +3811,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -3547,6 +3838,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/taalite", "", "",
@@ -3565,6 +3857,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -3583,6 +3876,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/taalite",
@@ -3601,6 +3895,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -3619,6 +3914,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -3637,6 +3933,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/cobbled_taalite",
@@ -3655,6 +3952,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -3673,6 +3971,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_taalite", "total_carnage/polished_taalite", "",
@@ -3691,6 +3990,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_taalite", "", "",
@@ -3709,6 +4009,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_taalite", "total_carnage/polished_taalite", "total_carnage/polished_taalite",
@@ -3727,6 +4028,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -3745,6 +4047,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/polished_taalite",
@@ -3763,6 +4066,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -3781,6 +4085,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -3799,6 +4104,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/polished_taalite_bricks",
@@ -3817,6 +4123,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -3835,6 +4142,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_taalite_slab", "", "",
@@ -3853,6 +4161,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/taalite_slab", "", "",
@@ -3871,6 +4180,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/eldrock", "total_carnage/eldrock", "total_carnage/eldrock",
@@ -3889,6 +4199,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -3907,6 +4218,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/eldrock_bricks",
@@ -3925,6 +4237,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -3951,6 +4264,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/eldrock", "", "",
@@ -3969,6 +4283,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -3987,6 +4302,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/eldrock",
@@ -4005,6 +4321,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -4023,6 +4340,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -4041,6 +4359,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/cobbled_eldrock",
@@ -4059,6 +4378,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -4077,6 +4397,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_eldrock", "total_carnage/polished_eldrock", "",
@@ -4095,6 +4416,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_eldrock", "", "",
@@ -4113,6 +4435,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_eldrock", "total_carnage/polished_eldrock", "total_carnage/polished_eldrock",
@@ -4131,6 +4454,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -4149,6 +4473,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/polished_eldrock",
@@ -4167,6 +4492,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -4185,6 +4511,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -4203,6 +4530,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/polished_eldrock_bricks",
@@ -4221,6 +4549,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -4239,6 +4568,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_eldrock_slab", "", "",
@@ -4257,6 +4587,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/eldrock_slab", "", "",
@@ -4275,6 +4606,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/glacial_ice", "total_carnage/glacial_ice", "total_carnage/glacial_ice",
@@ -4293,6 +4625,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -4311,6 +4644,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/glacial_ice_bricks",
@@ -4329,6 +4663,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -4355,6 +4690,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/glacial_ice", "", "",
@@ -4373,6 +4709,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -4391,6 +4728,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/glacial_ice",
@@ -4409,6 +4747,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -4427,6 +4766,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -4445,6 +4785,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/cobbled_glacial_ice",
@@ -4463,6 +4804,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -4481,6 +4823,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_glacial_ice", "total_carnage/polished_glacial_ice", "",
@@ -4499,6 +4842,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_glacial_ice", "", "",
@@ -4517,6 +4861,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_glacial_ice", "total_carnage/polished_glacial_ice", "total_carnage/polished_glacial_ice",
@@ -4535,6 +4880,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -4553,6 +4899,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/polished_glacial_ice",
@@ -4571,6 +4918,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -4589,6 +4937,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -4607,6 +4956,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/polished_glacial_ice_bricks",
@@ -4625,6 +4975,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -4643,6 +4994,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_glacial_ice_slab", "", "",
@@ -4661,6 +5013,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/glacial_ice_slab", "", "",
@@ -4679,6 +5032,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/rhodusite", "total_carnage/rhodusite", "total_carnage/rhodusite",
@@ -4697,6 +5051,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -4715,6 +5070,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/rhodusite_bricks",
@@ -4733,6 +5089,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -4759,6 +5116,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/rhodusite", "", "",
@@ -4777,6 +5135,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -4795,6 +5154,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/rhodusite",
@@ -4813,6 +5173,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -4831,6 +5192,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -4849,6 +5211,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/cobbled_rhodusite",
@@ -4867,6 +5230,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -4885,6 +5249,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_rhodusite", "total_carnage/polished_rhodusite", "",
@@ -4903,6 +5268,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_rhodusite", "", "",
@@ -4921,6 +5287,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_rhodusite", "total_carnage/polished_rhodusite", "total_carnage/polished_rhodusite",
@@ -4939,6 +5306,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -4957,6 +5325,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/polished_rhodusite",
@@ -4975,6 +5344,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -4993,6 +5363,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -5011,6 +5382,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/polished_rhodusite_bricks",
@@ -5029,6 +5401,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -5047,6 +5420,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_rhodusite_slab", "", "",
@@ -5065,6 +5439,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/rhodusite_slab", "", "",
@@ -5083,6 +5458,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/asteroid", "total_carnage/asteroid", "total_carnage/asteroid",
@@ -5101,6 +5477,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -5119,6 +5496,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/asteroid_bricks",
@@ -5137,6 +5515,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -5163,6 +5542,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/asteroid", "", "",
@@ -5181,6 +5561,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -5199,6 +5580,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/asteroid",
@@ -5217,6 +5599,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -5235,6 +5618,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -5253,6 +5637,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/cobbled_asteroid",
@@ -5271,6 +5656,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -5289,6 +5675,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_asteroid", "total_carnage/polished_asteroid", "",
@@ -5307,6 +5694,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_asteroid", "", "",
@@ -5325,6 +5713,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_asteroid", "total_carnage/polished_asteroid", "total_carnage/polished_asteroid",
@@ -5343,6 +5732,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -5361,6 +5751,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/polished_asteroid",
@@ -5379,6 +5770,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -5397,6 +5789,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -5415,6 +5808,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/polished_asteroid_bricks",
@@ -5433,6 +5827,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -5451,6 +5846,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_asteroid_slab", "", "",
@@ -5469,6 +5865,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/asteroid_slab", "", "",
@@ -5487,6 +5884,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/rhodochrosite", "total_carnage/rhodochrosite", "total_carnage/rhodochrosite",
@@ -5505,6 +5903,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -5523,6 +5922,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/rhodochrosite_bricks",
@@ -5541,6 +5941,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -5567,6 +5968,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/rhodochrosite", "", "",
@@ -5585,6 +5987,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -5603,6 +6006,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/rhodochrosite",
@@ -5621,6 +6025,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -5639,6 +6044,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -5657,6 +6063,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/cobbled_rhodochrosite",
@@ -5675,6 +6082,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -5693,6 +6101,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_rhodochrosite", "total_carnage/polished_rhodochrosite", "",
@@ -5711,6 +6120,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_rhodochrosite", "", "",
@@ -5729,6 +6139,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_rhodochrosite", "total_carnage/polished_rhodochrosite", "total_carnage/polished_rhodochrosite",
@@ -5747,6 +6158,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -5765,6 +6177,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/polished_rhodochrosite",
@@ -5783,6 +6196,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -5801,6 +6215,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -5819,6 +6234,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/polished_rhodochrosite_bricks",
@@ -5837,6 +6253,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -5855,6 +6272,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_rhodochrosite_slab", "", "",
@@ -5873,6 +6291,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/rhodochrosite_slab", "", "",
@@ -5891,6 +6310,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/perchrock", "total_carnage/perchrock", "total_carnage/perchrock",
@@ -5909,6 +6329,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -5927,6 +6348,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/perchrock_bricks",
@@ -5945,6 +6367,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -5971,6 +6394,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/perchrock", "", "",
@@ -5989,6 +6413,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -6007,6 +6432,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/perchrock",
@@ -6025,6 +6451,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -6043,6 +6470,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -6061,6 +6489,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/cobbled_perchrock",
@@ -6079,6 +6508,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -6097,6 +6527,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_perchrock", "total_carnage/polished_perchrock", "",
@@ -6115,6 +6546,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_perchrock", "", "",
@@ -6133,6 +6565,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_perchrock", "total_carnage/polished_perchrock", "total_carnage/polished_perchrock",
@@ -6151,6 +6584,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -6169,6 +6603,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/polished_perchrock",
@@ -6187,6 +6622,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -6205,6 +6641,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -6223,6 +6660,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/polished_perchrock_bricks",
@@ -6241,6 +6679,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -6259,6 +6698,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_perchrock_slab", "", "",
@@ -6277,6 +6717,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/perchrock_slab", "", "",
@@ -6295,6 +6736,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/feldspar", "total_carnage/feldspar", "total_carnage/feldspar",
@@ -6313,6 +6755,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -6331,6 +6774,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/feldspar_bricks",
@@ -6349,6 +6793,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -6375,6 +6820,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/feldspar", "", "",
@@ -6393,6 +6839,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -6411,6 +6858,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/feldspar",
@@ -6429,6 +6877,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -6447,6 +6896,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -6465,6 +6915,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/cobbled_feldspar",
@@ -6483,6 +6934,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -6501,6 +6953,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_feldspar", "total_carnage/polished_feldspar", "",
@@ -6519,6 +6972,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_feldspar", "", "",
@@ -6537,6 +6991,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_feldspar", "total_carnage/polished_feldspar", "total_carnage/polished_feldspar",
@@ -6555,6 +7010,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -6573,6 +7029,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/polished_feldspar",
@@ -6591,6 +7048,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -6609,6 +7067,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -6627,6 +7086,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/polished_feldspar_bricks",
@@ -6645,6 +7105,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -6663,6 +7124,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_feldspar_slab", "", "",
@@ -6681,6 +7143,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/feldspar_slab", "", "",
@@ -6699,6 +7162,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/jade", "total_carnage/jade", "total_carnage/jade",
@@ -6717,6 +7181,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -6735,6 +7200,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/jade_bricks",
@@ -6753,6 +7219,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -6779,6 +7246,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/jade", "", "",
@@ -6797,6 +7265,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -6815,6 +7284,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/jade",
@@ -6833,6 +7303,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -6851,6 +7322,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -6869,6 +7341,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/cobbled_jade",
@@ -6887,6 +7360,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -6905,6 +7379,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_jade", "total_carnage/polished_jade", "",
@@ -6923,6 +7398,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_jade", "", "",
@@ -6941,6 +7417,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_jade", "total_carnage/polished_jade", "total_carnage/polished_jade",
@@ -6959,6 +7436,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -6977,6 +7455,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/polished_jade",
@@ -6995,6 +7474,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -7013,6 +7493,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -7031,6 +7512,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "total_carnage/polished_jade_bricks",
@@ -7049,6 +7531,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"", "", "",
@@ -7067,6 +7550,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/polished_jade_slab", "", "",
@@ -7085,6 +7569,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"total_carnage/jade_slab", "", "",
@@ -7103,6 +7588,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/black_canker_shell", "", "",
@@ -7114,6 +7600,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/blue_canker_shell", "", "",
@@ -7125,6 +7612,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/brown_canker_shell", "", "",
@@ -7136,6 +7624,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/cyan_canker_shell", "", "",
@@ -7147,6 +7636,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/gray_canker_shell", "", "",
@@ -7158,6 +7648,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/green_canker_shell", "", "",
@@ -7169,6 +7660,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/light_blue_canker_shell", "", "",
@@ -7180,6 +7672,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/lime_canker_shell", "", "",
@@ -7191,6 +7684,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/magenta_canker_shell", "", "",
@@ -7202,6 +7696,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/orange_canker_shell", "", "",
@@ -7213,6 +7708,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/pink_canker_shell", "", "",
@@ -7224,6 +7720,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/purple_canker_shell", "", "",
@@ -7235,6 +7732,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/red_canker_shell", "", "",
@@ -7246,6 +7744,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/silver_canker_shell", "", "",
@@ -7257,6 +7756,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/white_canker_shell", "", "",
@@ -7268,6 +7768,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/yellow_canker_shell", "", "",
@@ -7503,6 +8004,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/black_shellbit_mucus", "total_carnage/black_shellbit_mucus", "total_carnage/black_shellbit_mucus",
@@ -7514,6 +8016,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/blue_shellbit_mucus", "total_carnage/blue_shellbit_mucus", "total_carnage/blue_shellbit_mucus",
@@ -7525,6 +8028,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/brown_shellbit_mucus", "total_carnage/brown_shellbit_mucus", "total_carnage/brown_shellbit_mucus",
@@ -7536,6 +8040,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/cyan_shellbit_mucus", "total_carnage/cyan_shellbit_mucus", "total_carnage/cyan_shellbit_mucus",
@@ -7547,6 +8052,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/gray_shellbit_mucus", "total_carnage/gray_shellbit_mucus", "total_carnage/gray_shellbit_mucus",
@@ -7558,6 +8064,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/green_shellbit_mucus", "total_carnage/green_shellbit_mucus", "total_carnage/green_shellbit_mucus",
@@ -7569,6 +8076,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/light_blue_shellbit_mucus", "total_carnage/light_blue_shellbit_mucus", "total_carnage/light_blue_shellbit_mucus",
@@ -7580,6 +8088,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/lime_shellbit_mucus", "total_carnage/lime_shellbit_mucus", "total_carnage/lime_shellbit_mucus",
@@ -7591,6 +8100,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/magenta_shellbit_mucus", "total_carnage/magenta_shellbit_mucus", "total_carnage/magenta_shellbit_mucus",
@@ -7602,6 +8112,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/orange_shellbit_mucus", "total_carnage/orange_shellbit_mucus", "total_carnage/orange_shellbit_mucus",
@@ -7613,6 +8124,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/pink_shellbit_mucus", "total_carnage/pink_shellbit_mucus", "total_carnage/pink_shellbit_mucus",
@@ -7624,6 +8136,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/purple_shellbit_mucus", "total_carnage/purple_shellbit_mucus", "total_carnage/purple_shellbit_mucus",
@@ -7635,6 +8148,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/red_shellbit_mucus", "total_carnage/red_shellbit_mucus", "total_carnage/red_shellbit_mucus",
@@ -7646,6 +8160,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/silver_shellbit_mucus", "total_carnage/silver_shellbit_mucus", "total_carnage/silver_shellbit_mucus",
@@ -7657,6 +8172,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/white_shellbit_mucus", "total_carnage/white_shellbit_mucus", "total_carnage/white_shellbit_mucus",
@@ -7668,6 +8184,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/yellow_shellbit_mucus", "total_carnage/yellow_shellbit_mucus", "total_carnage/yellow_shellbit_mucus",
@@ -7679,6 +8196,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/black_mucus_block", "", "",
@@ -7690,6 +8208,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/blue_mucus_block", "", "",
@@ -7701,6 +8220,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/brown_mucus_block", "", "",
@@ -7712,6 +8232,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/cyan_mucus_block", "", "",
@@ -7723,6 +8244,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/gray_mucus_block", "", "",
@@ -7734,6 +8256,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/green_mucus_block", "", "",
@@ -7745,6 +8268,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/light_blue_mucus_block", "", "",
@@ -7756,6 +8280,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/lime_mucus_block", "", "",
@@ -7767,6 +8292,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/magenta_mucus_block", "", "",
@@ -7778,6 +8304,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/orange_mucus_block", "", "",
@@ -7789,6 +8316,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/pink_mucus_block", "", "",
@@ -7800,6 +8328,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/purple_mucus_block", "", "",
@@ -7811,6 +8340,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/red_mucus_block", "", "",
@@ -7822,6 +8352,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/silver_mucus_block", "", "",
@@ -7833,6 +8364,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/white_mucus_block", "", "",
@@ -7844,6 +8376,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/yellow_mucus_block", "", "",
@@ -7855,6 +8388,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/black_shellbit_tile", "", "",
@@ -7866,6 +8400,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/blue_shellbit_tile", "", "",
@@ -7877,6 +8412,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/brown_shellbit_tile", "", "",
@@ -7888,6 +8424,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/cyan_shellbit_tile", "", "",
@@ -7899,6 +8436,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/gray_shellbit_tile", "", "",
@@ -7910,6 +8448,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/green_shellbit_tile", "", "",
@@ -7921,6 +8460,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/light_blue_shellbit_tile", "", "",
@@ -7932,6 +8472,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/lime_shellbit_tile", "", "",
@@ -7943,6 +8484,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/magenta_shellbit_tile", "", "",
@@ -7954,6 +8496,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/orange_shellbit_tile", "", "",
@@ -7965,6 +8508,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/pink_shellbit_tile", "", "",
@@ -7976,6 +8520,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/purple_shellbit_tile", "", "",
@@ -7987,6 +8532,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/red_shellbit_tile", "", "",
@@ -7998,6 +8544,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/silver_shellbit_tile", "", "",
@@ -8009,6 +8556,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/white_shellbit_tile", "", "",
@@ -8020,6 +8568,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/yellow_shellbit_tile", "", "",
@@ -8031,6 +8580,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/black_shellbit_shell", "total_carnage/black_shellbit_shell", "total_carnage/black_shellbit_shell",
@@ -8042,6 +8592,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/blue_shellbit_shell", "total_carnage/blue_shellbit_shell", "total_carnage/blue_shellbit_shell",
@@ -8053,6 +8604,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/brown_shellbit_shell", "total_carnage/brown_shellbit_shell", "total_carnage/brown_shellbit_shell",
@@ -8064,6 +8616,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/cyan_shellbit_shell", "total_carnage/cyan_shellbit_shell", "total_carnage/cyan_shellbit_shell",
@@ -8075,6 +8628,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/gray_shellbit_shell", "total_carnage/gray_shellbit_shell", "total_carnage/gray_shellbit_shell",
@@ -8086,6 +8640,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/green_shellbit_shell", "total_carnage/green_shellbit_shell", "total_carnage/green_shellbit_shell",
@@ -8097,6 +8652,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/light_blue_shellbit_shell", "total_carnage/light_blue_shellbit_shell", "total_carnage/light_blue_shellbit_shell",
@@ -8108,6 +8664,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/lime_shellbit_shell", "total_carnage/lime_shellbit_shell", "total_carnage/lime_shellbit_shell",
@@ -8119,6 +8676,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/magenta_shellbit_shell", "total_carnage/magenta_shellbit_shell", "total_carnage/magenta_shellbit_shell",
@@ -8130,6 +8688,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/orange_shellbit_shell", "total_carnage/orange_shellbit_shell", "total_carnage/orange_shellbit_shell",
@@ -8141,6 +8700,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/pink_shellbit_shell", "total_carnage/pink_shellbit_shell", "total_carnage/pink_shellbit_shell",
@@ -8152,6 +8712,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/purple_shellbit_shell", "total_carnage/purple_shellbit_shell", "total_carnage/purple_shellbit_shell",
@@ -8163,6 +8724,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/red_shellbit_shell", "total_carnage/red_shellbit_shell", "total_carnage/red_shellbit_shell",
@@ -8174,6 +8736,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/silver_shellbit_shell", "total_carnage/silver_shellbit_shell", "total_carnage/silver_shellbit_shell",
@@ -8185,6 +8748,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/white_shellbit_shell", "total_carnage/white_shellbit_shell", "total_carnage/white_shellbit_shell",
@@ -8196,6 +8760,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/yellow_shellbit_shell", "total_carnage/yellow_shellbit_shell", "total_carnage/yellow_shellbit_shell",
@@ -8207,6 +8772,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/black_spiky_petal", "total_carnage/black_spiky_petal", "total_carnage/black_spiky_petal",
@@ -8218,6 +8784,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/blue_spiky_petal", "total_carnage/blue_spiky_petal", "total_carnage/blue_spiky_petal",
@@ -8229,6 +8796,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/brown_spiky_petal", "total_carnage/brown_spiky_petal", "total_carnage/brown_spiky_petal",
@@ -8240,6 +8808,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/cyan_spiky_petal", "total_carnage/cyan_spiky_petal", "total_carnage/cyan_spiky_petal",
@@ -8251,6 +8820,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/gray_spiky_petal", "total_carnage/gray_spiky_petal", "total_carnage/gray_spiky_petal",
@@ -8262,6 +8832,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/green_spiky_petal", "total_carnage/green_spiky_petal", "total_carnage/green_spiky_petal",
@@ -8273,6 +8844,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/light_blue_spiky_petal", "total_carnage/light_blue_spiky_petal", "total_carnage/light_blue_spiky_petal",
@@ -8284,6 +8856,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/lime_spiky_petal", "total_carnage/lime_spiky_petal", "total_carnage/lime_spiky_petal",
@@ -8295,6 +8868,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/magenta_spiky_petal", "total_carnage/magenta_spiky_petal", "total_carnage/magenta_spiky_petal",
@@ -8306,6 +8880,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/orange_spiky_petal", "total_carnage/orange_spiky_petal", "total_carnage/orange_spiky_petal",
@@ -8317,6 +8892,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/pink_spiky_petal", "total_carnage/pink_spiky_petal", "total_carnage/pink_spiky_petal",
@@ -8328,6 +8904,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/purple_spiky_petal", "total_carnage/purple_spiky_petal", "total_carnage/purple_spiky_petal",
@@ -8339,6 +8916,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/red_spiky_petal", "total_carnage/red_spiky_petal", "total_carnage/red_spiky_petal",
@@ -8350,6 +8928,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/silver_spiky_petal", "total_carnage/silver_spiky_petal", "total_carnage/silver_spiky_petal",
@@ -8361,6 +8940,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/white_spiky_petal", "total_carnage/white_spiky_petal", "total_carnage/white_spiky_petal",
@@ -8372,6 +8952,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/yellow_spiky_petal", "total_carnage/yellow_spiky_petal", "total_carnage/yellow_spiky_petal",
@@ -8383,6 +8964,7 @@ const total_carnage = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/black_spiky_blossom", "", "",
@@ -8394,6 +8976,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/blue_spiky_blossom", "", "",
@@ -8405,6 +8988,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/brown_spiky_blossom", "", "",
@@ -8416,6 +9000,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/cyan_spiky_blossom", "", "",
@@ -8427,6 +9012,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/gray_spiky_blossom", "", "",
@@ -8438,6 +9024,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/green_spiky_blossom", "", "",
@@ -8449,6 +9036,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/light_blue_spiky_blossom", "", "",
@@ -8460,6 +9048,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/lime_spiky_blossom", "", "",
@@ -8471,6 +9060,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/magenta_spiky_blossom", "", "",
@@ -8482,6 +9072,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/orange_spiky_blossom", "", "",
@@ -8493,6 +9084,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/pink_spiky_blossom", "", "",
@@ -8504,6 +9096,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/purple_spiky_blossom", "", "",
@@ -8515,6 +9108,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/red_spiky_blossom", "", "",
@@ -8526,6 +9120,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/silver_spiky_blossom", "", "",
@@ -8537,6 +9132,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/white_spiky_blossom", "", "",
@@ -8548,6 +9144,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/yellow_spiky_blossom", "", "",
@@ -8559,6 +9156,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/black_spiky_petal_block", "", "",
@@ -8570,6 +9168,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/blue_spiky_petal_block", "", "",
@@ -8581,6 +9180,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/brown_spiky_petal_block", "", "",
@@ -8592,6 +9192,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/cyan_spiky_petal_block", "", "",
@@ -8603,6 +9204,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/gray_spiky_petal_block", "", "",
@@ -8614,6 +9216,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/green_spiky_petal_block", "", "",
@@ -8625,6 +9228,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/light_blue_spiky_petal_block", "", "",
@@ -8636,6 +9240,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/lime_spiky_petal_block", "", "",
@@ -8647,6 +9252,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/magenta_spiky_petal_block", "", "",
@@ -8658,6 +9264,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/orange_spiky_petal_block", "", "",
@@ -8669,6 +9276,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/pink_spiky_petal_block", "", "",
@@ -8680,6 +9288,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/purple_spiky_petal_block", "", "",
@@ -8691,6 +9300,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/red_spiky_petal_block", "", "",
@@ -8702,6 +9312,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/silver_spiky_petal_block", "", "",
@@ -8713,6 +9324,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/white_spiky_petal_block", "", "",
@@ -8724,6 +9336,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/yellow_spiky_petal_block", "", "",
@@ -8735,6 +9348,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/iron_slurry_block", "", "",
@@ -8746,6 +9360,7 @@ const total_carnage = [
  	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "blocks",
     "pattern": [
       "total_carnage/iron_slurry", "total_carnage/iron_slurry", "total_carnage/iron_slurry",
@@ -8778,6 +9393,7 @@ const total_carnage = [
 	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/black_stained_crusader_helmet", "minecraft/quartz", "",
@@ -8789,6 +9405,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/blue_stained_crusader_helmet", "minecraft/quartz", "",
@@ -8800,6 +9417,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/brown_stained_crusader_helmet", "minecraft/quartz", "",
@@ -8811,6 +9429,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/cyan_stained_crusader_helmet", "minecraft/quartz", "",
@@ -8822,6 +9441,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/gray_stained_crusader_helmet", "minecraft/quartz", "",
@@ -8833,6 +9453,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/green_stained_crusader_helmet", "minecraft/quartz", "",
@@ -8844,6 +9465,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/light_blue_stained_crusader_helmet", "minecraft/quartz", "",
@@ -8855,6 +9477,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/lime_stained_crusader_helmet", "minecraft/quartz", "",
@@ -8866,6 +9489,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/magenta_stained_crusader_helmet", "minecraft/quartz", "",
@@ -8877,6 +9501,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/orange_stained_crusader_helmet", "minecraft/quartz", "",
@@ -8888,6 +9513,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/pink_stained_crusader_helmet", "minecraft/quartz", "",
@@ -8899,6 +9525,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/purple_stained_crusader_helmet", "minecraft/quartz", "",
@@ -8910,6 +9537,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/red_stained_crusader_helmet", "minecraft/quartz", "",
@@ -8921,6 +9549,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/silver_stained_crusader_helmet", "minecraft/quartz", "",
@@ -8932,6 +9561,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/white_stained_crusader_helmet", "minecraft/quartz", "",
@@ -8943,6 +9573,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/yellow_stained_crusader_helmet", "minecraft/quartz", "",
@@ -8954,6 +9585,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/black_stained_crusader_chestplate", "minecraft/quartz", "",
@@ -8965,6 +9597,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/blue_stained_crusader_chestplate", "minecraft/quartz", "",
@@ -8976,6 +9609,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/brown_stained_crusader_chestplate", "minecraft/quartz", "",
@@ -8987,6 +9621,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/cyan_stained_crusader_chestplate", "minecraft/quartz", "",
@@ -8998,6 +9633,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/gray_stained_crusader_chestplate", "minecraft/quartz", "",
@@ -9009,6 +9645,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/green_stained_crusader_chestplate", "minecraft/quartz", "",
@@ -9020,6 +9657,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/light_blue_stained_crusader_chestplate", "minecraft/quartz", "",
@@ -9031,6 +9669,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/lime_stained_crusader_chestplate", "minecraft/quartz", "",
@@ -9042,6 +9681,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/magenta_stained_crusader_chestplate", "minecraft/quartz", "",
@@ -9053,6 +9693,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/orange_stained_crusader_chestplate", "minecraft/quartz", "",
@@ -9064,6 +9705,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/pink_stained_crusader_chestplate", "minecraft/quartz", "",
@@ -9075,6 +9717,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/purple_stained_crusader_chestplate", "minecraft/quartz", "",
@@ -9086,6 +9729,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/red_stained_crusader_chestplate", "minecraft/quartz", "",
@@ -9097,6 +9741,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/silver_stained_crusader_chestplate", "minecraft/quartz", "",
@@ -9108,6 +9753,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/white_stained_crusader_chestplate", "minecraft/quartz", "",
@@ -9119,6 +9765,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/yellow_stained_crusader_chestplate", "minecraft/quartz", "",
@@ -9130,6 +9777,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/black_stained_crusader_leggings", "minecraft/quartz", "",
@@ -9141,6 +9789,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/blue_stained_crusader_leggings", "minecraft/quartz", "",
@@ -9152,6 +9801,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/brown_stained_crusader_leggings", "minecraft/quartz", "",
@@ -9163,6 +9813,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/cyan_stained_crusader_leggings", "minecraft/quartz", "",
@@ -9174,6 +9825,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/gray_stained_crusader_leggings", "minecraft/quartz", "",
@@ -9185,6 +9837,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/green_stained_crusader_leggings", "minecraft/quartz", "",
@@ -9196,6 +9849,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/light_blue_stained_crusader_leggings", "minecraft/quartz", "",
@@ -9207,6 +9861,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/lime_stained_crusader_leggings", "minecraft/quartz", "",
@@ -9218,6 +9873,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/magenta_stained_crusader_leggings", "minecraft/quartz", "",
@@ -9229,6 +9885,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/orange_stained_crusader_leggings", "minecraft/quartz", "",
@@ -9240,6 +9897,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/pink_stained_crusader_leggings", "minecraft/quartz", "",
@@ -9251,6 +9909,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/purple_stained_crusader_leggings", "minecraft/quartz", "",
@@ -9262,6 +9921,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/red_stained_crusader_leggings", "minecraft/quartz", "",
@@ -9273,6 +9933,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/silver_stained_crusader_leggings", "minecraft/quartz", "",
@@ -9284,6 +9945,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/white_stained_crusader_leggings", "minecraft/quartz", "",
@@ -9295,6 +9957,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/yellow_stained_crusader_leggings", "minecraft/quartz", "",
@@ -9306,6 +9969,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/black_stained_crusader_boots", "minecraft/quartz", "",
@@ -9317,6 +9981,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/blue_stained_crusader_boots", "minecraft/quartz", "",
@@ -9328,6 +9993,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/brown_stained_crusader_boots", "minecraft/quartz", "",
@@ -9339,6 +10005,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/cyan_stained_crusader_boots", "minecraft/quartz", "",
@@ -9350,6 +10017,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/gray_stained_crusader_boots", "minecraft/quartz", "",
@@ -9361,6 +10029,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/green_stained_crusader_boots", "minecraft/quartz", "",
@@ -9372,6 +10041,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/light_blue_stained_crusader_boots", "minecraft/quartz", "",
@@ -9383,6 +10053,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/lime_stained_crusader_boots", "minecraft/quartz", "",
@@ -9394,6 +10065,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/magenta_stained_crusader_boots", "minecraft/quartz", "",
@@ -9405,6 +10077,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/orange_stained_crusader_boots", "minecraft/quartz", "",
@@ -9416,6 +10089,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/pink_stained_crusader_boots", "minecraft/quartz", "",
@@ -9427,6 +10101,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/purple_stained_crusader_boots", "minecraft/quartz", "",
@@ -9438,6 +10113,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/red_stained_crusader_boots", "minecraft/quartz", "",
@@ -9449,6 +10125,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/silver_stained_crusader_boots", "minecraft/quartz", "",
@@ -9460,6 +10137,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/white_stained_crusader_boots", "minecraft/quartz", "",
@@ -9471,6 +10149,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/yellow_stained_crusader_boots", "minecraft/quartz", "",
@@ -9482,6 +10161,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "minecraft/iron_ingot", "minecraft/iron_ingot", "minecraft/iron_ingot",
@@ -9493,6 +10173,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "minecraft/iron_ingot", "minecraft/iron_ingot", "minecraft/iron_ingot",
@@ -9504,6 +10185,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "minecraft/iron_ingot", "minecraft/iron_ingot", "minecraft/iron_ingot",
@@ -9515,6 +10197,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "minecraft/iron_ingot", "minecraft/iron_ingot", "minecraft/iron_ingot",
@@ -9526,6 +10209,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "minecraft/gold_ingot", "minecraft/gold_ingot", "minecraft/gold_ingot",
@@ -9537,6 +10221,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "minecraft/gold_ingot", "minecraft/gold_ingot", "minecraft/gold_ingot",
@@ -9548,6 +10233,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "minecraft/gold_ingot", "minecraft/gold_ingot", "minecraft/gold_ingot",
@@ -9559,6 +10245,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "minecraft/gold_ingot", "minecraft/gold_ingot", "minecraft/gold_ingot",
@@ -9570,6 +10257,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "minecraft/diamond", "minecraft/diamond", "minecraft/diamond",
@@ -9581,6 +10269,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "minecraft/diamond", "minecraft/diamond", "minecraft/diamond",
@@ -9592,6 +10281,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "minecraft/diamond", "minecraft/diamond", "minecraft/diamond",
@@ -9603,6 +10293,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "minecraft/diamond", "minecraft/diamond", "minecraft/diamond",
@@ -9614,6 +10305,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/durasteel_ingot", "total_carnage/durasteel_ingot", "total_carnage/durasteel_ingot",
@@ -9625,6 +10317,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/durasteel_ingot", "total_carnage/durasteel_ingot", "total_carnage/durasteel_ingot",
@@ -9636,6 +10329,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/durasteel_ingot", "total_carnage/durasteel_ingot", "total_carnage/durasteel_ingot",
@@ -9647,6 +10341,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/durasteel_ingot", "total_carnage/durasteel_ingot", "total_carnage/durasteel_ingot",
@@ -9658,6 +10353,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "minecraft/netherite_ingot", "minecraft/netherite_ingot", "minecraft/netherite_ingot",
@@ -9669,6 +10365,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "minecraft/netherite_ingot", "minecraft/netherite_ingot", "minecraft/netherite_ingot",
@@ -9680,6 +10377,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "minecraft/netherite_ingot", "minecraft/netherite_ingot", "minecraft/netherite_ingot",
@@ -9691,6 +10389,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "minecraft/netherite_ingot", "minecraft/netherite_ingot", "minecraft/netherite_ingot",
@@ -9702,6 +10401,7 @@ const total_carnage = [
  	},
 	{
  		"type": "crafting",
+		"tool": "minecraft/crafting_table",
     "genre": "items",
     "pattern": [
       "total_carnage/drained_lantern_of_vengeance", "minecraft/soul_sand", "",
@@ -10486,6 +11186,7 @@ const total_carnage = [
 const useful_sides = [
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/shulker_shell", "minecraft/shulker_shell", "",
@@ -10495,31 +11196,31 @@ const useful_sides = [
 		"result": "useful_sides/undyed_shulker_block",
 		"amount": 1
 	},
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block",  "minecraft/black_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/black_shulker_block", "amount": 1 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block",  "minecraft/blue_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/blue_shulker_block", "amount": 1 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block",  "minecraft/brown_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/brown_shulker_block", "amount": 1 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block",  "minecraft/cyan_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/cyan_shulker_block", "amount": 1 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block",  "minecraft/gray_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/gray_shulker_block", "amount": 1 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block",  "minecraft/green_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/green_shulker_block", "amount": 1 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block", "minecraft/light_blue_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/light_blue_shulker_block", "amount": 1 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block", "minecraft/lime_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/lime_shulker_block", "amount": 1 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block", "minecraft/orange_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/orange_shulker_block", "amount": 1 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block", "minecraft/magenta_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/magenta_shulker_block", "amount": 1 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block", "minecraft/pink_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/pink_shulker_block", "amount": 1 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block", "minecraft/purple_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/purple_shulker_block", "amount": 1 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block", "minecraft/red_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/red_shulker_block", "amount": 1 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block", "minecraft/silver_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/silver_shulker_block", "amount": 1 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block", "minecraft/white_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/white_shulker_block", "amount": 1 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block", "minecraft/yellow_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/yellow_shulker_block", "amount": 1 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/oak_trapdoor", "minecraft/oak_trapdoor", "minecraft/oak_trapdoor", "minecraft/oak_trapdoor", "minecraft/oak_trapdoor", "minecraft/oak_trapdoor", "", "", "" ], "result": "useful_sides/trapdoor_block", "amount": 1 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/spruce_trapdoor", "minecraft/spruce_trapdoor", "minecraft/spruce_trapdoor", "minecraft/spruce_trapdoor", "minecraft/spruce_trapdoor", "minecraft/spruce_trapdoor", "", "", "" ], "result": "useful_sides/spruce_trapdoor_block", "amount": 1 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/birch_trapdoor", "minecraft/birch_trapdoor", "minecraft/birch_trapdoor", "minecraft/birch_trapdoor", "minecraft/birch_trapdoor", "minecraft/birch_trapdoor", "", "", "" ], "result": "useful_sides/birch_trapdoor_block", "amount": 1 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/jungle_trapdoor", "minecraft/jungle_trapdoor", "minecraft/jungle_trapdoor", "minecraft/jungle_trapdoor", "minecraft/jungle_trapdoor", "minecraft/jungle_trapdoor", "", "", "" ], "result": "useful_sides/jungle_trapdoor_block", "amount": 1 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/acacia_trapdoor", "minecraft/acacia_trapdoor", "minecraft/acacia_trapdoor", "minecraft/acacia_trapdoor", "minecraft/acacia_trapdoor", "minecraft/acacia_trapdoor", "", "", "" ], "result": "useful_sides/acacia_trapdoor_block", "amount": 1 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/dark_oak_trapdoor", "minecraft/dark_oak_trapdoor", "minecraft/dark_oak_trapdoor", "minecraft/dark_oak_trapdoor", "minecraft/dark_oak_trapdoor", "minecraft/dark_oak_trapdoor", "", "", "" ], "result": "useful_sides/dark_oak_trapdoor_block", "amount": 1 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/crimson_trapdoor", "minecraft/crimson_trapdoor", "minecraft/crimson_trapdoor", "minecraft/crimson_trapdoor", "minecraft/crimson_trapdoor", "minecraft/crimson_trapdoor", "", "", "" ], "result": "useful_sides/crimson_trapdoor_block", "amount": 1 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/warped_trapdoor", "minecraft/warped_trapdoor", "minecraft/warped_trapdoor", "minecraft/warped_trapdoor", "minecraft/warped_trapdoor", "minecraft/warped_trapdoor", "", "", "" ], "result": "useful_sides/warped_trapdoor_block", "amount": 1 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/mangrove_trapdoor", "minecraft/mangrove_trapdoor", "minecraft/mangrove_trapdoor", "minecraft/mangrove_trapdoor", "minecraft/mangrove_trapdoor", "minecraft/mangrove_trapdoor", "", "", "" ], "result": "useful_sides/mangrove_trapdoor_block", "amount": 1 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block",  "minecraft/black_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/black_shulker_block", "amount": 1 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block",  "minecraft/blue_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/blue_shulker_block", "amount": 1 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block",  "minecraft/brown_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/brown_shulker_block", "amount": 1 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block",  "minecraft/cyan_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/cyan_shulker_block", "amount": 1 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block",  "minecraft/gray_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/gray_shulker_block", "amount": 1 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block",  "minecraft/green_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/green_shulker_block", "amount": 1 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block", "minecraft/light_blue_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/light_blue_shulker_block", "amount": 1 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block", "minecraft/lime_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/lime_shulker_block", "amount": 1 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block", "minecraft/orange_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/orange_shulker_block", "amount": 1 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block", "minecraft/magenta_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/magenta_shulker_block", "amount": 1 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block", "minecraft/pink_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/pink_shulker_block", "amount": 1 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block", "minecraft/purple_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/purple_shulker_block", "amount": 1 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block", "minecraft/red_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/red_shulker_block", "amount": 1 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block", "minecraft/silver_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/silver_shulker_block", "amount": 1 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block", "minecraft/white_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/white_shulker_block", "amount": 1 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "useful_sides/undyed_shulker_block", "minecraft/yellow_dye", "", "", "", "", "", "", "" ], "result": "useful_sides/yellow_shulker_block", "amount": 1 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/oak_trapdoor", "minecraft/oak_trapdoor", "minecraft/oak_trapdoor", "minecraft/oak_trapdoor", "minecraft/oak_trapdoor", "minecraft/oak_trapdoor", "", "", "" ], "result": "useful_sides/trapdoor_block", "amount": 1 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/spruce_trapdoor", "minecraft/spruce_trapdoor", "minecraft/spruce_trapdoor", "minecraft/spruce_trapdoor", "minecraft/spruce_trapdoor", "minecraft/spruce_trapdoor", "", "", "" ], "result": "useful_sides/spruce_trapdoor_block", "amount": 1 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/birch_trapdoor", "minecraft/birch_trapdoor", "minecraft/birch_trapdoor", "minecraft/birch_trapdoor", "minecraft/birch_trapdoor", "minecraft/birch_trapdoor", "", "", "" ], "result": "useful_sides/birch_trapdoor_block", "amount": 1 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/jungle_trapdoor", "minecraft/jungle_trapdoor", "minecraft/jungle_trapdoor", "minecraft/jungle_trapdoor", "minecraft/jungle_trapdoor", "minecraft/jungle_trapdoor", "", "", "" ], "result": "useful_sides/jungle_trapdoor_block", "amount": 1 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/acacia_trapdoor", "minecraft/acacia_trapdoor", "minecraft/acacia_trapdoor", "minecraft/acacia_trapdoor", "minecraft/acacia_trapdoor", "minecraft/acacia_trapdoor", "", "", "" ], "result": "useful_sides/acacia_trapdoor_block", "amount": 1 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/dark_oak_trapdoor", "minecraft/dark_oak_trapdoor", "minecraft/dark_oak_trapdoor", "minecraft/dark_oak_trapdoor", "minecraft/dark_oak_trapdoor", "minecraft/dark_oak_trapdoor", "", "", "" ], "result": "useful_sides/dark_oak_trapdoor_block", "amount": 1 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/crimson_trapdoor", "minecraft/crimson_trapdoor", "minecraft/crimson_trapdoor", "minecraft/crimson_trapdoor", "minecraft/crimson_trapdoor", "minecraft/crimson_trapdoor", "", "", "" ], "result": "useful_sides/crimson_trapdoor_block", "amount": 1 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/warped_trapdoor", "minecraft/warped_trapdoor", "minecraft/warped_trapdoor", "minecraft/warped_trapdoor", "minecraft/warped_trapdoor", "minecraft/warped_trapdoor", "", "", "" ], "result": "useful_sides/warped_trapdoor_block", "amount": 1 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/mangrove_trapdoor", "minecraft/mangrove_trapdoor", "minecraft/mangrove_trapdoor", "minecraft/mangrove_trapdoor", "minecraft/mangrove_trapdoor", "minecraft/mangrove_trapdoor", "", "", "" ], "result": "useful_sides/mangrove_trapdoor_block", "amount": 1 },
   { "type": "stonecutting", "genre": "blocks", "input": "useful_sides/trapdoor_block", "result": "minecraft/oak_trapdoor", "amount": 6 },
   { "type": "stonecutting", "genre": "blocks", "input": "useful_sides/spruce_trapdoor_block", "result": "minecraft/spruce_trapdoor", "amount": 6 },
   { "type": "stonecutting", "genre": "blocks", "input": "useful_sides/birch_trapdoor_block", "result": "minecraft/birch_trapdoor", "amount": 6 },
@@ -11102,6 +11803,7 @@ const useful_sides = [
 const helpful_blocks = [
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/cobblestone", "minecraft/dispenser", "minecraft/cobblestone",
@@ -11113,6 +11815,7 @@ const helpful_blocks = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/cobblestone", "minecraft/cobblestone", "minecraft/cobblestone",
@@ -11124,6 +11827,7 @@ const helpful_blocks = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/smooth_stone", "minecraft/smooth_stone", "minecraft/smooth_stone",
@@ -11135,6 +11839,7 @@ const helpful_blocks = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/smooth_stone", "minecraft/smooth_stone", "minecraft/smooth_stone",
@@ -11146,6 +11851,7 @@ const helpful_blocks = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/smooth_stone", "minecraft/cobblestone", "minecraft/smooth_stone",
@@ -11157,6 +11863,7 @@ const helpful_blocks = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/cobblestone", "minecraft/piston", "minecraft/cobblestone",
@@ -11168,6 +11875,7 @@ const helpful_blocks = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/cobblestone", "minecraft/iron_ingot", "minecraft/cobblestone",
@@ -11179,6 +11887,7 @@ const helpful_blocks = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/cobblestone", "minecraft/hopper", "minecraft/cobblestone",
@@ -11188,24 +11897,25 @@ const helpful_blocks = [
 		"result": "helpful_blocks/cobblestone_mob_filter_block",
 		"amount": 4
 	},
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/black_dye", "minecraft/cobblestone",  "minecraft/black_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone",  "minecraft/black_dye", "minecraft/cobblestone",  "minecraft/black_dye" ], "result": "helpful_blocks/black_cobblestone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/blue_dye", "minecraft/cobblestone",  "minecraft/blue_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone",  "minecraft/blue_dye", "minecraft/cobblestone",  "minecraft/blue_dye" ], "result": "helpful_blocks/blue_cobblestone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/brown_dye", "minecraft/cobblestone",  "minecraft/brown_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone",  "minecraft/brown_dye", "minecraft/cobblestone",  "minecraft/brown_dye" ], "result": "helpful_blocks/brown_cobblestone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/cyan_dye", "minecraft/cobblestone",  "minecraft/cyan_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone",  "minecraft/cyan_dye", "minecraft/cobblestone",  "minecraft/cyan_dye" ], "result": "helpful_blocks/cyan_cobblestone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/gray_dye", "minecraft/cobblestone",  "minecraft/gray_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone",  "minecraft/gray_dye", "minecraft/cobblestone",  "minecraft/gray_dye" ], "result": "helpful_blocks/gray_cobblestone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/green_dye", "minecraft/cobblestone",  "minecraft/green_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone",  "minecraft/green_dye", "minecraft/cobblestone",  "minecraft/green_dye" ], "result": "helpful_blocks/green_cobblestone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/light_blue_dye", "minecraft/cobblestone", "minecraft/light_blue_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone", "minecraft/light_blue_dye", "minecraft/cobblestone", "minecraft/light_blue_dye" ], "result": "helpful_blocks/light_blue_cobblestone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/lime_dye", "minecraft/cobblestone", "minecraft/lime_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone", "minecraft/lime_dye", "minecraft/cobblestone", "minecraft/lime_dye" ], "result": "helpful_blocks/lime_cobblestone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/magenta_dye", "minecraft/cobblestone", "minecraft/magenta_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone", "minecraft/magenta_dye", "minecraft/cobblestone", "minecraft/magenta_dye" ], "result": "helpful_blocks/magenta_cobblestone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/orange_dye", "minecraft/cobblestone", "minecraft/orange_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone", "minecraft/orange_dye", "minecraft/cobblestone", "minecraft/orange_dye" ], "result": "helpful_blocks/orange_cobblestone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/pink_dye", "minecraft/cobblestone", "minecraft/pink_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone", "minecraft/pink_dye", "minecraft/cobblestone", "minecraft/pink_dye" ], "result": "helpful_blocks/pink_cobblestone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/purple_dye", "minecraft/cobblestone", "minecraft/purple_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone", "minecraft/purple_dye", "minecraft/cobblestone", "minecraft/purple_dye" ], "result": "helpful_blocks/purple_cobblestone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/red_dye", "minecraft/cobblestone", "minecraft/red_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone", "minecraft/red_dye", "minecraft/cobblestone", "minecraft/red_dye" ], "result": "helpful_blocks/red_cobblestone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/silver_dye", "minecraft/cobblestone", "minecraft/silver_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone", "minecraft/silver_dye", "minecraft/cobblestone", "minecraft/silver_dye" ], "result": "helpful_blocks/silver_cobblestone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/white_dye", "minecraft/cobblestone", "minecraft/white_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone", "minecraft/white_dye", "minecraft/cobblestone", "minecraft/white_dye" ], "result": "helpful_blocks/white_cobblestone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/yellow_dye", "minecraft/cobblestone", "minecraft/yellow_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone", "minecraft/yellow_dye", "minecraft/cobblestone", "minecraft/yellow_dye" ], "result": "helpful_blocks/yellow_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/black_dye", "minecraft/cobblestone",  "minecraft/black_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone",  "minecraft/black_dye", "minecraft/cobblestone",  "minecraft/black_dye" ], "result": "helpful_blocks/black_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/blue_dye", "minecraft/cobblestone",  "minecraft/blue_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone",  "minecraft/blue_dye", "minecraft/cobblestone",  "minecraft/blue_dye" ], "result": "helpful_blocks/blue_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/brown_dye", "minecraft/cobblestone",  "minecraft/brown_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone",  "minecraft/brown_dye", "minecraft/cobblestone",  "minecraft/brown_dye" ], "result": "helpful_blocks/brown_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/cyan_dye", "minecraft/cobblestone",  "minecraft/cyan_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone",  "minecraft/cyan_dye", "minecraft/cobblestone",  "minecraft/cyan_dye" ], "result": "helpful_blocks/cyan_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/gray_dye", "minecraft/cobblestone",  "minecraft/gray_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone",  "minecraft/gray_dye", "minecraft/cobblestone",  "minecraft/gray_dye" ], "result": "helpful_blocks/gray_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/green_dye", "minecraft/cobblestone",  "minecraft/green_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone",  "minecraft/green_dye", "minecraft/cobblestone",  "minecraft/green_dye" ], "result": "helpful_blocks/green_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/light_blue_dye", "minecraft/cobblestone", "minecraft/light_blue_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone", "minecraft/light_blue_dye", "minecraft/cobblestone", "minecraft/light_blue_dye" ], "result": "helpful_blocks/light_blue_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/lime_dye", "minecraft/cobblestone", "minecraft/lime_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone", "minecraft/lime_dye", "minecraft/cobblestone", "minecraft/lime_dye" ], "result": "helpful_blocks/lime_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/magenta_dye", "minecraft/cobblestone", "minecraft/magenta_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone", "minecraft/magenta_dye", "minecraft/cobblestone", "minecraft/magenta_dye" ], "result": "helpful_blocks/magenta_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/orange_dye", "minecraft/cobblestone", "minecraft/orange_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone", "minecraft/orange_dye", "minecraft/cobblestone", "minecraft/orange_dye" ], "result": "helpful_blocks/orange_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/pink_dye", "minecraft/cobblestone", "minecraft/pink_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone", "minecraft/pink_dye", "minecraft/cobblestone", "minecraft/pink_dye" ], "result": "helpful_blocks/pink_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/purple_dye", "minecraft/cobblestone", "minecraft/purple_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone", "minecraft/purple_dye", "minecraft/cobblestone", "minecraft/purple_dye" ], "result": "helpful_blocks/purple_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/red_dye", "minecraft/cobblestone", "minecraft/red_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone", "minecraft/red_dye", "minecraft/cobblestone", "minecraft/red_dye" ], "result": "helpful_blocks/red_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/silver_dye", "minecraft/cobblestone", "minecraft/silver_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone", "minecraft/silver_dye", "minecraft/cobblestone", "minecraft/silver_dye" ], "result": "helpful_blocks/silver_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/white_dye", "minecraft/cobblestone", "minecraft/white_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone", "minecraft/white_dye", "minecraft/cobblestone", "minecraft/white_dye" ], "result": "helpful_blocks/white_cobblestone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/yellow_dye", "minecraft/cobblestone", "minecraft/yellow_dye", "minecraft/cobblestone", "minecraft/redstone_dust", "minecraft/cobblestone", "minecraft/yellow_dye", "minecraft/cobblestone", "minecraft/yellow_dye" ], "result": "helpful_blocks/yellow_cobblestone_gate_block", "amount": 4 },
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/cobbled_deepslate", "minecraft/dispenser", "minecraft/cobbled_deepslate",
@@ -11217,6 +11927,7 @@ const helpful_blocks = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/cobbled_deepslate", "minecraft/cobbled_deepslate", "minecraft/cobbled_deepslate",
@@ -11228,6 +11939,7 @@ const helpful_blocks = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/smooth_stone", "minecraft/smooth_stone", "minecraft/smooth_stone",
@@ -11239,6 +11951,7 @@ const helpful_blocks = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/smooth_stone", "minecraft/smooth_stone", "minecraft/smooth_stone",
@@ -11250,6 +11963,7 @@ const helpful_blocks = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/smooth_stone", "minecraft/cobbled_deepslate", "minecraft/smooth_stone",
@@ -11261,6 +11975,7 @@ const helpful_blocks = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/cobbled_deepslate", "minecraft/piston", "minecraft/cobbled_deepslate",
@@ -11272,6 +11987,7 @@ const helpful_blocks = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/cobbled_deepslate", "minecraft/iron_ingot", "minecraft/cobbled_deepslate",
@@ -11283,6 +11999,7 @@ const helpful_blocks = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/cobbled_deepslate", "minecraft/hopper", "minecraft/cobbled_deepslate",
@@ -11292,24 +12009,25 @@ const helpful_blocks = [
 		"result": "helpful_blocks/cobbled_deepslate_mob_filter_block",
 		"amount": 4
 	},
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/black_dye", "minecraft/cobbled_deepslate",  "minecraft/black_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate",  "minecraft/black_dye", "minecraft/cobbled_deepslate",  "minecraft/black_dye" ], "result": "helpful_blocks/black_cobbled_deepslate_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/blue_dye", "minecraft/cobbled_deepslate",  "minecraft/blue_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate",  "minecraft/blue_dye", "minecraft/cobbled_deepslate",  "minecraft/blue_dye" ], "result": "helpful_blocks/blue_cobbled_deepslate_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/brown_dye", "minecraft/cobbled_deepslate",  "minecraft/brown_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate",  "minecraft/brown_dye", "minecraft/cobbled_deepslate",  "minecraft/brown_dye" ], "result": "helpful_blocks/brown_cobbled_deepslate_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/cyan_dye", "minecraft/cobbled_deepslate",  "minecraft/cyan_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate",  "minecraft/cyan_dye", "minecraft/cobbled_deepslate",  "minecraft/cyan_dye" ], "result": "helpful_blocks/cyan_cobbled_deepslate_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/gray_dye", "minecraft/cobbled_deepslate",  "minecraft/gray_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate",  "minecraft/gray_dye", "minecraft/cobbled_deepslate",  "minecraft/gray_dye" ], "result": "helpful_blocks/gray_cobbled_deepslate_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/green_dye", "minecraft/cobbled_deepslate",  "minecraft/green_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate",  "minecraft/green_dye", "minecraft/cobbled_deepslate",  "minecraft/green_dye" ], "result": "helpful_blocks/green_cobbled_deepslate_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/light_blue_dye", "minecraft/cobbled_deepslate", "minecraft/light_blue_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate", "minecraft/light_blue_dye", "minecraft/cobbled_deepslate", "minecraft/light_blue_dye" ], "result": "helpful_blocks/light_blue_cobbled_deepslate_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/lime_dye", "minecraft/cobbled_deepslate", "minecraft/lime_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate", "minecraft/lime_dye", "minecraft/cobbled_deepslate", "minecraft/lime_dye" ], "result": "helpful_blocks/lime_cobbled_deepslate_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/magenta_dye", "minecraft/cobbled_deepslate", "minecraft/magenta_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate", "minecraft/magenta_dye", "minecraft/cobbled_deepslate", "minecraft/magenta_dye" ], "result": "helpful_blocks/magenta_cobbled_deepslate_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/orange_dye", "minecraft/cobbled_deepslate", "minecraft/orange_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate", "minecraft/orange_dye", "minecraft/cobbled_deepslate", "minecraft/orange_dye" ], "result": "helpful_blocks/orange_cobbled_deepslate_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/pink_dye", "minecraft/cobbled_deepslate", "minecraft/pink_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate", "minecraft/pink_dye", "minecraft/cobbled_deepslate", "minecraft/pink_dye" ], "result": "helpful_blocks/pink_cobbled_deepslate_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/purple_dye", "minecraft/cobbled_deepslate", "minecraft/purple_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate", "minecraft/purple_dye", "minecraft/cobbled_deepslate", "minecraft/purple_dye" ], "result": "helpful_blocks/purple_cobbled_deepslate_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/red_dye", "minecraft/cobbled_deepslate", "minecraft/red_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate", "minecraft/red_dye", "minecraft/cobbled_deepslate", "minecraft/red_dye" ], "result": "helpful_blocks/red_cobbled_deepslate_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/silver_dye", "minecraft/cobbled_deepslate", "minecraft/silver_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate", "minecraft/silver_dye", "minecraft/cobbled_deepslate", "minecraft/silver_dye" ], "result": "helpful_blocks/silver_cobbled_deepslate_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/white_dye", "minecraft/cobbled_deepslate", "minecraft/white_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate", "minecraft/white_dye", "minecraft/cobbled_deepslate", "minecraft/white_dye" ], "result": "helpful_blocks/white_cobbled_deepslate_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/yellow_dye", "minecraft/cobbled_deepslate", "minecraft/yellow_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate", "minecraft/yellow_dye", "minecraft/cobbled_deepslate", "minecraft/yellow_dye" ], "result": "helpful_blocks/yellow_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/black_dye", "minecraft/cobbled_deepslate",  "minecraft/black_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate",  "minecraft/black_dye", "minecraft/cobbled_deepslate",  "minecraft/black_dye" ], "result": "helpful_blocks/black_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/blue_dye", "minecraft/cobbled_deepslate",  "minecraft/blue_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate",  "minecraft/blue_dye", "minecraft/cobbled_deepslate",  "minecraft/blue_dye" ], "result": "helpful_blocks/blue_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/brown_dye", "minecraft/cobbled_deepslate",  "minecraft/brown_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate",  "minecraft/brown_dye", "minecraft/cobbled_deepslate",  "minecraft/brown_dye" ], "result": "helpful_blocks/brown_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/cyan_dye", "minecraft/cobbled_deepslate",  "minecraft/cyan_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate",  "minecraft/cyan_dye", "minecraft/cobbled_deepslate",  "minecraft/cyan_dye" ], "result": "helpful_blocks/cyan_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/gray_dye", "minecraft/cobbled_deepslate",  "minecraft/gray_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate",  "minecraft/gray_dye", "minecraft/cobbled_deepslate",  "minecraft/gray_dye" ], "result": "helpful_blocks/gray_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/green_dye", "minecraft/cobbled_deepslate",  "minecraft/green_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate",  "minecraft/green_dye", "minecraft/cobbled_deepslate",  "minecraft/green_dye" ], "result": "helpful_blocks/green_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/light_blue_dye", "minecraft/cobbled_deepslate", "minecraft/light_blue_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate", "minecraft/light_blue_dye", "minecraft/cobbled_deepslate", "minecraft/light_blue_dye" ], "result": "helpful_blocks/light_blue_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/lime_dye", "minecraft/cobbled_deepslate", "minecraft/lime_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate", "minecraft/lime_dye", "minecraft/cobbled_deepslate", "minecraft/lime_dye" ], "result": "helpful_blocks/lime_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/magenta_dye", "minecraft/cobbled_deepslate", "minecraft/magenta_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate", "minecraft/magenta_dye", "minecraft/cobbled_deepslate", "minecraft/magenta_dye" ], "result": "helpful_blocks/magenta_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/orange_dye", "minecraft/cobbled_deepslate", "minecraft/orange_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate", "minecraft/orange_dye", "minecraft/cobbled_deepslate", "minecraft/orange_dye" ], "result": "helpful_blocks/orange_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/pink_dye", "minecraft/cobbled_deepslate", "minecraft/pink_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate", "minecraft/pink_dye", "minecraft/cobbled_deepslate", "minecraft/pink_dye" ], "result": "helpful_blocks/pink_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/purple_dye", "minecraft/cobbled_deepslate", "minecraft/purple_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate", "minecraft/purple_dye", "minecraft/cobbled_deepslate", "minecraft/purple_dye" ], "result": "helpful_blocks/purple_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/red_dye", "minecraft/cobbled_deepslate", "minecraft/red_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate", "minecraft/red_dye", "minecraft/cobbled_deepslate", "minecraft/red_dye" ], "result": "helpful_blocks/red_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/silver_dye", "minecraft/cobbled_deepslate", "minecraft/silver_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate", "minecraft/silver_dye", "minecraft/cobbled_deepslate", "minecraft/silver_dye" ], "result": "helpful_blocks/silver_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/white_dye", "minecraft/cobbled_deepslate", "minecraft/white_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate", "minecraft/white_dye", "minecraft/cobbled_deepslate", "minecraft/white_dye" ], "result": "helpful_blocks/white_cobbled_deepslate_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/yellow_dye", "minecraft/cobbled_deepslate", "minecraft/yellow_dye", "minecraft/cobbled_deepslate", "minecraft/redstone_dust", "minecraft/cobbled_deepslate", "minecraft/yellow_dye", "minecraft/cobbled_deepslate", "minecraft/yellow_dye" ], "result": "helpful_blocks/yellow_cobbled_deepslate_gate_block", "amount": 4 },
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/dripstone_block", "minecraft/dispenser", "minecraft/dripstone_block",
@@ -11321,6 +12039,7 @@ const helpful_blocks = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/dripstone_block", "minecraft/dripstone_block", "minecraft/dripstone_block",
@@ -11332,6 +12051,7 @@ const helpful_blocks = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/smooth_stone", "minecraft/smooth_stone", "minecraft/smooth_stone",
@@ -11343,6 +12063,7 @@ const helpful_blocks = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/smooth_stone", "minecraft/smooth_stone", "minecraft/smooth_stone",
@@ -11354,6 +12075,7 @@ const helpful_blocks = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/smooth_stone", "minecraft/dripstone_block", "minecraft/smooth_stone",
@@ -11365,6 +12087,7 @@ const helpful_blocks = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/dripstone_block", "minecraft/piston", "minecraft/dripstone_block",
@@ -11376,6 +12099,7 @@ const helpful_blocks = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/dripstone_block", "minecraft/iron_ingot", "minecraft/dripstone_block",
@@ -11387,6 +12111,7 @@ const helpful_blocks = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "blocks",
 		"pattern": [
 			"minecraft/dripstone_block", "minecraft/hopper", "minecraft/dripstone_block",
@@ -11396,27 +12121,28 @@ const helpful_blocks = [
 		"result": "helpful_blocks/dripstone_mob_filter_block",
 		"amount": 4
 	},
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/black_dye", "minecraft/dripstone_block", "minecraft/black_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/black_dye", "minecraft/dripstone_block", "minecraft/black_dye" ], "result": "helpful_blocks/black_dripstone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/blue_dye", "minecraft/dripstone_block", "minecraft/blue_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/blue_dye", "minecraft/dripstone_block", "minecraft/blue_dye" ], "result": "helpful_blocks/blue_dripstone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/brown_dye", "minecraft/dripstone_block", "minecraft/brown_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/brown_dye", "minecraft/dripstone_block", "minecraft/brown_dye" ], "result": "helpful_blocks/brown_dripstone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/cyan_dye", "minecraft/dripstone_block", "minecraft/cyan_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/cyan_dye", "minecraft/dripstone_block", "minecraft/cyan_dye" ], "result": "helpful_blocks/cyan_dripstone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/gray_dye", "minecraft/dripstone_block", "minecraft/gray_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/gray_dye", "minecraft/dripstone_block", "minecraft/gray_dye" ], "result": "helpful_blocks/gray_dripstone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/green_dye", "minecraft/dripstone_block", "minecraft/green_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/green_dye", "minecraft/dripstone_block", "minecraft/green_dye" ], "result": "helpful_blocks/green_dripstone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/light_blue_dye", "minecraft/dripstone_block", "minecraft/light_blue_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/light_blue_dye", "minecraft/dripstone_block", "minecraft/light_blue_dye" ], "result": "helpful_blocks/light_blue_dripstone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/lime_dye", "minecraft/dripstone_block", "minecraft/lime_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/lime_dye", "minecraft/dripstone_block", "minecraft/lime_dye" ], "result": "helpful_blocks/lime_dripstone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/magenta_dye", "minecraft/dripstone_block", "minecraft/magenta_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/magenta_dye", "minecraft/dripstone_block", "minecraft/magenta_dye" ], "result": "helpful_blocks/magenta_dripstone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/orange_dye", "minecraft/dripstone_block", "minecraft/orange_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/orange_dye", "minecraft/dripstone_block", "minecraft/orange_dye" ], "result": "helpful_blocks/orange_dripstone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/pink_dye", "minecraft/dripstone_block", "minecraft/pink_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/pink_dye", "minecraft/dripstone_block", "minecraft/pink_dye" ], "result": "helpful_blocks/pink_dripstone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/purple_dye", "minecraft/dripstone_block", "minecraft/purple_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/purple_dye", "minecraft/dripstone_block", "minecraft/purple_dye" ], "result": "helpful_blocks/purple_dripstone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/red_dye", "minecraft/dripstone_block", "minecraft/red_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/red_dye", "minecraft/dripstone_block", "minecraft/red_dye" ], "result": "helpful_blocks/red_dripstone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/silver_dye", "minecraft/dripstone_block", "minecraft/silver_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/silver_dye", "minecraft/dripstone_block", "minecraft/silver_dye" ], "result": "helpful_blocks/silver_dripstone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/white_dye", "minecraft/dripstone_block", "minecraft/white_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/white_dye", "minecraft/dripstone_block", "minecraft/white_dye" ], "result": "helpful_blocks/white_dripstone_gate_block", "amount": 4 },
-	{ "type": "crafting", "genre": "blocks", "pattern": [ "minecraft/yellow_dye", "minecraft/dripstone_block", "minecraft/yellow_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/yellow_dye", "minecraft/dripstone_block", "minecraft/yellow_dye" ], "result": "helpful_blocks/yellow_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/black_dye", "minecraft/dripstone_block", "minecraft/black_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/black_dye", "minecraft/dripstone_block", "minecraft/black_dye" ], "result": "helpful_blocks/black_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/blue_dye", "minecraft/dripstone_block", "minecraft/blue_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/blue_dye", "minecraft/dripstone_block", "minecraft/blue_dye" ], "result": "helpful_blocks/blue_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/brown_dye", "minecraft/dripstone_block", "minecraft/brown_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/brown_dye", "minecraft/dripstone_block", "minecraft/brown_dye" ], "result": "helpful_blocks/brown_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/cyan_dye", "minecraft/dripstone_block", "minecraft/cyan_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/cyan_dye", "minecraft/dripstone_block", "minecraft/cyan_dye" ], "result": "helpful_blocks/cyan_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/gray_dye", "minecraft/dripstone_block", "minecraft/gray_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/gray_dye", "minecraft/dripstone_block", "minecraft/gray_dye" ], "result": "helpful_blocks/gray_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/green_dye", "minecraft/dripstone_block", "minecraft/green_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/green_dye", "minecraft/dripstone_block", "minecraft/green_dye" ], "result": "helpful_blocks/green_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/light_blue_dye", "minecraft/dripstone_block", "minecraft/light_blue_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/light_blue_dye", "minecraft/dripstone_block", "minecraft/light_blue_dye" ], "result": "helpful_blocks/light_blue_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/lime_dye", "minecraft/dripstone_block", "minecraft/lime_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/lime_dye", "minecraft/dripstone_block", "minecraft/lime_dye" ], "result": "helpful_blocks/lime_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/magenta_dye", "minecraft/dripstone_block", "minecraft/magenta_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/magenta_dye", "minecraft/dripstone_block", "minecraft/magenta_dye" ], "result": "helpful_blocks/magenta_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/orange_dye", "minecraft/dripstone_block", "minecraft/orange_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/orange_dye", "minecraft/dripstone_block", "minecraft/orange_dye" ], "result": "helpful_blocks/orange_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/pink_dye", "minecraft/dripstone_block", "minecraft/pink_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/pink_dye", "minecraft/dripstone_block", "minecraft/pink_dye" ], "result": "helpful_blocks/pink_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/purple_dye", "minecraft/dripstone_block", "minecraft/purple_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/purple_dye", "minecraft/dripstone_block", "minecraft/purple_dye" ], "result": "helpful_blocks/purple_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/red_dye", "minecraft/dripstone_block", "minecraft/red_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/red_dye", "minecraft/dripstone_block", "minecraft/red_dye" ], "result": "helpful_blocks/red_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/silver_dye", "minecraft/dripstone_block", "minecraft/silver_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/silver_dye", "minecraft/dripstone_block", "minecraft/silver_dye" ], "result": "helpful_blocks/silver_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/white_dye", "minecraft/dripstone_block", "minecraft/white_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/white_dye", "minecraft/dripstone_block", "minecraft/white_dye" ], "result": "helpful_blocks/white_dripstone_gate_block", "amount": 4 },
+	{ "type": "crafting", "tool": "minecraft/crafting_table", "genre": "blocks", "pattern": [ "minecraft/yellow_dye", "minecraft/dripstone_block", "minecraft/yellow_dye", "minecraft/dripstone_block", "minecraft/redstone_dust", "minecraft/dripstone_block", "minecraft/yellow_dye", "minecraft/dripstone_block", "minecraft/yellow_dye" ], "result": "helpful_blocks/yellow_dripstone_gate_block", "amount": 4 },
 ]
 
 const boomerangs = [
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/oak_planks", "minecraft/leather", "",
@@ -11428,6 +12154,7 @@ const boomerangs = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/cobblestone", "minecraft/leather", "",
@@ -11439,6 +12166,7 @@ const boomerangs = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/iron_ingot", "minecraft/leather", "",
@@ -11450,6 +12178,7 @@ const boomerangs = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/gold_ingot", "minecraft/leather", "",
@@ -11461,6 +12190,7 @@ const boomerangs = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/diamond", "minecraft/leather", "",
@@ -11472,6 +12202,7 @@ const boomerangs = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/netherite_ingot", "minecraft/leather", "",
@@ -11483,6 +12214,7 @@ const boomerangs = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"boomerangs/gold_boomerang", "minecraft/blaze_rod", "",
@@ -11494,6 +12226,7 @@ const boomerangs = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"minecraft/ice", "minecraft/ice", "minecraft/ice",
@@ -11505,6 +12238,7 @@ const boomerangs = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"boomerangs/iron_boomerang", "minecraft/fishing_rod", "",
@@ -11516,6 +12250,7 @@ const boomerangs = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"boomerangs/iron_boomerang", "minecraft/hopper", "",
@@ -11527,6 +12262,7 @@ const boomerangs = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"boomerangs/wooden_boomerang", "minecraft/tnt", "",
@@ -11538,6 +12274,7 @@ const boomerangs = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"boomerangs/netherite_boomerang", "minecraft/nether_star", "",
@@ -11549,6 +12286,7 @@ const boomerangs = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"boomerangs/iron_boomerang", "minecraft/minecraft/popped_chorus_fruit", "",
@@ -11560,6 +12298,7 @@ const boomerangs = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"boomerangs/iron_boomerang", "minecraft/shulker_shell", "",
@@ -11571,6 +12310,7 @@ const boomerangs = [
 	},
 	{
 		"type": "crafting",
+		"tool": "minecraft/crafting_table",
 		"genre": "items",
 		"pattern": [
 			"boomerangs/netherite_boomerang", "minecraft/wither_skeleton_head", "",

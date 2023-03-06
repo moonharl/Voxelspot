@@ -12,7 +12,7 @@ var ingSpan = document.getElementById('hoverSpan');
 
 ing.forEach(cell => {
   cell.addEventListener('mouseenter', event => {
-    hov.style.display = 'flex';
+    cell.style.backgroundImage != '' ? hov.style.display = 'flex' : hov.style.display = 'none';;
     ingImg.style.backgroundImage = cell.style.backgroundImage;
     ingSpan.textContent = cell.style.backgroundImage.replaceAll('url("../images/crafting/', '').replaceAll('.png")', '');
   });

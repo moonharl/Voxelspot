@@ -8,6 +8,7 @@
     <script src="scripts/recipe_reader.js" type="text/javascript" defer></script>
     <script src="scripts/recipe_searchbar.js" type="text/javascript" defer></script>
     <script src="scripts/hover_modal.js" type="text/javascript" defer></script>
+    <script src="scripts/modal.js" type="text/javascript" defer></script>
     <link rel="shortcut icon" href="../images/icons/favicon_craftrock.png" type="image/x-icon">
     <link rel="stylesheet" href="styles/styles.css">
     <link rel="stylesheet" href="styles/crafting.css">
@@ -29,6 +30,17 @@
     <div class="hoverModal">
       <div id="hoverImg"></div>
       <span id="hoverSpan">Text Here</span>
+    </div>
+    <div class="modal">
+      <div class="modalMain">
+        <h1>Type</h1>
+        <pre id="craftingType">Type</pre>
+        <div id="typesList"></div>
+        <h1>Ingredients</h1>
+        <div id="ingredientsList"></div>
+        <h1>Result</h1>
+        <pre id="craftingResult">Result</pre>
+      </div>
     </div>
 	</body>
 </html>
